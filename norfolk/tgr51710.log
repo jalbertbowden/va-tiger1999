@@ -1,0 +1,97 @@
+New Process started on 3/24 at 11:35
+TIGER 99
+directory F:\1999\norfolk\roads\ created
+Wrote 7970 Type A nodes to shape F:\1999\norfolk\roads\tgr51710ndA 
+Wrote 11467 Type A lines to shape F:\1999\norfolk\roads\tgr51710lkA
+directory F:\1999\norfolk\rails\ created
+Wrote 355 Type B nodes to shape F:\1999\norfolk\rails\tgr51710ndB 
+Wrote 367 Type B lines to shape F:\1999\norfolk\rails\tgr51710lkB
+directory F:\1999\norfolk\nonvisible\ created
+Wrote 1466 Type F nodes to shape F:\1999\norfolk\nonvisible\tgr51710ndF 
+Wrote 991 Type F lines to shape F:\1999\norfolk\nonvisible\tgr51710lkF
+directory F:\1999\norfolk\hydrography\ created
+Wrote 683 Type H nodes to shape F:\1999\norfolk\hydrography\tgr51710ndH 
+Wrote 703 Type H lines to shape F:\1999\norfolk\hydrography\tgr51710lkH
+directory F:\1999\norfolk\roads\ not created
+Wrote 1214 Alternate Feature Name records to file F:\1999\norfolk\roads\tgr51710alt.dbf
+directory F:\1999\norfolk\roads\ not created
+Wrote 132 Additional Address Information records to file F:\1999\norfolk\roads\tgr51710add2.dbf
+directory F:\1999\norfolk\roads\ not created
+Wrote 9953 Zip+4 records to file F:\1999\norfolk\roads\tgr51710zip.dbf
+directory F:\1999\norfolk\voting00\ created
+Wrote 62 polygons to F:\1999\norfolk\voting00\tgr51710vot00.shp
+directory F:\1999\norfolk\kgl\ created
+Wrote 27 polygons to F:\1999\norfolk\kgl\tgr51710kgl.shp
+directory F:\1999\norfolk\kgl\ not created
+Wrote 30 Key Geographic Location address records to file F:\1999\norfolk\kgl\tgr51710add.dbf
+directory F:\1999\norfolk\landmarks\ created
+Wrote 424 polygons to F:\1999\norfolk\landmarks\tgr51710lpy.shp
+directory F:\1999\norfolk\landmarks\ not created
+Wrote 0 records to file F:\1999\norfolk\landmarks\tgr51710lpy2.dbf
+directory F:\1999\norfolk\landmarks\ not created
+Wrote 7 records to file F:\1999\norfolk\landmarks\tgr51710lpy3.dbf
+directory F:\1999\norfolk\landmarkpts\ created
+Wrote 5 Landmark points to shape F:\1999\norfolk\landmarkpts\tgr51710lpt.shp
+directory F:\1999\norfolk\county90\ created
+Wrote 1 polygons to F:\1999\norfolk\county90\tgr51710cty.shp
+directory F:\1999\norfolk\county00\ created
+Wrote 1 polygons to F:\1999\norfolk\county00\tgr51710cty00.shp
+directory F:\1999\norfolk\tracts90\ created
+Wrote 90 polygons to F:\1999\norfolk\tracts90\tgr51710trt.shp
+directory F:\1999\norfolk\tracts00\ created
+Wrote 84 polygons to F:\1999\norfolk\tracts00\tgr51710trt00.shp
+directory F:\1999\norfolk\blkgrps90\ created
+Wrote 275 polygons to F:\1999\norfolk\blkgrps90\tgr51710grp.shp
+directory F:\1999\norfolk\blkgrps00\ created
+Wrote 188 polygons to F:\1999\norfolk\blkgrps00\tgr51710grp00.shp
+directory F:\1999\norfolk\blocks90\ created
+Wrote 3580 polygons to F:\1999\norfolk\blocks90\tgr51710blk.shp
+There are no Census Blocks 2000 for this file
+directory F:\1999\norfolk\places90\ created
+Wrote 1 polygons to F:\1999\norfolk\places90\tgr51710plc.shp
+directory F:\1999\norfolk\divisions90\ created
+Wrote 1 polygons to F:\1999\norfolk\divisions90\tgr51710ccd.shp
+There are no AIANHH 90 records
+directory F:\1999\norfolk\taz\ created
+Wrote 204 polygons to F:\1999\norfolk\taz\tgr51710taz.shp
+directory F:\1999\norfolk\urban\ created
+Wrote 1 polygons to F:\1999\norfolk\urban\tgr51710urb.shp
+There are no Consolidated City records
+There are no Elementary School records
+There are no Secondary School records
+directory F:\1999\norfolk\unified\ created
+Wrote 1 polygons to F:\1999\norfolk\unified\tgr51710uni.shp
+directory F:\1999\norfolk\places00\ created
+Wrote 1 polygons to F:\1999\norfolk\places00\tgr51710plc00.shp
+directory F:\1999\norfolk\divisions00\ created
+Wrote 1 polygons to F:\1999\norfolk\divisions00\tgr51710ccd00.shp
+No AIR polygons found.  You might try turning off the water polygon clipping option
+There are no ANRC Records in record type 3
+directory F:\1999\norfolk\water\ created
+Wrote 19 polygons to F:\1999\norfolk\water\tgr51710wat.shp
+directory F:\1999\norfolk\msa00\ created
+Wrote 1 polygons to F:\1999\norfolk\msa00\tgr51710msa00.shp
+There are no PMSA records
+directory F:\1999\norfolk\congress\ created
+Wrote 2 polygons to F:\1999\norfolk\congress\tgr51710cdc.shp
+directory F:\1999\norfolk\106congress\ created
+Wrote 2 polygons to F:\1999\norfolk\106congress\tgr51710cd106.shp
+directory F:\1999\norfolk\statelower\ created
+Wrote 5 polygons to F:\1999\norfolk\statelower\tgr51710sldl.shp
+directory F:\1999\norfolk\stateupper\ created
+Wrote 2 polygons to F:\1999\norfolk\stateupper\tgr51710sldu.shp
+There are no AITS records
+There are no Urban Growth Area records
+directory F:\1999\norfolk\collectblks\ created
+Wrote 3776 polygons to F:\1999\norfolk\collectblks\tgr51710colblk.shp
+directory F:\1999\norfolk\alllines\ created
+Wrote 8818 nodes to shape F:\1999\norfolk\alllines\tgr51710nodes.shp
+Wrote 13528 lines to shape F:\1999\norfolk\alllines\tgr51710links.shp
+directory F:\1999\norfolk\centroids\ created
+Wrote 4719 Polygon Centroids to shape F:\1999\norfolk\centroids\tgr51710cen.shp
+directory F:\1999\norfolk\allpolys\ created
+Wrote 4719 polygons to F:\1999\norfolk\allpolys\tgr51710all.shp
+Finished
+Process ended on 3/24 at 11:35
+
+
