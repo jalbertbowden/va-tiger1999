@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "GIST_ID": 1, "CFCC": "D25", "NAME": "Norfolk International Terminal" }, "geometry": { "type": "Point", "coordinates": [ -76.329132, 36.915575 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "GIST_ID": 2, "CFCC": "D25", "NAME": "Noaa Atlantic Marine Center (N" }, "geometry": { "type": "Point", "coordinates": [ -76.298172, 36.853332 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "GIST_ID": 3, "CFCC": "D25", "NAME": "Military" }, "geometry": { "type": "Point", "coordinates": [ -76.328796, 36.947105 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "GIST_ID": 4, "CFCC": "D25", "NAME": "Norfolk Naval Station (Pier 4)" }, "geometry": { "type": "Point", "coordinates": [ -76.330423, 36.946859 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "GIST_ID": 5, "CFCC": "D25", "NAME": "Military" }, "geometry": { "type": "Point", "coordinates": [ -76.317884, 36.865777 ] } }
+
+]
+}
