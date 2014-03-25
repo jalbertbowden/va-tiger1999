@@ -1,0 +1,1125 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "POLYID": 2, "CENID": "C6906", "LONGITUDE": -78.159952, "LATITUDE": 39.202801 }, "geometry": { "type": "Point", "coordinates": [ -78.159952, 39.202801 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "POLYID": 3, "CENID": "C6906", "LONGITUDE": -78.169704, "LATITUDE": 39.198308 }, "geometry": { "type": "Point", "coordinates": [ -78.169704, 39.198308 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "POLYID": 4, "CENID": "C6906", "LONGITUDE": -78.162012, "LATITUDE": 39.200386 }, "geometry": { "type": "Point", "coordinates": [ -78.162012, 39.200386 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "POLYID": 5, "CENID": "C6906", "LONGITUDE": -78.155387, "LATITUDE": 39.200716 }, "geometry": { "type": "Point", "coordinates": [ -78.155387, 39.200716 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "POLYID": 6, "CENID": "C6906", "LONGITUDE": -78.176768, "LATITUDE": 39.201739 }, "geometry": { "type": "Point", "coordinates": [ -78.176768, 39.201739 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "POLYID": 7, "CENID": "C6906", "LONGITUDE": -78.158959, "LATITUDE": 39.201041 }, "geometry": { "type": "Point", "coordinates": [ -78.158959, 39.201041 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "POLYID": 8, "CENID": "C6906", "LONGITUDE": -78.169119, "LATITUDE": 39.188707 }, "geometry": { "type": "Point", "coordinates": [ -78.169119, 39.188707 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "POLYID": 9, "CENID": "C6906", "LONGITUDE": -78.187326, "LATITUDE": 39.175521 }, "geometry": { "type": "Point", "coordinates": [ -78.187326, 39.175521 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "POLYID": 10, "CENID": "C6906", "LONGITUDE": -78.181160, "LATITUDE": 39.200302 }, "geometry": { "type": "Point", "coordinates": [ -78.181160, 39.200302 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "POLYID": 11, "CENID": "C6906", "LONGITUDE": -78.158983, "LATITUDE": 39.198575 }, "geometry": { "type": "Point", "coordinates": [ -78.158983, 39.198575 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "POLYID": 12, "CENID": "C6906", "LONGITUDE": -78.182953, "LATITUDE": 39.197828 }, "geometry": { "type": "Point", "coordinates": [ -78.182953, 39.197828 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "POLYID": 13, "CENID": "C6906", "LONGITUDE": -78.180891, "LATITUDE": 39.197866 }, "geometry": { "type": "Point", "coordinates": [ -78.180891, 39.197866 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "POLYID": 14, "CENID": "C6906", "LONGITUDE": -78.160631, "LATITUDE": 39.197542 }, "geometry": { "type": "Point", "coordinates": [ -78.160631, 39.197542 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "POLYID": 15, "CENID": "C6906", "LONGITUDE": -78.162121, "LATITUDE": 39.198076 }, "geometry": { "type": "Point", "coordinates": [ -78.162121, 39.198076 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "POLYID": 16, "CENID": "C6906", "LONGITUDE": -78.177674, "LATITUDE": 39.198289 }, "geometry": { "type": "Point", "coordinates": [ -78.177674, 39.198289 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "POLYID": 17, "CENID": "C6906", "LONGITUDE": -78.178541, "LATITUDE": 39.197355 }, "geometry": { "type": "Point", "coordinates": [ -78.178541, 39.197355 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "POLYID": 18, "CENID": "C6906", "LONGITUDE": -78.161618, "LATITUDE": 39.197138 }, "geometry": { "type": "Point", "coordinates": [ -78.161618, 39.197138 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "POLYID": 19, "CENID": "C6906", "LONGITUDE": -78.181875, "LATITUDE": 39.194321 }, "geometry": { "type": "Point", "coordinates": [ -78.181875, 39.194321 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "POLYID": 20, "CENID": "C6906", "LONGITUDE": -78.162290, "LATITUDE": 39.200843 }, "geometry": { "type": "Point", "coordinates": [ -78.162290, 39.200843 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "POLYID": 21, "CENID": "C6906", "LONGITUDE": -78.162517, "LATITUDE": 39.195976 }, "geometry": { "type": "Point", "coordinates": [ -78.162517, 39.195976 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "POLYID": 22, "CENID": "C6906", "LONGITUDE": -78.162993, "LATITUDE": 39.194656 }, "geometry": { "type": "Point", "coordinates": [ -78.162993, 39.194656 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "POLYID": 23, "CENID": "C6906", "LONGITUDE": -78.178747, "LATITUDE": 39.194222 }, "geometry": { "type": "Point", "coordinates": [ -78.178747, 39.194222 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "POLYID": 24, "CENID": "C6906", "LONGITUDE": -78.147155, "LATITUDE": 39.190100 }, "geometry": { "type": "Point", "coordinates": [ -78.147155, 39.190100 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "POLYID": 25, "CENID": "C6906", "LONGITUDE": -78.185537, "LATITUDE": 39.194909 }, "geometry": { "type": "Point", "coordinates": [ -78.185537, 39.194909 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "POLYID": 26, "CENID": "C6906", "LONGITUDE": -78.183206, "LATITUDE": 39.195957 }, "geometry": { "type": "Point", "coordinates": [ -78.183206, 39.195957 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "POLYID": 27, "CENID": "C6906", "LONGITUDE": -78.160767, "LATITUDE": 39.194422 }, "geometry": { "type": "Point", "coordinates": [ -78.160767, 39.194422 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "POLYID": 28, "CENID": "C6906", "LONGITUDE": -78.165688, "LATITUDE": 39.194636 }, "geometry": { "type": "Point", "coordinates": [ -78.165688, 39.194636 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "POLYID": 29, "CENID": "C6906", "LONGITUDE": -78.166221, "LATITUDE": 39.193731 }, "geometry": { "type": "Point", "coordinates": [ -78.166221, 39.193731 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "POLYID": 30, "CENID": "C6906", "LONGITUDE": -78.182898, "LATITUDE": 39.194084 }, "geometry": { "type": "Point", "coordinates": [ -78.182898, 39.194084 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "POLYID": 31, "CENID": "C6906", "LONGITUDE": -78.167308, "LATITUDE": 39.191933 }, "geometry": { "type": "Point", "coordinates": [ -78.167308, 39.191933 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "POLYID": 32, "CENID": "C6906", "LONGITUDE": -78.182003, "LATITUDE": 39.193737 }, "geometry": { "type": "Point", "coordinates": [ -78.182003, 39.193737 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "POLYID": 33, "CENID": "C6906", "LONGITUDE": -78.165004, "LATITUDE": 39.192580 }, "geometry": { "type": "Point", "coordinates": [ -78.165004, 39.192580 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "POLYID": 34, "CENID": "C6906", "LONGITUDE": -78.161748, "LATITUDE": 39.192204 }, "geometry": { "type": "Point", "coordinates": [ -78.161748, 39.192204 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "POLYID": 35, "CENID": "C6906", "LONGITUDE": -78.181006, "LATITUDE": 39.192814 }, "geometry": { "type": "Point", "coordinates": [ -78.181006, 39.192814 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "POLYID": 36, "CENID": "C6906", "LONGITUDE": -78.178281, "LATITUDE": 39.192617 }, "geometry": { "type": "Point", "coordinates": [ -78.178281, 39.192617 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "POLYID": 37, "CENID": "C6906", "LONGITUDE": -78.164185, "LATITUDE": 39.189321 }, "geometry": { "type": "Point", "coordinates": [ -78.164185, 39.189321 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "POLYID": 38, "CENID": "C6906", "LONGITUDE": -78.177856, "LATITUDE": 39.191027 }, "geometry": { "type": "Point", "coordinates": [ -78.177856, 39.191027 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "POLYID": 39, "CENID": "C6906", "LONGITUDE": -78.179523, "LATITUDE": 39.189297 }, "geometry": { "type": "Point", "coordinates": [ -78.179523, 39.189297 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "POLYID": 40, "CENID": "C6906", "LONGITUDE": -78.155366, "LATITUDE": 39.189566 }, "geometry": { "type": "Point", "coordinates": [ -78.155366, 39.189566 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "POLYID": 41, "CENID": "C6906", "LONGITUDE": -78.186176, "LATITUDE": 39.193952 }, "geometry": { "type": "Point", "coordinates": [ -78.186176, 39.193952 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "POLYID": 42, "CENID": "C6906", "LONGITUDE": -78.153884, "LATITUDE": 39.189581 }, "geometry": { "type": "Point", "coordinates": [ -78.153884, 39.189581 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "POLYID": 43, "CENID": "C6906", "LONGITUDE": -78.152197, "LATITUDE": 39.191661 }, "geometry": { "type": "Point", "coordinates": [ -78.152197, 39.191661 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "POLYID": 44, "CENID": "C6906", "LONGITUDE": -78.158485, "LATITUDE": 39.190025 }, "geometry": { "type": "Point", "coordinates": [ -78.158485, 39.190025 ] } }
+,
+{ "type": "Feature", "id": 43, "properties": { "POLYID": 45, "CENID": "C6906", "LONGITUDE": -78.167692, "LATITUDE": 39.191141 }, "geometry": { "type": "Point", "coordinates": [ -78.167692, 39.191141 ] } }
+,
+{ "type": "Feature", "id": 44, "properties": { "POLYID": 46, "CENID": "C6906", "LONGITUDE": -78.157944, "LATITUDE": 39.189896 }, "geometry": { "type": "Point", "coordinates": [ -78.157944, 39.189896 ] } }
+,
+{ "type": "Feature", "id": 45, "properties": { "POLYID": 47, "CENID": "C6906", "LONGITUDE": -78.183648, "LATITUDE": 39.192912 }, "geometry": { "type": "Point", "coordinates": [ -78.183648, 39.192912 ] } }
+,
+{ "type": "Feature", "id": 46, "properties": { "POLYID": 48, "CENID": "C6906", "LONGITUDE": -78.152513, "LATITUDE": 39.188941 }, "geometry": { "type": "Point", "coordinates": [ -78.152513, 39.188941 ] } }
+,
+{ "type": "Feature", "id": 47, "properties": { "POLYID": 49, "CENID": "C6906", "LONGITUDE": -78.156335, "LATITUDE": 39.189639 }, "geometry": { "type": "Point", "coordinates": [ -78.156335, 39.189639 ] } }
+,
+{ "type": "Feature", "id": 48, "properties": { "POLYID": 50, "CENID": "C6906", "LONGITUDE": -78.166085, "LATITUDE": 39.189756 }, "geometry": { "type": "Point", "coordinates": [ -78.166085, 39.189756 ] } }
+,
+{ "type": "Feature", "id": 49, "properties": { "POLYID": 51, "CENID": "C6906", "LONGITUDE": -78.194692, "LATITUDE": 39.189820 }, "geometry": { "type": "Point", "coordinates": [ -78.194692, 39.189820 ] } }
+,
+{ "type": "Feature", "id": 50, "properties": { "POLYID": 52, "CENID": "C6906", "LONGITUDE": -78.182597, "LATITUDE": 39.192493 }, "geometry": { "type": "Point", "coordinates": [ -78.182597, 39.192493 ] } }
+,
+{ "type": "Feature", "id": 51, "properties": { "POLYID": 53, "CENID": "C6906", "LONGITUDE": -78.149066, "LATITUDE": 39.188367 }, "geometry": { "type": "Point", "coordinates": [ -78.149066, 39.188367 ] } }
+,
+{ "type": "Feature", "id": 52, "properties": { "POLYID": 54, "CENID": "C6906", "LONGITUDE": -78.182014, "LATITUDE": 39.191205 }, "geometry": { "type": "Point", "coordinates": [ -78.182014, 39.191205 ] } }
+,
+{ "type": "Feature", "id": 53, "properties": { "POLYID": 55, "CENID": "C6906", "LONGITUDE": -78.184243, "LATITUDE": 39.189713 }, "geometry": { "type": "Point", "coordinates": [ -78.184243, 39.189713 ] } }
+,
+{ "type": "Feature", "id": 54, "properties": { "POLYID": 56, "CENID": "C6906", "LONGITUDE": -78.147651, "LATITUDE": 39.187890 }, "geometry": { "type": "Point", "coordinates": [ -78.147651, 39.187890 ] } }
+,
+{ "type": "Feature", "id": 55, "properties": { "POLYID": 57, "CENID": "C6906", "LONGITUDE": -78.159788, "LATITUDE": 39.188623 }, "geometry": { "type": "Point", "coordinates": [ -78.159788, 39.188623 ] } }
+,
+{ "type": "Feature", "id": 56, "properties": { "POLYID": 58, "CENID": "C6906", "LONGITUDE": -78.146983, "LATITUDE": 39.188801 }, "geometry": { "type": "Point", "coordinates": [ -78.146983, 39.188801 ] } }
+,
+{ "type": "Feature", "id": 57, "properties": { "POLYID": 59, "CENID": "C6906", "LONGITUDE": -78.167374, "LATITUDE": 39.176835 }, "geometry": { "type": "Point", "coordinates": [ -78.167374, 39.176835 ] } }
+,
+{ "type": "Feature", "id": 58, "properties": { "POLYID": 60, "CENID": "C6906", "LONGITUDE": -78.165894, "LATITUDE": 39.176502 }, "geometry": { "type": "Point", "coordinates": [ -78.165894, 39.176502 ] } }
+,
+{ "type": "Feature", "id": 59, "properties": { "POLYID": 61, "CENID": "C6906", "LONGITUDE": -78.155692, "LATITUDE": 39.188769 }, "geometry": { "type": "Point", "coordinates": [ -78.155692, 39.188769 ] } }
+,
+{ "type": "Feature", "id": 60, "properties": { "POLYID": 62, "CENID": "C6906", "LONGITUDE": -78.175018, "LATITUDE": 39.190036 }, "geometry": { "type": "Point", "coordinates": [ -78.175018, 39.190036 ] } }
+,
+{ "type": "Feature", "id": 61, "properties": { "POLYID": 63, "CENID": "C6906", "LONGITUDE": -78.158270, "LATITUDE": 39.187240 }, "geometry": { "type": "Point", "coordinates": [ -78.158270, 39.187240 ] } }
+,
+{ "type": "Feature", "id": 62, "properties": { "POLYID": 64, "CENID": "C6906", "LONGITUDE": -78.151157, "LATITUDE": 39.187820 }, "geometry": { "type": "Point", "coordinates": [ -78.151157, 39.187820 ] } }
+,
+{ "type": "Feature", "id": 63, "properties": { "POLYID": 65, "CENID": "C6906", "LONGITUDE": -78.162691, "LATITUDE": 39.189219 }, "geometry": { "type": "Point", "coordinates": [ -78.162691, 39.189219 ] } }
+,
+{ "type": "Feature", "id": 64, "properties": { "POLYID": 66, "CENID": "C6906", "LONGITUDE": -78.157825, "LATITUDE": 39.186180 }, "geometry": { "type": "Point", "coordinates": [ -78.157825, 39.186180 ] } }
+,
+{ "type": "Feature", "id": 65, "properties": { "POLYID": 67, "CENID": "C6906", "LONGITUDE": -78.167138, "LATITUDE": 39.188149 }, "geometry": { "type": "Point", "coordinates": [ -78.167138, 39.188149 ] } }
+,
+{ "type": "Feature", "id": 66, "properties": { "POLYID": 68, "CENID": "C6906", "LONGITUDE": -78.163186, "LATITUDE": 39.188029 }, "geometry": { "type": "Point", "coordinates": [ -78.163186, 39.188029 ] } }
+,
+{ "type": "Feature", "id": 67, "properties": { "POLYID": 69, "CENID": "C6906", "LONGITUDE": -78.156053, "LATITUDE": 39.187467 }, "geometry": { "type": "Point", "coordinates": [ -78.156053, 39.187467 ] } }
+,
+{ "type": "Feature", "id": 68, "properties": { "POLYID": 70, "CENID": "C6906", "LONGITUDE": -78.164842, "LATITUDE": 39.187618 }, "geometry": { "type": "Point", "coordinates": [ -78.164842, 39.187618 ] } }
+,
+{ "type": "Feature", "id": 69, "properties": { "POLYID": 71, "CENID": "C6906", "LONGITUDE": -78.148193, "LATITUDE": 39.186824 }, "geometry": { "type": "Point", "coordinates": [ -78.148193, 39.186824 ] } }
+,
+{ "type": "Feature", "id": 70, "properties": { "POLYID": 72, "CENID": "C6906", "LONGITUDE": -78.154560, "LATITUDE": 39.187089 }, "geometry": { "type": "Point", "coordinates": [ -78.154560, 39.187089 ] } }
+,
+{ "type": "Feature", "id": 71, "properties": { "POLYID": 73, "CENID": "C6906", "LONGITUDE": -78.163467, "LATITUDE": 39.187126 }, "geometry": { "type": "Point", "coordinates": [ -78.163467, 39.187126 ] } }
+,
+{ "type": "Feature", "id": 72, "properties": { "POLYID": 74, "CENID": "C6906", "LONGITUDE": -78.157667, "LATITUDE": 39.195390 }, "geometry": { "type": "Point", "coordinates": [ -78.157667, 39.195390 ] } }
+,
+{ "type": "Feature", "id": 73, "properties": { "POLYID": 75, "CENID": "C6906", "LONGITUDE": -78.167747, "LATITUDE": 39.187252 }, "geometry": { "type": "Point", "coordinates": [ -78.167747, 39.187252 ] } }
+,
+{ "type": "Feature", "id": 74, "properties": { "POLYID": 76, "CENID": "C6906", "LONGITUDE": -78.168943, "LATITUDE": 39.186475 }, "geometry": { "type": "Point", "coordinates": [ -78.168943, 39.186475 ] } }
+,
+{ "type": "Feature", "id": 75, "properties": { "POLYID": 77, "CENID": "C6906", "LONGITUDE": -78.165630, "LATITUDE": 39.186713 }, "geometry": { "type": "Point", "coordinates": [ -78.165630, 39.186713 ] } }
+,
+{ "type": "Feature", "id": 76, "properties": { "POLYID": 78, "CENID": "C6906", "LONGITUDE": -78.151844, "LATITUDE": 39.186231 }, "geometry": { "type": "Point", "coordinates": [ -78.151844, 39.186231 ] } }
+,
+{ "type": "Feature", "id": 77, "properties": { "POLYID": 79, "CENID": "C6906", "LONGITUDE": -78.163820, "LATITUDE": 39.186234 }, "geometry": { "type": "Point", "coordinates": [ -78.163820, 39.186234 ] } }
+,
+{ "type": "Feature", "id": 78, "properties": { "POLYID": 80, "CENID": "C6906", "LONGITUDE": -78.162365, "LATITUDE": 39.186916 }, "geometry": { "type": "Point", "coordinates": [ -78.162365, 39.186916 ] } }
+,
+{ "type": "Feature", "id": 79, "properties": { "POLYID": 81, "CENID": "C6906", "LONGITUDE": -78.156472, "LATITUDE": 39.186370 }, "geometry": { "type": "Point", "coordinates": [ -78.156472, 39.186370 ] } }
+,
+{ "type": "Feature", "id": 80, "properties": { "POLYID": 82, "CENID": "C6906", "LONGITUDE": -78.142220, "LATITUDE": 39.186957 }, "geometry": { "type": "Point", "coordinates": [ -78.142220, 39.186957 ] } }
+,
+{ "type": "Feature", "id": 81, "properties": { "POLYID": 83, "CENID": "C6906", "LONGITUDE": -78.167022, "LATITUDE": 39.186063 }, "geometry": { "type": "Point", "coordinates": [ -78.167022, 39.186063 ] } }
+,
+{ "type": "Feature", "id": 82, "properties": { "POLYID": 84, "CENID": "C6906", "LONGITUDE": -78.154531, "LATITUDE": 39.185408 }, "geometry": { "type": "Point", "coordinates": [ -78.154531, 39.185408 ] } }
+,
+{ "type": "Feature", "id": 83, "properties": { "POLYID": 85, "CENID": "C6906", "LONGITUDE": -78.141234, "LATITUDE": 39.185620 }, "geometry": { "type": "Point", "coordinates": [ -78.141234, 39.185620 ] } }
+,
+{ "type": "Feature", "id": 84, "properties": { "POLYID": 86, "CENID": "C6906", "LONGITUDE": -78.170731, "LATITUDE": 39.186033 }, "geometry": { "type": "Point", "coordinates": [ -78.170731, 39.186033 ] } }
+,
+{ "type": "Feature", "id": 85, "properties": { "POLYID": 87, "CENID": "C6906", "LONGITUDE": -78.161618, "LATITUDE": 39.186119 }, "geometry": { "type": "Point", "coordinates": [ -78.161618, 39.186119 ] } }
+,
+{ "type": "Feature", "id": 86, "properties": { "POLYID": 88, "CENID": "C6906", "LONGITUDE": -78.160804, "LATITUDE": 39.186574 }, "geometry": { "type": "Point", "coordinates": [ -78.160804, 39.186574 ] } }
+,
+{ "type": "Feature", "id": 87, "properties": { "POLYID": 89, "CENID": "C6906", "LONGITUDE": -78.166182, "LATITUDE": 39.185247 }, "geometry": { "type": "Point", "coordinates": [ -78.166182, 39.185247 ] } }
+,
+{ "type": "Feature", "id": 88, "properties": { "POLYID": 90, "CENID": "C6906", "LONGITUDE": -78.160992, "LATITUDE": 39.185570 }, "geometry": { "type": "Point", "coordinates": [ -78.160992, 39.185570 ] } }
+,
+{ "type": "Feature", "id": 89, "properties": { "POLYID": 91, "CENID": "C6906", "LONGITUDE": -78.156769, "LATITUDE": 39.185615 }, "geometry": { "type": "Point", "coordinates": [ -78.156769, 39.185615 ] } }
+,
+{ "type": "Feature", "id": 90, "properties": { "POLYID": 92, "CENID": "C6906", "LONGITUDE": -78.158565, "LATITUDE": 39.185284 }, "geometry": { "type": "Point", "coordinates": [ -78.158565, 39.185284 ] } }
+,
+{ "type": "Feature", "id": 91, "properties": { "POLYID": 93, "CENID": "C6906", "LONGITUDE": -78.148558, "LATITUDE": 39.185235 }, "geometry": { "type": "Point", "coordinates": [ -78.148558, 39.185235 ] } }
+,
+{ "type": "Feature", "id": 92, "properties": { "POLYID": 94, "CENID": "C6906", "LONGITUDE": -78.164239, "LATITUDE": 39.185148 }, "geometry": { "type": "Point", "coordinates": [ -78.164239, 39.185148 ] } }
+,
+{ "type": "Feature", "id": 93, "properties": { "POLYID": 95, "CENID": "C6906", "LONGITUDE": -78.162456, "LATITUDE": 39.185914 }, "geometry": { "type": "Point", "coordinates": [ -78.162456, 39.185914 ] } }
+,
+{ "type": "Feature", "id": 94, "properties": { "POLYID": 96, "CENID": "C6906", "LONGITUDE": -78.138278, "LATITUDE": 39.184749 }, "geometry": { "type": "Point", "coordinates": [ -78.138278, 39.184749 ] } }
+,
+{ "type": "Feature", "id": 95, "properties": { "POLYID": 97, "CENID": "C6906", "LONGITUDE": -78.152252, "LATITUDE": 39.185111 }, "geometry": { "type": "Point", "coordinates": [ -78.152252, 39.185111 ] } }
+,
+{ "type": "Feature", "id": 96, "properties": { "POLYID": 98, "CENID": "C6906", "LONGITUDE": -78.141853, "LATITUDE": 39.181004 }, "geometry": { "type": "Point", "coordinates": [ -78.141853, 39.181004 ] } }
+,
+{ "type": "Feature", "id": 97, "properties": { "POLYID": 99, "CENID": "C6906", "LONGITUDE": -78.150305, "LATITUDE": 39.185136 }, "geometry": { "type": "Point", "coordinates": [ -78.150305, 39.185136 ] } }
+,
+{ "type": "Feature", "id": 98, "properties": { "POLYID": 100, "CENID": "C6906", "LONGITUDE": -78.167829, "LATITUDE": 39.185057 }, "geometry": { "type": "Point", "coordinates": [ -78.167829, 39.185057 ] } }
+,
+{ "type": "Feature", "id": 99, "properties": { "POLYID": 101, "CENID": "C6906", "LONGITUDE": -78.162967, "LATITUDE": 39.184427 }, "geometry": { "type": "Point", "coordinates": [ -78.162967, 39.184427 ] } }
+,
+{ "type": "Feature", "id": 100, "properties": { "POLYID": 102, "CENID": "C6906", "LONGITUDE": -78.161713, "LATITUDE": 39.185333 }, "geometry": { "type": "Point", "coordinates": [ -78.161713, 39.185333 ] } }
+,
+{ "type": "Feature", "id": 101, "properties": { "POLYID": 103, "CENID": "C6906", "LONGITUDE": -78.160467, "LATITUDE": 39.185021 }, "geometry": { "type": "Point", "coordinates": [ -78.160467, 39.185021 ] } }
+,
+{ "type": "Feature", "id": 102, "properties": { "POLYID": 104, "CENID": "C6906", "LONGITUDE": -78.142874, "LATITUDE": 39.184797 }, "geometry": { "type": "Point", "coordinates": [ -78.142874, 39.184797 ] } }
+,
+{ "type": "Feature", "id": 103, "properties": { "POLYID": 105, "CENID": "C6906", "LONGITUDE": -78.173829, "LATITUDE": 39.184520 }, "geometry": { "type": "Point", "coordinates": [ -78.173829, 39.184520 ] } }
+,
+{ "type": "Feature", "id": 104, "properties": { "POLYID": 106, "CENID": "C6906", "LONGITUDE": -78.156485, "LATITUDE": 39.184174 }, "geometry": { "type": "Point", "coordinates": [ -78.156485, 39.184174 ] } }
+,
+{ "type": "Feature", "id": 105, "properties": { "POLYID": 107, "CENID": "C6906", "LONGITUDE": -78.140791, "LATITUDE": 39.183765 }, "geometry": { "type": "Point", "coordinates": [ -78.140791, 39.183765 ] } }
+,
+{ "type": "Feature", "id": 106, "properties": { "POLYID": 108, "CENID": "C6906", "LONGITUDE": -78.137148, "LATITUDE": 39.184375 }, "geometry": { "type": "Point", "coordinates": [ -78.137148, 39.184375 ] } }
+,
+{ "type": "Feature", "id": 107, "properties": { "POLYID": 109, "CENID": "C6906", "LONGITUDE": -78.173039, "LATITUDE": 39.184291 }, "geometry": { "type": "Point", "coordinates": [ -78.173039, 39.184291 ] } }
+,
+{ "type": "Feature", "id": 108, "properties": { "POLYID": 110, "CENID": "C6906", "LONGITUDE": -78.169382, "LATITUDE": 39.184359 }, "geometry": { "type": "Point", "coordinates": [ -78.169382, 39.184359 ] } }
+,
+{ "type": "Feature", "id": 109, "properties": { "POLYID": 111, "CENID": "C6906", "LONGITUDE": -78.151233, "LATITUDE": 39.184309 }, "geometry": { "type": "Point", "coordinates": [ -78.151233, 39.184309 ] } }
+,
+{ "type": "Feature", "id": 110, "properties": { "POLYID": 112, "CENID": "C6906", "LONGITUDE": -78.158766, "LATITUDE": 39.184735 }, "geometry": { "type": "Point", "coordinates": [ -78.158766, 39.184735 ] } }
+,
+{ "type": "Feature", "id": 111, "properties": { "POLYID": 113, "CENID": "C6906", "LONGITUDE": -78.154419, "LATITUDE": 39.184253 }, "geometry": { "type": "Point", "coordinates": [ -78.154419, 39.184253 ] } }
+,
+{ "type": "Feature", "id": 112, "properties": { "POLYID": 114, "CENID": "C6906", "LONGITUDE": -78.153810, "LATITUDE": 39.183216 }, "geometry": { "type": "Point", "coordinates": [ -78.153810, 39.183216 ] } }
+,
+{ "type": "Feature", "id": 113, "properties": { "POLYID": 115, "CENID": "C6906", "LONGITUDE": -78.152334, "LATITUDE": 39.183314 }, "geometry": { "type": "Point", "coordinates": [ -78.152334, 39.183314 ] } }
+,
+{ "type": "Feature", "id": 114, "properties": { "POLYID": 116, "CENID": "C6906", "LONGITUDE": -78.149279, "LATITUDE": 39.183920 }, "geometry": { "type": "Point", "coordinates": [ -78.149279, 39.183920 ] } }
+,
+{ "type": "Feature", "id": 115, "properties": { "POLYID": 117, "CENID": "C6906", "LONGITUDE": -78.167813, "LATITUDE": 39.184005 }, "geometry": { "type": "Point", "coordinates": [ -78.167813, 39.184005 ] } }
+,
+{ "type": "Feature", "id": 116, "properties": { "POLYID": 118, "CENID": "C6906", "LONGITUDE": -78.164681, "LATITUDE": 39.184073 }, "geometry": { "type": "Point", "coordinates": [ -78.164681, 39.184073 ] } }
+,
+{ "type": "Feature", "id": 117, "properties": { "POLYID": 119, "CENID": "C6906", "LONGITUDE": -78.171881, "LATITUDE": 39.184325 }, "geometry": { "type": "Point", "coordinates": [ -78.171881, 39.184325 ] } }
+,
+{ "type": "Feature", "id": 118, "properties": { "POLYID": 120, "CENID": "C6906", "LONGITUDE": -78.161752, "LATITUDE": 39.184030 }, "geometry": { "type": "Point", "coordinates": [ -78.161752, 39.184030 ] } }
+,
+{ "type": "Feature", "id": 119, "properties": { "POLYID": 121, "CENID": "C6906", "LONGITUDE": -78.166747, "LATITUDE": 39.183720 }, "geometry": { "type": "Point", "coordinates": [ -78.166747, 39.183720 ] } }
+,
+{ "type": "Feature", "id": 120, "properties": { "POLYID": 122, "CENID": "C6906", "LONGITUDE": -78.154622, "LATITUDE": 39.183738 }, "geometry": { "type": "Point", "coordinates": [ -78.154622, 39.183738 ] } }
+,
+{ "type": "Feature", "id": 121, "properties": { "POLYID": 123, "CENID": "C6906", "LONGITUDE": -78.172085, "LATITUDE": 39.183685 }, "geometry": { "type": "Point", "coordinates": [ -78.172085, 39.183685 ] } }
+,
+{ "type": "Feature", "id": 122, "properties": { "POLYID": 124, "CENID": "C6906", "LONGITUDE": -78.147745, "LATITUDE": 39.183565 }, "geometry": { "type": "Point", "coordinates": [ -78.147745, 39.183565 ] } }
+,
+{ "type": "Feature", "id": 123, "properties": { "POLYID": 125, "CENID": "C6906", "LONGITUDE": -78.174959, "LATITUDE": 39.184418 }, "geometry": { "type": "Point", "coordinates": [ -78.174959, 39.184418 ] } }
+,
+{ "type": "Feature", "id": 124, "properties": { "POLYID": 126, "CENID": "C6906", "LONGITUDE": -78.172524, "LATITUDE": 39.183022 }, "geometry": { "type": "Point", "coordinates": [ -78.172524, 39.183022 ] } }
+,
+{ "type": "Feature", "id": 125, "properties": { "POLYID": 127, "CENID": "C6906", "LONGITUDE": -78.171053, "LATITUDE": 39.183422 }, "geometry": { "type": "Point", "coordinates": [ -78.171053, 39.183422 ] } }
+,
+{ "type": "Feature", "id": 126, "properties": { "POLYID": 128, "CENID": "C6906", "LONGITUDE": -78.169806, "LATITUDE": 39.183273 }, "geometry": { "type": "Point", "coordinates": [ -78.169806, 39.183273 ] } }
+,
+{ "type": "Feature", "id": 127, "properties": { "POLYID": 129, "CENID": "C6906", "LONGITUDE": -78.158620, "LATITUDE": 39.180630 }, "geometry": { "type": "Point", "coordinates": [ -78.158620, 39.180630 ] } }
+,
+{ "type": "Feature", "id": 128, "properties": { "POLYID": 130, "CENID": "C6906", "LONGITUDE": -78.150829, "LATITUDE": 39.182902 }, "geometry": { "type": "Point", "coordinates": [ -78.150829, 39.182902 ] } }
+,
+{ "type": "Feature", "id": 129, "properties": { "POLYID": 131, "CENID": "C6906", "LONGITUDE": -78.165149, "LATITUDE": 39.182769 }, "geometry": { "type": "Point", "coordinates": [ -78.165149, 39.182769 ] } }
+,
+{ "type": "Feature", "id": 130, "properties": { "POLYID": 132, "CENID": "C6906", "LONGITUDE": -78.154873, "LATITUDE": 39.183258 }, "geometry": { "type": "Point", "coordinates": [ -78.154873, 39.183258 ] } }
+,
+{ "type": "Feature", "id": 131, "properties": { "POLYID": 133, "CENID": "C6906", "LONGITUDE": -78.149709, "LATITUDE": 39.182673 }, "geometry": { "type": "Point", "coordinates": [ -78.149709, 39.182673 ] } }
+,
+{ "type": "Feature", "id": 132, "properties": { "POLYID": 134, "CENID": "C6906", "LONGITUDE": -78.168227, "LATITUDE": 39.182941 }, "geometry": { "type": "Point", "coordinates": [ -78.168227, 39.182941 ] } }
+,
+{ "type": "Feature", "id": 133, "properties": { "POLYID": 135, "CENID": "C6906", "LONGITUDE": -78.145475, "LATITUDE": 39.182912 }, "geometry": { "type": "Point", "coordinates": [ -78.145475, 39.182912 ] } }
+,
+{ "type": "Feature", "id": 134, "properties": { "POLYID": 136, "CENID": "C6906", "LONGITUDE": -78.163669, "LATITUDE": 39.182415 }, "geometry": { "type": "Point", "coordinates": [ -78.163669, 39.182415 ] } }
+,
+{ "type": "Feature", "id": 135, "properties": { "POLYID": 137, "CENID": "C6906", "LONGITUDE": -78.174821, "LATITUDE": 39.182691 }, "geometry": { "type": "Point", "coordinates": [ -78.174821, 39.182691 ] } }
+,
+{ "type": "Feature", "id": 136, "properties": { "POLYID": 138, "CENID": "C6906", "LONGITUDE": -78.148664, "LATITUDE": 39.182410 }, "geometry": { "type": "Point", "coordinates": [ -78.148664, 39.182410 ] } }
+,
+{ "type": "Feature", "id": 137, "properties": { "POLYID": 139, "CENID": "C6906", "LONGITUDE": -78.162088, "LATITUDE": 39.182711 }, "geometry": { "type": "Point", "coordinates": [ -78.162088, 39.182711 ] } }
+,
+{ "type": "Feature", "id": 138, "properties": { "POLYID": 140, "CENID": "C6906", "LONGITUDE": -78.147706, "LATITUDE": 39.182216 }, "geometry": { "type": "Point", "coordinates": [ -78.147706, 39.182216 ] } }
+,
+{ "type": "Feature", "id": 139, "properties": { "POLYID": 141, "CENID": "C6906", "LONGITUDE": -78.161536, "LATITUDE": 39.181324 }, "geometry": { "type": "Point", "coordinates": [ -78.161536, 39.181324 ] } }
+,
+{ "type": "Feature", "id": 140, "properties": { "POLYID": 142, "CENID": "C6906", "LONGITUDE": -78.159413, "LATITUDE": 39.183030 }, "geometry": { "type": "Point", "coordinates": [ -78.159413, 39.183030 ] } }
+,
+{ "type": "Feature", "id": 141, "properties": { "POLYID": 143, "CENID": "C6906", "LONGITUDE": -78.170128, "LATITUDE": 39.182427 }, "geometry": { "type": "Point", "coordinates": [ -78.170128, 39.182427 ] } }
+,
+{ "type": "Feature", "id": 142, "properties": { "POLYID": 144, "CENID": "C6906", "LONGITUDE": -78.142748, "LATITUDE": 39.182328 }, "geometry": { "type": "Point", "coordinates": [ -78.142748, 39.182328 ] } }
+,
+{ "type": "Feature", "id": 143, "properties": { "POLYID": 145, "CENID": "C6906", "LONGITUDE": -78.159224, "LATITUDE": 39.181865 }, "geometry": { "type": "Point", "coordinates": [ -78.159224, 39.181865 ] } }
+,
+{ "type": "Feature", "id": 144, "properties": { "POLYID": 146, "CENID": "C6906", "LONGITUDE": -78.153854, "LATITUDE": 39.179875 }, "geometry": { "type": "Point", "coordinates": [ -78.153854, 39.179875 ] } }
+,
+{ "type": "Feature", "id": 145, "properties": { "POLYID": 147, "CENID": "C6906", "LONGITUDE": -78.152835, "LATITUDE": 39.179472 }, "geometry": { "type": "Point", "coordinates": [ -78.152835, 39.179472 ] } }
+,
+{ "type": "Feature", "id": 146, "properties": { "POLYID": 148, "CENID": "C6906", "LONGITUDE": -78.168595, "LATITUDE": 39.182038 }, "geometry": { "type": "Point", "coordinates": [ -78.168595, 39.182038 ] } }
+,
+{ "type": "Feature", "id": 147, "properties": { "POLYID": 149, "CENID": "C6906", "LONGITUDE": -78.162356, "LATITUDE": 39.182201 }, "geometry": { "type": "Point", "coordinates": [ -78.162356, 39.182201 ] } }
+,
+{ "type": "Feature", "id": 148, "properties": { "POLYID": 150, "CENID": "C6906", "LONGITUDE": -78.161679, "LATITUDE": 39.181991 }, "geometry": { "type": "Point", "coordinates": [ -78.161679, 39.181991 ] } }
+,
+{ "type": "Feature", "id": 149, "properties": { "POLYID": 151, "CENID": "C6906", "LONGITUDE": -78.175190, "LATITUDE": 39.177464 }, "geometry": { "type": "Point", "coordinates": [ -78.175190, 39.177464 ] } }
+,
+{ "type": "Feature", "id": 150, "properties": { "POLYID": 152, "CENID": "C6906", "LONGITUDE": -78.145754, "LATITUDE": 39.182020 }, "geometry": { "type": "Point", "coordinates": [ -78.145754, 39.182020 ] } }
+,
+{ "type": "Feature", "id": 151, "properties": { "POLYID": 153, "CENID": "C6906", "LONGITUDE": -78.148179, "LATITUDE": 39.178138 }, "geometry": { "type": "Point", "coordinates": [ -78.148179, 39.178138 ] } }
+,
+{ "type": "Feature", "id": 152, "properties": { "POLYID": 154, "CENID": "C6906", "LONGITUDE": -78.167107, "LATITUDE": 39.181695 }, "geometry": { "type": "Point", "coordinates": [ -78.167107, 39.181695 ] } }
+,
+{ "type": "Feature", "id": 153, "properties": { "POLYID": 155, "CENID": "C6906", "LONGITUDE": -78.170414, "LATITUDE": 39.181684 }, "geometry": { "type": "Point", "coordinates": [ -78.170414, 39.181684 ] } }
+,
+{ "type": "Feature", "id": 154, "properties": { "POLYID": 156, "CENID": "C6906", "LONGITUDE": -78.149493, "LATITUDE": 39.181472 }, "geometry": { "type": "Point", "coordinates": [ -78.149493, 39.181472 ] } }
+,
+{ "type": "Feature", "id": 155, "properties": { "POLYID": 157, "CENID": "C6906", "LONGITUDE": -78.165671, "LATITUDE": 39.181362 }, "geometry": { "type": "Point", "coordinates": [ -78.165671, 39.181362 ] } }
+,
+{ "type": "Feature", "id": 156, "properties": { "POLYID": 158, "CENID": "C6906", "LONGITUDE": -78.172921, "LATITUDE": 39.181433 }, "geometry": { "type": "Point", "coordinates": [ -78.172921, 39.181433 ] } }
+,
+{ "type": "Feature", "id": 157, "properties": { "POLYID": 159, "CENID": "C6906", "LONGITUDE": -78.168866, "LATITUDE": 39.181294 }, "geometry": { "type": "Point", "coordinates": [ -78.168866, 39.181294 ] } }
+,
+{ "type": "Feature", "id": 158, "properties": { "POLYID": 160, "CENID": "C6906", "LONGITUDE": -78.144809, "LATITUDE": 39.179874 }, "geometry": { "type": "Point", "coordinates": [ -78.144809, 39.179874 ] } }
+,
+{ "type": "Feature", "id": 159, "properties": { "POLYID": 161, "CENID": "C6906", "LONGITUDE": -78.145220, "LATITUDE": 39.181059 }, "geometry": { "type": "Point", "coordinates": [ -78.145220, 39.181059 ] } }
+,
+{ "type": "Feature", "id": 160, "properties": { "POLYID": 162, "CENID": "C6906", "LONGITUDE": -78.164188, "LATITUDE": 39.181019 }, "geometry": { "type": "Point", "coordinates": [ -78.164188, 39.181019 ] } }
+,
+{ "type": "Feature", "id": 161, "properties": { "POLYID": 163, "CENID": "C6906", "LONGITUDE": -78.170700, "LATITUDE": 39.180895 }, "geometry": { "type": "Point", "coordinates": [ -78.170700, 39.180895 ] } }
+,
+{ "type": "Feature", "id": 162, "properties": { "POLYID": 164, "CENID": "C6906", "LONGITUDE": -78.149792, "LATITUDE": 39.180843 }, "geometry": { "type": "Point", "coordinates": [ -78.149792, 39.180843 ] } }
+,
+{ "type": "Feature", "id": 163, "properties": { "POLYID": 165, "CENID": "C6906", "LONGITUDE": -78.167360, "LATITUDE": 39.180963 }, "geometry": { "type": "Point", "coordinates": [ -78.167360, 39.180963 ] } }
+,
+{ "type": "Feature", "id": 164, "properties": { "POLYID": 166, "CENID": "C6906", "LONGITUDE": -78.163948, "LATITUDE": 39.176862 }, "geometry": { "type": "Point", "coordinates": [ -78.163948, 39.176862 ] } }
+,
+{ "type": "Feature", "id": 165, "properties": { "POLYID": 167, "CENID": "C6906", "LONGITUDE": -78.165933, "LATITUDE": 39.180597 }, "geometry": { "type": "Point", "coordinates": [ -78.165933, 39.180597 ] } }
+,
+{ "type": "Feature", "id": 166, "properties": { "POLYID": 168, "CENID": "C6906", "LONGITUDE": -78.156455, "LATITUDE": 39.180754 }, "geometry": { "type": "Point", "coordinates": [ -78.156455, 39.180754 ] } }
+,
+{ "type": "Feature", "id": 167, "properties": { "POLYID": 169, "CENID": "C6906", "LONGITUDE": -78.169147, "LATITUDE": 39.180540 }, "geometry": { "type": "Point", "coordinates": [ -78.169147, 39.180540 ] } }
+,
+{ "type": "Feature", "id": 168, "properties": { "POLYID": 170, "CENID": "C6906", "LONGITUDE": -78.173050, "LATITUDE": 39.180655 }, "geometry": { "type": "Point", "coordinates": [ -78.173050, 39.180655 ] } }
+,
+{ "type": "Feature", "id": 169, "properties": { "POLYID": 171, "CENID": "C6906", "LONGITUDE": -78.167648, "LATITUDE": 39.180163 }, "geometry": { "type": "Point", "coordinates": [ -78.167648, 39.180163 ] } }
+,
+{ "type": "Feature", "id": 170, "properties": { "POLYID": 172, "CENID": "C6906", "LONGITUDE": -78.164515, "LATITUDE": 39.180276 }, "geometry": { "type": "Point", "coordinates": [ -78.164515, 39.180276 ] } }
+,
+{ "type": "Feature", "id": 171, "properties": { "POLYID": 173, "CENID": "C6906", "LONGITUDE": -78.146077, "LATITUDE": 39.179623 }, "geometry": { "type": "Point", "coordinates": [ -78.146077, 39.179623 ] } }
+,
+{ "type": "Feature", "id": 172, "properties": { "POLYID": 174, "CENID": "C6906", "LONGITUDE": -78.170972, "LATITUDE": 39.180152 }, "geometry": { "type": "Point", "coordinates": [ -78.170972, 39.180152 ] } }
+,
+{ "type": "Feature", "id": 173, "properties": { "POLYID": 175, "CENID": "C6906", "LONGITUDE": -78.159465, "LATITUDE": 39.179189 }, "geometry": { "type": "Point", "coordinates": [ -78.159465, 39.179189 ] } }
+,
+{ "type": "Feature", "id": 174, "properties": { "POLYID": 176, "CENID": "C6906", "LONGITUDE": -78.166224, "LATITUDE": 39.179865 }, "geometry": { "type": "Point", "coordinates": [ -78.166224, 39.179865 ] } }
+,
+{ "type": "Feature", "id": 175, "properties": { "POLYID": 177, "CENID": "C6906", "LONGITUDE": -78.173653, "LATITUDE": 39.179055 }, "geometry": { "type": "Point", "coordinates": [ -78.173653, 39.179055 ] } }
+,
+{ "type": "Feature", "id": 176, "properties": { "POLYID": 178, "CENID": "C6906", "LONGITUDE": -78.169452, "LATITUDE": 39.179751 }, "geometry": { "type": "Point", "coordinates": [ -78.169452, 39.179751 ] } }
+,
+{ "type": "Feature", "id": 177, "properties": { "POLYID": 179, "CENID": "C6906", "LONGITUDE": -78.158236, "LATITUDE": 39.178926 }, "geometry": { "type": "Point", "coordinates": [ -78.158236, 39.178926 ] } }
+,
+{ "type": "Feature", "id": 178, "properties": { "POLYID": 180, "CENID": "C6906", "LONGITUDE": -78.164807, "LATITUDE": 39.179510 }, "geometry": { "type": "Point", "coordinates": [ -78.164807, 39.179510 ] } }
+,
+{ "type": "Feature", "id": 179, "properties": { "POLYID": 181, "CENID": "C6906", "LONGITUDE": -78.171275, "LATITUDE": 39.179385 }, "geometry": { "type": "Point", "coordinates": [ -78.171275, 39.179385 ] } }
+,
+{ "type": "Feature", "id": 180, "properties": { "POLYID": 182, "CENID": "C6906", "LONGITUDE": -78.167918, "LATITUDE": 39.179419 }, "geometry": { "type": "Point", "coordinates": [ -78.167918, 39.179419 ] } }
+,
+{ "type": "Feature", "id": 181, "properties": { "POLYID": 183, "CENID": "C6906", "LONGITUDE": -78.159840, "LATITUDE": 39.173054 }, "geometry": { "type": "Point", "coordinates": [ -78.159840, 39.173054 ] } }
+,
+{ "type": "Feature", "id": 182, "properties": { "POLYID": 184, "CENID": "C6906", "LONGITUDE": -78.166533, "LATITUDE": 39.179076 }, "geometry": { "type": "Point", "coordinates": [ -78.166533, 39.179076 ] } }
+,
+{ "type": "Feature", "id": 183, "properties": { "POLYID": 185, "CENID": "C6906", "LONGITUDE": -78.169713, "LATITUDE": 39.179054 }, "geometry": { "type": "Point", "coordinates": [ -78.169713, 39.179054 ] } }
+,
+{ "type": "Feature", "id": 184, "properties": { "POLYID": 186, "CENID": "C6906", "LONGITUDE": -78.154155, "LATITUDE": 39.178336 }, "geometry": { "type": "Point", "coordinates": [ -78.154155, 39.178336 ] } }
+,
+{ "type": "Feature", "id": 185, "properties": { "POLYID": 187, "CENID": "C6906", "LONGITUDE": -78.165057, "LATITUDE": 39.178789 }, "geometry": { "type": "Point", "coordinates": [ -78.165057, 39.178789 ] } }
+,
+{ "type": "Feature", "id": 186, "properties": { "POLYID": 188, "CENID": "C6906", "LONGITUDE": -78.168223, "LATITUDE": 39.178653 }, "geometry": { "type": "Point", "coordinates": [ -78.168223, 39.178653 ] } }
+,
+{ "type": "Feature", "id": 187, "properties": { "POLYID": 189, "CENID": "C6906", "LONGITUDE": -78.171539, "LATITUDE": 39.178608 }, "geometry": { "type": "Point", "coordinates": [ -78.171539, 39.178608 ] } }
+,
+{ "type": "Feature", "id": 188, "properties": { "POLYID": 190, "CENID": "C6906", "LONGITUDE": -78.166771, "LATITUDE": 39.178355 }, "geometry": { "type": "Point", "coordinates": [ -78.166771, 39.178355 ] } }
+,
+{ "type": "Feature", "id": 189, "properties": { "POLYID": 191, "CENID": "C6906", "LONGITUDE": -78.170052, "LATITUDE": 39.178265 }, "geometry": { "type": "Point", "coordinates": [ -78.170052, 39.178265 ] } }
+,
+{ "type": "Feature", "id": 190, "properties": { "POLYID": 192, "CENID": "C6906", "LONGITUDE": -78.165364, "LATITUDE": 39.178000 }, "geometry": { "type": "Point", "coordinates": [ -78.165364, 39.178000 ] } }
+,
+{ "type": "Feature", "id": 191, "properties": { "POLYID": 193, "CENID": "C6906", "LONGITUDE": -78.171825, "LATITUDE": 39.177888 }, "geometry": { "type": "Point", "coordinates": [ -78.171825, 39.177888 ] } }
+,
+{ "type": "Feature", "id": 192, "properties": { "POLYID": 194, "CENID": "C6906", "LONGITUDE": -78.168535, "LATITUDE": 39.177909 }, "geometry": { "type": "Point", "coordinates": [ -78.168535, 39.177909 ] } }
+,
+{ "type": "Feature", "id": 193, "properties": { "POLYID": 195, "CENID": "C6906", "LONGITUDE": -78.160375, "LATITUDE": 39.176703 }, "geometry": { "type": "Point", "coordinates": [ -78.160375, 39.176703 ] } }
+,
+{ "type": "Feature", "id": 194, "properties": { "POLYID": 196, "CENID": "C6906", "LONGITUDE": -78.167079, "LATITUDE": 39.177543 }, "geometry": { "type": "Point", "coordinates": [ -78.167079, 39.177543 ] } }
+,
+{ "type": "Feature", "id": 195, "properties": { "POLYID": 197, "CENID": "C6906", "LONGITUDE": -78.170378, "LATITUDE": 39.177556 }, "geometry": { "type": "Point", "coordinates": [ -78.170378, 39.177556 ] } }
+,
+{ "type": "Feature", "id": 196, "properties": { "POLYID": 198, "CENID": "C6906", "LONGITUDE": -78.165664, "LATITUDE": 39.177211 }, "geometry": { "type": "Point", "coordinates": [ -78.165664, 39.177211 ] } }
+,
+{ "type": "Feature", "id": 197, "properties": { "POLYID": 199, "CENID": "C6906", "LONGITUDE": -78.187030, "LATITUDE": 39.164477 }, "geometry": { "type": "Point", "coordinates": [ -78.187030, 39.164477 ] } }
+,
+{ "type": "Feature", "id": 198, "properties": { "POLYID": 200, "CENID": "C6906", "LONGITUDE": -78.168882, "LATITUDE": 39.177143 }, "geometry": { "type": "Point", "coordinates": [ -78.168882, 39.177143 ] } }
+,
+{ "type": "Feature", "id": 199, "properties": { "POLYID": 201, "CENID": "C6906", "LONGITUDE": -78.169011, "LATITUDE": 39.176233 }, "geometry": { "type": "Point", "coordinates": [ -78.169011, 39.176233 ] } }
+,
+{ "type": "Feature", "id": 200, "properties": { "POLYID": 202, "CENID": "C6906", "LONGITUDE": -78.167680, "LATITUDE": 39.176000 }, "geometry": { "type": "Point", "coordinates": [ -78.167680, 39.176000 ] } }
+,
+{ "type": "Feature", "id": 201, "properties": { "POLYID": 203, "CENID": "C6906", "LONGITUDE": -78.174296, "LATITUDE": 39.175623 }, "geometry": { "type": "Point", "coordinates": [ -78.174296, 39.175623 ] } }
+,
+{ "type": "Feature", "id": 202, "properties": { "POLYID": 204, "CENID": "C6906", "LONGITUDE": -78.165756, "LATITUDE": 39.175923 }, "geometry": { "type": "Point", "coordinates": [ -78.165756, 39.175923 ] } }
+,
+{ "type": "Feature", "id": 203, "properties": { "POLYID": 205, "CENID": "C6906", "LONGITUDE": -78.164256, "LATITUDE": 39.176163 }, "geometry": { "type": "Point", "coordinates": [ -78.164256, 39.176163 ] } }
+,
+{ "type": "Feature", "id": 204, "properties": { "POLYID": 206, "CENID": "C6906", "LONGITUDE": -78.154618, "LATITUDE": 39.173012 }, "geometry": { "type": "Point", "coordinates": [ -78.154618, 39.173012 ] } }
+,
+{ "type": "Feature", "id": 205, "properties": { "POLYID": 207, "CENID": "C6906", "LONGITUDE": -78.167992, "LATITUDE": 39.175187 }, "geometry": { "type": "Point", "coordinates": [ -78.167992, 39.175187 ] } }
+,
+{ "type": "Feature", "id": 206, "properties": { "POLYID": 208, "CENID": "C6906", "LONGITUDE": -78.166527, "LATITUDE": 39.175527 }, "geometry": { "type": "Point", "coordinates": [ -78.166527, 39.175527 ] } }
+,
+{ "type": "Feature", "id": 207, "properties": { "POLYID": 209, "CENID": "C6906", "LONGITUDE": -78.161197, "LATITUDE": 39.171811 }, "geometry": { "type": "Point", "coordinates": [ -78.161197, 39.171811 ] } }
+,
+{ "type": "Feature", "id": 208, "properties": { "POLYID": 210, "CENID": "C6906", "LONGITUDE": -78.160845, "LATITUDE": 39.174008 }, "geometry": { "type": "Point", "coordinates": [ -78.160845, 39.174008 ] } }
+,
+{ "type": "Feature", "id": 209, "properties": { "POLYID": 211, "CENID": "C6906", "LONGITUDE": -78.170953, "LATITUDE": 39.174914 }, "geometry": { "type": "Point", "coordinates": [ -78.170953, 39.174914 ] } }
+,
+{ "type": "Feature", "id": 210, "properties": { "POLYID": 212, "CENID": "C6906", "LONGITUDE": -78.166522, "LATITUDE": 39.174879 }, "geometry": { "type": "Point", "coordinates": [ -78.166522, 39.174879 ] } }
+,
+{ "type": "Feature", "id": 211, "properties": { "POLYID": 213, "CENID": "C6906", "LONGITUDE": -78.175709, "LATITUDE": 39.174941 }, "geometry": { "type": "Point", "coordinates": [ -78.175709, 39.174941 ] } }
+,
+{ "type": "Feature", "id": 212, "properties": { "POLYID": 214, "CENID": "C6906", "LONGITUDE": -78.169783, "LATITUDE": 39.174674 }, "geometry": { "type": "Point", "coordinates": [ -78.169783, 39.174674 ] } }
+,
+{ "type": "Feature", "id": 213, "properties": { "POLYID": 215, "CENID": "C6906", "LONGITUDE": -78.168311, "LATITUDE": 39.174364 }, "geometry": { "type": "Point", "coordinates": [ -78.168311, 39.174364 ] } }
+,
+{ "type": "Feature", "id": 214, "properties": { "POLYID": 216, "CENID": "C6906", "LONGITUDE": -78.176180, "LATITUDE": 39.173759 }, "geometry": { "type": "Point", "coordinates": [ -78.176180, 39.173759 ] } }
+,
+{ "type": "Feature", "id": 215, "properties": { "POLYID": 217, "CENID": "C6906", "LONGITUDE": -78.171499, "LATITUDE": 39.174286 }, "geometry": { "type": "Point", "coordinates": [ -78.171499, 39.174286 ] } }
+,
+{ "type": "Feature", "id": 216, "properties": { "POLYID": 218, "CENID": "C6906", "LONGITUDE": -78.166960, "LATITUDE": 39.173713 }, "geometry": { "type": "Point", "coordinates": [ -78.166960, 39.173713 ] } }
+,
+{ "type": "Feature", "id": 217, "properties": { "POLYID": 219, "CENID": "C6906", "LONGITUDE": -78.165557, "LATITUDE": 39.173014 }, "geometry": { "type": "Point", "coordinates": [ -78.165557, 39.173014 ] } }
+,
+{ "type": "Feature", "id": 218, "properties": { "POLYID": 220, "CENID": "C6906", "LONGITUDE": -78.170035, "LATITUDE": 39.173964 }, "geometry": { "type": "Point", "coordinates": [ -78.170035, 39.173964 ] } }
+,
+{ "type": "Feature", "id": 219, "properties": { "POLYID": 221, "CENID": "C6906", "LONGITUDE": -78.177745, "LATITUDE": 39.173577 }, "geometry": { "type": "Point", "coordinates": [ -78.177745, 39.173577 ] } }
+,
+{ "type": "Feature", "id": 220, "properties": { "POLYID": 222, "CENID": "C6906", "LONGITUDE": -78.172298, "LATITUDE": 39.173393 }, "geometry": { "type": "Point", "coordinates": [ -78.172298, 39.173393 ] } }
+,
+{ "type": "Feature", "id": 221, "properties": { "POLYID": 223, "CENID": "C6906", "LONGITUDE": -78.168554, "LATITUDE": 39.173633 }, "geometry": { "type": "Point", "coordinates": [ -78.168554, 39.173633 ] } }
+,
+{ "type": "Feature", "id": 222, "properties": { "POLYID": 224, "CENID": "C6906", "LONGITUDE": -78.170433, "LATITUDE": 39.172947 }, "geometry": { "type": "Point", "coordinates": [ -78.170433, 39.172947 ] } }
+,
+{ "type": "Feature", "id": 223, "properties": { "POLYID": 225, "CENID": "C6906", "LONGITUDE": -78.168348, "LATITUDE": 39.172363 }, "geometry": { "type": "Point", "coordinates": [ -78.168348, 39.172363 ] } }
+,
+{ "type": "Feature", "id": 224, "properties": { "POLYID": 226, "CENID": "C6906", "LONGITUDE": -78.172689, "LATITUDE": 39.172570 }, "geometry": { "type": "Point", "coordinates": [ -78.172689, 39.172570 ] } }
+,
+{ "type": "Feature", "id": 225, "properties": { "POLYID": 227, "CENID": "C6906", "LONGITUDE": -78.177767, "LATITUDE": 39.171232 }, "geometry": { "type": "Point", "coordinates": [ -78.177767, 39.171232 ] } }
+,
+{ "type": "Feature", "id": 226, "properties": { "POLYID": 228, "CENID": "C6906", "LONGITUDE": -78.166391, "LATITUDE": 39.171837 }, "geometry": { "type": "Point", "coordinates": [ -78.166391, 39.171837 ] } }
+,
+{ "type": "Feature", "id": 227, "properties": { "POLYID": 229, "CENID": "C6906", "LONGITUDE": -78.176079, "LATITUDE": 39.172376 }, "geometry": { "type": "Point", "coordinates": [ -78.176079, 39.172376 ] } }
+,
+{ "type": "Feature", "id": 228, "properties": { "POLYID": 230, "CENID": "C6906", "LONGITUDE": -78.169269, "LATITUDE": 39.167808 }, "geometry": { "type": "Point", "coordinates": [ -78.169269, 39.167808 ] } }
+,
+{ "type": "Feature", "id": 229, "properties": { "POLYID": 231, "CENID": "C6906", "LONGITUDE": -78.173239, "LATITUDE": 39.171838 }, "geometry": { "type": "Point", "coordinates": [ -78.173239, 39.171838 ] } }
+,
+{ "type": "Feature", "id": 230, "properties": { "POLYID": 232, "CENID": "C6906", "LONGITUDE": -78.170850, "LATITUDE": 39.171895 }, "geometry": { "type": "Point", "coordinates": [ -78.170850, 39.171895 ] } }
+,
+{ "type": "Feature", "id": 231, "properties": { "POLYID": 233, "CENID": "C6906", "LONGITUDE": -78.168828, "LATITUDE": 39.170042 }, "geometry": { "type": "Point", "coordinates": [ -78.168828, 39.170042 ] } }
+,
+{ "type": "Feature", "id": 232, "properties": { "POLYID": 234, "CENID": "C6906", "LONGITUDE": -78.180000, "LATITUDE": 39.171702 }, "geometry": { "type": "Point", "coordinates": [ -78.180000, 39.171702 ] } }
+,
+{ "type": "Feature", "id": 233, "properties": { "POLYID": 235, "CENID": "C6906", "LONGITUDE": -78.173912, "LATITUDE": 39.167655 }, "geometry": { "type": "Point", "coordinates": [ -78.173912, 39.167655 ] } }
+,
+{ "type": "Feature", "id": 234, "properties": { "POLYID": 236, "CENID": "C6906", "LONGITUDE": -78.172883, "LATITUDE": 39.170717 }, "geometry": { "type": "Point", "coordinates": [ -78.172883, 39.170717 ] } }
+,
+{ "type": "Feature", "id": 235, "properties": { "POLYID": 237, "CENID": "C6906", "LONGITUDE": -78.166754, "LATITUDE": 39.170568 }, "geometry": { "type": "Point", "coordinates": [ -78.166754, 39.170568 ] } }
+,
+{ "type": "Feature", "id": 236, "properties": { "POLYID": 238, "CENID": "C6906", "LONGITUDE": -78.156125, "LATITUDE": 39.170096 }, "geometry": { "type": "Point", "coordinates": [ -78.156125, 39.170096 ] } }
+,
+{ "type": "Feature", "id": 237, "properties": { "POLYID": 239, "CENID": "C6906", "LONGITUDE": -78.176174, "LATITUDE": 39.169563 }, "geometry": { "type": "Point", "coordinates": [ -78.176174, 39.169563 ] } }
+,
+{ "type": "Feature", "id": 238, "properties": { "POLYID": 240, "CENID": "C6906", "LONGITUDE": -78.162360, "LATITUDE": 39.169264 }, "geometry": { "type": "Point", "coordinates": [ -78.162360, 39.169264 ] } }
+,
+{ "type": "Feature", "id": 239, "properties": { "POLYID": 241, "CENID": "C6906", "LONGITUDE": -78.194078, "LATITUDE": 39.182016 }, "geometry": { "type": "Point", "coordinates": [ -78.194078, 39.182016 ] } }
+,
+{ "type": "Feature", "id": 240, "properties": { "POLYID": 242, "CENID": "C6906", "LONGITUDE": -78.160607, "LATITUDE": 39.169204 }, "geometry": { "type": "Point", "coordinates": [ -78.160607, 39.169204 ] } }
+,
+{ "type": "Feature", "id": 241, "properties": { "POLYID": 243, "CENID": "C6906", "LONGITUDE": -78.159656, "LATITUDE": 39.168778 }, "geometry": { "type": "Point", "coordinates": [ -78.159656, 39.168778 ] } }
+,
+{ "type": "Feature", "id": 242, "properties": { "POLYID": 244, "CENID": "C6906", "LONGITUDE": -78.178148, "LATITUDE": 39.168884 }, "geometry": { "type": "Point", "coordinates": [ -78.178148, 39.168884 ] } }
+,
+{ "type": "Feature", "id": 243, "properties": { "POLYID": 245, "CENID": "C6906", "LONGITUDE": -78.153832, "LATITUDE": 39.169226 }, "geometry": { "type": "Point", "coordinates": [ -78.153832, 39.169226 ] } }
+,
+{ "type": "Feature", "id": 244, "properties": { "POLYID": 246, "CENID": "C6906", "LONGITUDE": -78.161433, "LATITUDE": 39.167502 }, "geometry": { "type": "Point", "coordinates": [ -78.161433, 39.167502 ] } }
+,
+{ "type": "Feature", "id": 245, "properties": { "POLYID": 247, "CENID": "C6906", "LONGITUDE": -78.176631, "LATITUDE": 39.168419 }, "geometry": { "type": "Point", "coordinates": [ -78.176631, 39.168419 ] } }
+,
+{ "type": "Feature", "id": 246, "properties": { "POLYID": 248, "CENID": "C6906", "LONGITUDE": -78.163699, "LATITUDE": 39.168615 }, "geometry": { "type": "Point", "coordinates": [ -78.163699, 39.168615 ] } }
+,
+{ "type": "Feature", "id": 247, "properties": { "POLYID": 249, "CENID": "C6906", "LONGITUDE": -78.163218, "LATITUDE": 39.166095 }, "geometry": { "type": "Point", "coordinates": [ -78.163218, 39.166095 ] } }
+,
+{ "type": "Feature", "id": 248, "properties": { "POLYID": 250, "CENID": "C6906", "LONGITUDE": -78.160585, "LATITUDE": 39.166025 }, "geometry": { "type": "Point", "coordinates": [ -78.160585, 39.166025 ] } }
+,
+{ "type": "Feature", "id": 249, "properties": { "POLYID": 251, "CENID": "C6906", "LONGITUDE": -78.179002, "LATITUDE": 39.167836 }, "geometry": { "type": "Point", "coordinates": [ -78.179002, 39.167836 ] } }
+,
+{ "type": "Feature", "id": 250, "properties": { "POLYID": 252, "CENID": "C6906", "LONGITUDE": -78.180804, "LATITUDE": 39.165217 }, "geometry": { "type": "Point", "coordinates": [ -78.180804, 39.165217 ] } }
+,
+{ "type": "Feature", "id": 251, "properties": { "POLYID": 253, "CENID": "C6906", "LONGITUDE": -78.180722, "LATITUDE": 39.164483 }, "geometry": { "type": "Point", "coordinates": [ -78.180722, 39.164483 ] } }
+,
+{ "type": "Feature", "id": 252, "properties": { "POLYID": 254, "CENID": "C6906", "LONGITUDE": -78.181419, "LATITUDE": 39.165641 }, "geometry": { "type": "Point", "coordinates": [ -78.181419, 39.165641 ] } }
+,
+{ "type": "Feature", "id": 253, "properties": { "POLYID": 255, "CENID": "C6906", "LONGITUDE": -78.156298, "LATITUDE": 39.167055 }, "geometry": { "type": "Point", "coordinates": [ -78.156298, 39.167055 ] } }
+,
+{ "type": "Feature", "id": 254, "properties": { "POLYID": 256, "CENID": "C6906", "LONGITUDE": -78.169538, "LATITUDE": 39.164542 }, "geometry": { "type": "Point", "coordinates": [ -78.169538, 39.164542 ] } }
+,
+{ "type": "Feature", "id": 255, "properties": { "POLYID": 257, "CENID": "C6906", "LONGITUDE": -78.168702, "LATITUDE": 39.164416 }, "geometry": { "type": "Point", "coordinates": [ -78.168702, 39.164416 ] } }
+,
+{ "type": "Feature", "id": 256, "properties": { "POLYID": 258, "CENID": "C6906", "LONGITUDE": -78.159288, "LATITUDE": 39.165273 }, "geometry": { "type": "Point", "coordinates": [ -78.159288, 39.165273 ] } }
+,
+{ "type": "Feature", "id": 257, "properties": { "POLYID": 259, "CENID": "C6906", "LONGITUDE": -78.157943, "LATITUDE": 39.166079 }, "geometry": { "type": "Point", "coordinates": [ -78.157943, 39.166079 ] } }
+,
+{ "type": "Feature", "id": 258, "properties": { "POLYID": 260, "CENID": "C6906", "LONGITUDE": -78.167608, "LATITUDE": 39.164155 }, "geometry": { "type": "Point", "coordinates": [ -78.167608, 39.164155 ] } }
+,
+{ "type": "Feature", "id": 259, "properties": { "POLYID": 261, "CENID": "C6906", "LONGITUDE": -78.159623, "LATITUDE": 39.162801 }, "geometry": { "type": "Point", "coordinates": [ -78.159623, 39.162801 ] } }
+,
+{ "type": "Feature", "id": 260, "properties": { "POLYID": 262, "CENID": "C6906", "LONGITUDE": -78.166524, "LATITUDE": 39.163823 }, "geometry": { "type": "Point", "coordinates": [ -78.166524, 39.163823 ] } }
+,
+{ "type": "Feature", "id": 261, "properties": { "POLYID": 263, "CENID": "C6906", "LONGITUDE": -78.157473, "LATITUDE": 39.163481 }, "geometry": { "type": "Point", "coordinates": [ -78.157473, 39.163481 ] } }
+,
+{ "type": "Feature", "id": 262, "properties": { "POLYID": 264, "CENID": "C6906", "LONGITUDE": -78.189552, "LATITUDE": 39.162393 }, "geometry": { "type": "Point", "coordinates": [ -78.189552, 39.162393 ] } }
+,
+{ "type": "Feature", "id": 263, "properties": { "POLYID": 265, "CENID": "C6906", "LONGITUDE": -78.143573, "LATITUDE": 39.185513 }, "geometry": { "type": "Point", "coordinates": [ -78.143573, 39.185513 ] } }
+,
+{ "type": "Feature", "id": 264, "properties": { "POLYID": 266, "CENID": "C6906", "LONGITUDE": -78.172494, "LATITUDE": 39.162795 }, "geometry": { "type": "Point", "coordinates": [ -78.172494, 39.162795 ] } }
+,
+{ "type": "Feature", "id": 265, "properties": { "POLYID": 267, "CENID": "C6906", "LONGITUDE": -78.159328, "LATITUDE": 39.160891 }, "geometry": { "type": "Point", "coordinates": [ -78.159328, 39.160891 ] } }
+,
+{ "type": "Feature", "id": 266, "properties": { "POLYID": 268, "CENID": "C6906", "LONGITUDE": -78.157576, "LATITUDE": 39.162612 }, "geometry": { "type": "Point", "coordinates": [ -78.157576, 39.162612 ] } }
+,
+{ "type": "Feature", "id": 267, "properties": { "POLYID": 269, "CENID": "C6906", "LONGITUDE": -78.187013, "LATITUDE": 39.161593 }, "geometry": { "type": "Point", "coordinates": [ -78.187013, 39.161593 ] } }
+,
+{ "type": "Feature", "id": 268, "properties": { "POLYID": 270, "CENID": "C6906", "LONGITUDE": -78.165435, "LATITUDE": 39.185066 }, "geometry": { "type": "Point", "coordinates": [ -78.165435, 39.185066 ] } }
+,
+{ "type": "Feature", "id": 269, "properties": { "POLYID": 271, "CENID": "C6906", "LONGITUDE": -78.158412, "LATITUDE": 39.161912 }, "geometry": { "type": "Point", "coordinates": [ -78.158412, 39.161912 ] } }
+,
+{ "type": "Feature", "id": 270, "properties": { "POLYID": 272, "CENID": "C6906", "LONGITUDE": -78.190141, "LATITUDE": 39.161319 }, "geometry": { "type": "Point", "coordinates": [ -78.190141, 39.161319 ] } }
+,
+{ "type": "Feature", "id": 271, "properties": { "POLYID": 273, "CENID": "C6906", "LONGITUDE": -78.182670, "LATITUDE": 39.158430 }, "geometry": { "type": "Point", "coordinates": [ -78.182670, 39.158430 ] } }
+,
+{ "type": "Feature", "id": 272, "properties": { "POLYID": 274, "CENID": "C6906", "LONGITUDE": -78.178196, "LATITUDE": 39.159888 }, "geometry": { "type": "Point", "coordinates": [ -78.178196, 39.159888 ] } }
+,
+{ "type": "Feature", "id": 273, "properties": { "POLYID": 275, "CENID": "C6906", "LONGITUDE": -78.176611, "LATITUDE": 39.159762 }, "geometry": { "type": "Point", "coordinates": [ -78.176611, 39.159762 ] } }
+,
+{ "type": "Feature", "id": 274, "properties": { "POLYID": 276, "CENID": "C6906", "LONGITUDE": -78.178937, "LATITUDE": 39.156412 }, "geometry": { "type": "Point", "coordinates": [ -78.178937, 39.156412 ] } }
+,
+{ "type": "Feature", "id": 275, "properties": { "POLYID": 277, "CENID": "C6906", "LONGITUDE": -78.177301, "LATITUDE": 39.157783 }, "geometry": { "type": "Point", "coordinates": [ -78.177301, 39.157783 ] } }
+,
+{ "type": "Feature", "id": 276, "properties": { "POLYID": 278, "CENID": "C6906", "LONGITUDE": -78.181007, "LATITUDE": 39.151941 }, "geometry": { "type": "Point", "coordinates": [ -78.181007, 39.151941 ] } }
+,
+{ "type": "Feature", "id": 277, "properties": { "POLYID": 279, "CENID": "C6906", "LONGITUDE": -78.178658, "LATITUDE": 39.154408 }, "geometry": { "type": "Point", "coordinates": [ -78.178658, 39.154408 ] } }
+,
+{ "type": "Feature", "id": 278, "properties": { "POLYID": 280, "CENID": "C6906", "LONGITUDE": -78.177819, "LATITUDE": 39.142510 }, "geometry": { "type": "Point", "coordinates": [ -78.177819, 39.142510 ] } }
+,
+{ "type": "Feature", "id": 279, "properties": { "POLYID": 281, "CENID": "C6906", "LONGITUDE": -78.177785, "LATITUDE": 39.153625 }, "geometry": { "type": "Point", "coordinates": [ -78.177785, 39.153625 ] } }
+,
+{ "type": "Feature", "id": 280, "properties": { "POLYID": 282, "CENID": "C6906", "LONGITUDE": -78.184008, "LATITUDE": 39.151151 }, "geometry": { "type": "Point", "coordinates": [ -78.184008, 39.151151 ] } }
+,
+{ "type": "Feature", "id": 281, "properties": { "POLYID": 283, "CENID": "C6906", "LONGITUDE": -78.183668, "LATITUDE": 39.149950 }, "geometry": { "type": "Point", "coordinates": [ -78.183668, 39.149950 ] } }
+,
+{ "type": "Feature", "id": 282, "properties": { "POLYID": 284, "CENID": "C6906", "LONGITUDE": -78.173823, "LATITUDE": 39.147675 }, "geometry": { "type": "Point", "coordinates": [ -78.173823, 39.147675 ] } }
+,
+{ "type": "Feature", "id": 283, "properties": { "POLYID": 285, "CENID": "C6906", "LONGITUDE": -78.176833, "LATITUDE": 39.145731 }, "geometry": { "type": "Point", "coordinates": [ -78.176833, 39.145731 ] } }
+,
+{ "type": "Feature", "id": 284, "properties": { "POLYID": 286, "CENID": "C6906", "LONGITUDE": -78.172765, "LATITUDE": 39.145444 }, "geometry": { "type": "Point", "coordinates": [ -78.172765, 39.145444 ] } }
+,
+{ "type": "Feature", "id": 285, "properties": { "POLYID": 287, "CENID": "C6906", "LONGITUDE": -78.175368, "LATITUDE": 39.144931 }, "geometry": { "type": "Point", "coordinates": [ -78.175368, 39.144931 ] } }
+,
+{ "type": "Feature", "id": 286, "properties": { "POLYID": 288, "CENID": "C6906", "LONGITUDE": -78.188001, "LATITUDE": 39.145055 }, "geometry": { "type": "Point", "coordinates": [ -78.188001, 39.145055 ] } }
+,
+{ "type": "Feature", "id": 287, "properties": { "POLYID": 289, "CENID": "C6906", "LONGITUDE": -78.172600, "LATITUDE": 39.143897 }, "geometry": { "type": "Point", "coordinates": [ -78.172600, 39.143897 ] } }
+,
+{ "type": "Feature", "id": 288, "properties": { "POLYID": 290, "CENID": "C6906", "LONGITUDE": -78.174880, "LATITUDE": 39.143036 }, "geometry": { "type": "Point", "coordinates": [ -78.174880, 39.143036 ] } }
+,
+{ "type": "Feature", "id": 289, "properties": { "POLYID": 291, "CENID": "C6906", "LONGITUDE": -78.180322, "LATITUDE": 39.139647 }, "geometry": { "type": "Point", "coordinates": [ -78.180322, 39.139647 ] } }
+,
+{ "type": "Feature", "id": 290, "properties": { "POLYID": 292, "CENID": "C6906", "LONGITUDE": -78.179767, "LATITUDE": 39.136233 }, "geometry": { "type": "Point", "coordinates": [ -78.179767, 39.136233 ] } }
+,
+{ "type": "Feature", "id": 291, "properties": { "POLYID": 293, "CENID": "C6906", "LONGITUDE": -78.170715, "LATITUDE": 39.164734 }, "geometry": { "type": "Point", "coordinates": [ -78.170715, 39.164734 ] } }
+,
+{ "type": "Feature", "id": 292, "properties": { "POLYID": 294, "CENID": "C6906", "LONGITUDE": -78.159969, "LATITUDE": 39.165250 }, "geometry": { "type": "Point", "coordinates": [ -78.159969, 39.165250 ] } }
+,
+{ "type": "Feature", "id": 293, "properties": { "POLYID": 295, "CENID": "C6906", "LONGITUDE": -78.159115, "LATITUDE": 39.166353 }, "geometry": { "type": "Point", "coordinates": [ -78.159115, 39.166353 ] } }
+,
+{ "type": "Feature", "id": 294, "properties": { "POLYID": 296, "CENID": "C6906", "LONGITUDE": -78.182020, "LATITUDE": 39.136655 }, "geometry": { "type": "Point", "coordinates": [ -78.182020, 39.136655 ] } }
+,
+{ "type": "Feature", "id": 295, "properties": { "POLYID": 297, "CENID": "C6906", "LONGITUDE": -78.169047, "LATITUDE": 39.194396 }, "geometry": { "type": "Point", "coordinates": [ -78.169047, 39.194396 ] } }
+,
+{ "type": "Feature", "id": 296, "properties": { "POLYID": 298, "CENID": "C6906", "LONGITUDE": -78.200249, "LATITUDE": 39.180276 }, "geometry": { "type": "Point", "coordinates": [ -78.200249, 39.180276 ] } }
+,
+{ "type": "Feature", "id": 297, "properties": { "POLYID": 299, "CENID": "C6906", "LONGITUDE": -78.155482, "LATITUDE": 39.183988 }, "geometry": { "type": "Point", "coordinates": [ -78.155482, 39.183988 ] } }
+,
+{ "type": "Feature", "id": 298, "properties": { "POLYID": 300, "CENID": "C6906", "LONGITUDE": -78.158428, "LATITUDE": 39.171393 }, "geometry": { "type": "Point", "coordinates": [ -78.158428, 39.171393 ] } }
+,
+{ "type": "Feature", "id": 299, "properties": { "POLYID": 301, "CENID": "C6906", "LONGITUDE": -78.153561, "LATITUDE": 39.177010 }, "geometry": { "type": "Point", "coordinates": [ -78.153561, 39.177010 ] } }
+,
+{ "type": "Feature", "id": 300, "properties": { "POLYID": 302, "CENID": "C6906", "LONGITUDE": -78.155921, "LATITUDE": 39.178094 }, "geometry": { "type": "Point", "coordinates": [ -78.155921, 39.178094 ] } }
+,
+{ "type": "Feature", "id": 301, "properties": { "POLYID": 303, "CENID": "C6906", "LONGITUDE": -78.160303, "LATITUDE": 39.171721 }, "geometry": { "type": "Point", "coordinates": [ -78.160303, 39.171721 ] } }
+,
+{ "type": "Feature", "id": 302, "properties": { "POLYID": 304, "CENID": "C6906", "LONGITUDE": -78.160544, "LATITUDE": 39.170680 }, "geometry": { "type": "Point", "coordinates": [ -78.160544, 39.170680 ] } }
+,
+{ "type": "Feature", "id": 303, "properties": { "POLYID": 305, "CENID": "C6906", "LONGITUDE": -78.159739, "LATITUDE": 39.170041 }, "geometry": { "type": "Point", "coordinates": [ -78.159739, 39.170041 ] } }
+,
+{ "type": "Feature", "id": 304, "properties": { "POLYID": 306, "CENID": "C6906", "LONGITUDE": -78.157802, "LATITUDE": 39.169128 }, "geometry": { "type": "Point", "coordinates": [ -78.157802, 39.169128 ] } }
+,
+{ "type": "Feature", "id": 305, "properties": { "POLYID": 307, "CENID": "C6906", "LONGITUDE": -78.151205, "LATITUDE": 39.174716 }, "geometry": { "type": "Point", "coordinates": [ -78.151205, 39.174716 ] } }
+,
+{ "type": "Feature", "id": 306, "properties": { "POLYID": 308, "CENID": "C6906", "LONGITUDE": -78.154593, "LATITUDE": 39.175688 }, "geometry": { "type": "Point", "coordinates": [ -78.154593, 39.175688 ] } }
+,
+{ "type": "Feature", "id": 307, "properties": { "POLYID": 309, "CENID": "C6906", "LONGITUDE": -78.155249, "LATITUDE": 39.175451 }, "geometry": { "type": "Point", "coordinates": [ -78.155249, 39.175451 ] } }
+,
+{ "type": "Feature", "id": 308, "properties": { "POLYID": 310, "CENID": "C6906", "LONGITUDE": -78.161395, "LATITUDE": 39.170355 }, "geometry": { "type": "Point", "coordinates": [ -78.161395, 39.170355 ] } }
+,
+{ "type": "Feature", "id": 309, "properties": { "POLYID": 311, "CENID": "C6906", "LONGITUDE": -78.160390, "LATITUDE": 39.169920 }, "geometry": { "type": "Point", "coordinates": [ -78.160390, 39.169920 ] } }
+,
+{ "type": "Feature", "id": 310, "properties": { "POLYID": 312, "CENID": "C6906", "LONGITUDE": -78.159211, "LATITUDE": 39.169418 }, "geometry": { "type": "Point", "coordinates": [ -78.159211, 39.169418 ] } }
+,
+{ "type": "Feature", "id": 311, "properties": { "POLYID": 313, "CENID": "C6906", "LONGITUDE": -78.159316, "LATITUDE": 39.168986 }, "geometry": { "type": "Point", "coordinates": [ -78.159316, 39.168986 ] } }
+,
+{ "type": "Feature", "id": 312, "properties": { "POLYID": 314, "CENID": "C6906", "LONGITUDE": -78.158103, "LATITUDE": 39.197278 }, "geometry": { "type": "Point", "coordinates": [ -78.158103, 39.197278 ] } }
+,
+{ "type": "Feature", "id": 313, "properties": { "POLYID": 315, "CENID": "C6906", "LONGITUDE": -78.159813, "LATITUDE": 39.193752 }, "geometry": { "type": "Point", "coordinates": [ -78.159813, 39.193752 ] } }
+,
+{ "type": "Feature", "id": 314, "properties": { "POLYID": 316, "CENID": "C6906", "LONGITUDE": -78.159173, "LATITUDE": 39.197050 }, "geometry": { "type": "Point", "coordinates": [ -78.159173, 39.197050 ] } }
+,
+{ "type": "Feature", "id": 315, "properties": { "POLYID": 317, "CENID": "C6906", "LONGITUDE": -78.180239, "LATITUDE": 39.195351 }, "geometry": { "type": "Point", "coordinates": [ -78.180239, 39.195351 ] } }
+,
+{ "type": "Feature", "id": 316, "properties": { "POLYID": 318, "CENID": "C6906", "LONGITUDE": -78.159999, "LATITUDE": 39.196346 }, "geometry": { "type": "Point", "coordinates": [ -78.159999, 39.196346 ] } }
+,
+{ "type": "Feature", "id": 317, "properties": { "POLYID": 319, "CENID": "C6906", "LONGITUDE": -78.164059, "LATITUDE": 39.198472 }, "geometry": { "type": "Point", "coordinates": [ -78.164059, 39.198472 ] } }
+,
+{ "type": "Feature", "id": 318, "properties": { "POLYID": 320, "CENID": "C6906", "LONGITUDE": -78.160402, "LATITUDE": 39.195503 }, "geometry": { "type": "Point", "coordinates": [ -78.160402, 39.195503 ] } }
+,
+{ "type": "Feature", "id": 319, "properties": { "POLYID": 321, "CENID": "C6906", "LONGITUDE": -78.162688, "LATITUDE": 39.192975 }, "geometry": { "type": "Point", "coordinates": [ -78.162688, 39.192975 ] } }
+,
+{ "type": "Feature", "id": 320, "properties": { "POLYID": 322, "CENID": "C6906", "LONGITUDE": -78.164352, "LATITUDE": 39.194206 }, "geometry": { "type": "Point", "coordinates": [ -78.164352, 39.194206 ] } }
+,
+{ "type": "Feature", "id": 321, "properties": { "POLYID": 323, "CENID": "C6906", "LONGITUDE": -78.165292, "LATITUDE": 39.194620 }, "geometry": { "type": "Point", "coordinates": [ -78.165292, 39.194620 ] } }
+,
+{ "type": "Feature", "id": 322, "properties": { "POLYID": 324, "CENID": "C6906", "LONGITUDE": -78.153490, "LATITUDE": 39.192317 }, "geometry": { "type": "Point", "coordinates": [ -78.153490, 39.192317 ] } }
+,
+{ "type": "Feature", "id": 323, "properties": { "POLYID": 325, "CENID": "C6906", "LONGITUDE": -78.161013, "LATITUDE": 39.193644 }, "geometry": { "type": "Point", "coordinates": [ -78.161013, 39.193644 ] } }
+,
+{ "type": "Feature", "id": 324, "properties": { "POLYID": 326, "CENID": "C6906", "LONGITUDE": -78.161353, "LATITUDE": 39.192868 }, "geometry": { "type": "Point", "coordinates": [ -78.161353, 39.192868 ] } }
+,
+{ "type": "Feature", "id": 325, "properties": { "POLYID": 327, "CENID": "C6906", "LONGITUDE": -78.163283, "LATITUDE": 39.191700 }, "geometry": { "type": "Point", "coordinates": [ -78.163283, 39.191700 ] } }
+,
+{ "type": "Feature", "id": 326, "properties": { "POLYID": 328, "CENID": "C6906", "LONGITUDE": -78.162000, "LATITUDE": 39.191082 }, "geometry": { "type": "Point", "coordinates": [ -78.162000, 39.191082 ] } }
+,
+{ "type": "Feature", "id": 327, "properties": { "POLYID": 329, "CENID": "C6906", "LONGITUDE": -78.162102, "LATITUDE": 39.187948 }, "geometry": { "type": "Point", "coordinates": [ -78.162102, 39.187948 ] } }
+,
+{ "type": "Feature", "id": 328, "properties": { "POLYID": 330, "CENID": "C6906", "LONGITUDE": -78.171215, "LATITUDE": 39.185195 }, "geometry": { "type": "Point", "coordinates": [ -78.171215, 39.185195 ] } }
+,
+{ "type": "Feature", "id": 329, "properties": { "POLYID": 331, "CENID": "C6906", "LONGITUDE": -78.172102, "LATITUDE": 39.186487 }, "geometry": { "type": "Point", "coordinates": [ -78.172102, 39.186487 ] } }
+,
+{ "type": "Feature", "id": 330, "properties": { "POLYID": 332, "CENID": "C6906", "LONGITUDE": -78.184897, "LATITUDE": 39.174168 }, "geometry": { "type": "Point", "coordinates": [ -78.184897, 39.174168 ] } }
+,
+{ "type": "Feature", "id": 331, "properties": { "POLYID": 333, "CENID": "C6906", "LONGITUDE": -78.185325, "LATITUDE": 39.172235 }, "geometry": { "type": "Point", "coordinates": [ -78.185325, 39.172235 ] } }
+,
+{ "type": "Feature", "id": 332, "properties": { "POLYID": 334, "CENID": "C6906", "LONGITUDE": -78.174842, "LATITUDE": 39.194091 }, "geometry": { "type": "Point", "coordinates": [ -78.174842, 39.194091 ] } }
+,
+{ "type": "Feature", "id": 333, "properties": { "POLYID": 335, "CENID": "C6906", "LONGITUDE": -78.183816, "LATITUDE": 39.175131 }, "geometry": { "type": "Point", "coordinates": [ -78.183816, 39.175131 ] } }
+,
+{ "type": "Feature", "id": 334, "properties": { "POLYID": 336, "CENID": "C6906", "LONGITUDE": -78.182372, "LATITUDE": 39.174067 }, "geometry": { "type": "Point", "coordinates": [ -78.182372, 39.174067 ] } }
+,
+{ "type": "Feature", "id": 335, "properties": { "POLYID": 337, "CENID": "C6906", "LONGITUDE": -78.189469, "LATITUDE": 39.189891 }, "geometry": { "type": "Point", "coordinates": [ -78.189469, 39.189891 ] } }
+,
+{ "type": "Feature", "id": 336, "properties": { "POLYID": 338, "CENID": "C6906", "LONGITUDE": -78.158114, "LATITUDE": 39.191061 }, "geometry": { "type": "Point", "coordinates": [ -78.158114, 39.191061 ] } }
+,
+{ "type": "Feature", "id": 337, "properties": { "POLYID": 339, "CENID": "C6906", "LONGITUDE": -78.157253, "LATITUDE": 39.189902 }, "geometry": { "type": "Point", "coordinates": [ -78.157253, 39.189902 ] } }
+,
+{ "type": "Feature", "id": 338, "properties": { "POLYID": 340, "CENID": "C6906", "LONGITUDE": -78.157177, "LATITUDE": 39.187787 }, "geometry": { "type": "Point", "coordinates": [ -78.157177, 39.187787 ] } }
+,
+{ "type": "Feature", "id": 339, "properties": { "POLYID": 341, "CENID": "C6906", "LONGITUDE": -78.166036, "LATITUDE": 39.187908 }, "geometry": { "type": "Point", "coordinates": [ -78.166036, 39.187908 ] } }
+,
+{ "type": "Feature", "id": 340, "properties": { "POLYID": 342, "CENID": "C6906", "LONGITUDE": -78.149779, "LATITUDE": 39.186792 }, "geometry": { "type": "Point", "coordinates": [ -78.149779, 39.186792 ] } }
+,
+{ "type": "Feature", "id": 341, "properties": { "POLYID": 343, "CENID": "C6906", "LONGITUDE": -78.155335, "LATITUDE": 39.200289 }, "geometry": { "type": "Point", "coordinates": [ -78.155335, 39.200289 ] } }
+,
+{ "type": "Feature", "id": 342, "properties": { "POLYID": 344, "CENID": "C6906", "LONGITUDE": -78.155202, "LATITUDE": 39.200530 }, "geometry": { "type": "Point", "coordinates": [ -78.155202, 39.200530 ] } }
+,
+{ "type": "Feature", "id": 343, "properties": { "POLYID": 345, "CENID": "C6906", "LONGITUDE": -78.139834, "LATITUDE": 39.185414 }, "geometry": { "type": "Point", "coordinates": [ -78.139834, 39.185414 ] } }
+,
+{ "type": "Feature", "id": 344, "properties": { "POLYID": 346, "CENID": "C6906", "LONGITUDE": -78.140228, "LATITUDE": 39.186164 }, "geometry": { "type": "Point", "coordinates": [ -78.140228, 39.186164 ] } }
+,
+{ "type": "Feature", "id": 345, "properties": { "POLYID": 347, "CENID": "C6906", "LONGITUDE": -78.144778, "LATITUDE": 39.187455 }, "geometry": { "type": "Point", "coordinates": [ -78.144778, 39.187455 ] } }
+,
+{ "type": "Feature", "id": 346, "properties": { "POLYID": 348, "CENID": "C6906", "LONGITUDE": -78.157500, "LATITUDE": 39.192220 }, "geometry": { "type": "Point", "coordinates": [ -78.157500, 39.192220 ] } }
+,
+{ "type": "Feature", "id": 347, "properties": { "POLYID": 349, "CENID": "C6906", "LONGITUDE": -78.161182, "LATITUDE": 39.188975 }, "geometry": { "type": "Point", "coordinates": [ -78.161182, 39.188975 ] } }
+,
+{ "type": "Feature", "id": 348, "properties": { "POLYID": 350, "CENID": "C6906", "LONGITUDE": -78.156260, "LATITUDE": 39.194759 }, "geometry": { "type": "Point", "coordinates": [ -78.156260, 39.194759 ] } }
+,
+{ "type": "Feature", "id": 349, "properties": { "POLYID": 351, "CENID": "C6906", "LONGITUDE": -78.161465, "LATITUDE": 39.187176 }, "geometry": { "type": "Point", "coordinates": [ -78.161465, 39.187176 ] } }
+,
+{ "type": "Feature", "id": 350, "properties": { "POLYID": 352, "CENID": "C6906", "LONGITUDE": -78.161750, "LATITUDE": 39.187364 }, "geometry": { "type": "Point", "coordinates": [ -78.161750, 39.187364 ] } }
+,
+{ "type": "Feature", "id": 351, "properties": { "POLYID": 353, "CENID": "C6906", "LONGITUDE": -78.160282, "LATITUDE": 39.187293 }, "geometry": { "type": "Point", "coordinates": [ -78.160282, 39.187293 ] } }
+,
+{ "type": "Feature", "id": 352, "properties": { "POLYID": 354, "CENID": "C6906", "LONGITUDE": -78.159729, "LATITUDE": 39.186918 }, "geometry": { "type": "Point", "coordinates": [ -78.159729, 39.186918 ] } }
+,
+{ "type": "Feature", "id": 353, "properties": { "POLYID": 355, "CENID": "C6906", "LONGITUDE": -78.160141, "LATITUDE": 39.187733 }, "geometry": { "type": "Point", "coordinates": [ -78.160141, 39.187733 ] } }
+,
+{ "type": "Feature", "id": 354, "properties": { "POLYID": 356, "CENID": "C6906", "LONGITUDE": -78.159154, "LATITUDE": 39.188302 }, "geometry": { "type": "Point", "coordinates": [ -78.159154, 39.188302 ] } }
+,
+{ "type": "Feature", "id": 355, "properties": { "POLYID": 357, "CENID": "C6906", "LONGITUDE": -78.159439, "LATITUDE": 39.190456 }, "geometry": { "type": "Point", "coordinates": [ -78.159439, 39.190456 ] } }
+,
+{ "type": "Feature", "id": 356, "properties": { "POLYID": 358, "CENID": "C6906", "LONGITUDE": -78.154825, "LATITUDE": 39.193015 }, "geometry": { "type": "Point", "coordinates": [ -78.154825, 39.193015 ] } }
+,
+{ "type": "Feature", "id": 357, "properties": { "POLYID": 359, "CENID": "C6906", "LONGITUDE": -78.160439, "LATITUDE": 39.188821 }, "geometry": { "type": "Point", "coordinates": [ -78.160439, 39.188821 ] } }
+,
+{ "type": "Feature", "id": 358, "properties": { "POLYID": 360, "CENID": "C6906", "LONGITUDE": -78.160832, "LATITUDE": 39.187459 }, "geometry": { "type": "Point", "coordinates": [ -78.160832, 39.187459 ] } }
+,
+{ "type": "Feature", "id": 359, "properties": { "POLYID": 361, "CENID": "C6906", "LONGITUDE": -78.166727, "LATITUDE": 39.186973 }, "geometry": { "type": "Point", "coordinates": [ -78.166727, 39.186973 ] } }
+,
+{ "type": "Feature", "id": 360, "properties": { "POLYID": 362, "CENID": "C6906", "LONGITUDE": -78.161966, "LATITUDE": 39.186376 }, "geometry": { "type": "Point", "coordinates": [ -78.161966, 39.186376 ] } }
+,
+{ "type": "Feature", "id": 361, "properties": { "POLYID": 363, "CENID": "C6906", "LONGITUDE": -78.141288, "LATITUDE": 39.186942 }, "geometry": { "type": "Point", "coordinates": [ -78.141288, 39.186942 ] } }
+,
+{ "type": "Feature", "id": 362, "properties": { "POLYID": 364, "CENID": "C6906", "LONGITUDE": -78.142567, "LATITUDE": 39.185892 }, "geometry": { "type": "Point", "coordinates": [ -78.142567, 39.185892 ] } }
+,
+{ "type": "Feature", "id": 363, "properties": { "POLYID": 365, "CENID": "C6906", "LONGITUDE": -78.169026, "LATITUDE": 39.185387 }, "geometry": { "type": "Point", "coordinates": [ -78.169026, 39.185387 ] } }
+,
+{ "type": "Feature", "id": 364, "properties": { "POLYID": 366, "CENID": "C6906", "LONGITUDE": -78.144429, "LATITUDE": 39.184925 }, "geometry": { "type": "Point", "coordinates": [ -78.144429, 39.184925 ] } }
+,
+{ "type": "Feature", "id": 365, "properties": { "POLYID": 367, "CENID": "C6906", "LONGITUDE": -78.148748, "LATITUDE": 39.184574 }, "geometry": { "type": "Point", "coordinates": [ -78.148748, 39.184574 ] } }
+,
+{ "type": "Feature", "id": 366, "properties": { "POLYID": 368, "CENID": "C6906", "LONGITUDE": -78.137256, "LATITUDE": 39.184545 }, "geometry": { "type": "Point", "coordinates": [ -78.137256, 39.184545 ] } }
+,
+{ "type": "Feature", "id": 367, "properties": { "POLYID": 369, "CENID": "C6906", "LONGITUDE": -78.140778, "LATITUDE": 39.182082 }, "geometry": { "type": "Point", "coordinates": [ -78.140778, 39.182082 ] } }
+,
+{ "type": "Feature", "id": 368, "properties": { "POLYID": 370, "CENID": "C6906", "LONGITUDE": -78.172752, "LATITUDE": 39.182250 }, "geometry": { "type": "Point", "coordinates": [ -78.172752, 39.182250 ] } }
+,
+{ "type": "Feature", "id": 369, "properties": { "POLYID": 371, "CENID": "C6906", "LONGITUDE": -78.161748, "LATITUDE": 39.178177 }, "geometry": { "type": "Point", "coordinates": [ -78.161748, 39.178177 ] } }
+,
+{ "type": "Feature", "id": 370, "properties": { "POLYID": 372, "CENID": "C6906", "LONGITUDE": -78.153226, "LATITUDE": 39.181588 }, "geometry": { "type": "Point", "coordinates": [ -78.153226, 39.181588 ] } }
+,
+{ "type": "Feature", "id": 371, "properties": { "POLYID": 373, "CENID": "C6906", "LONGITUDE": -78.152169, "LATITUDE": 39.181338 }, "geometry": { "type": "Point", "coordinates": [ -78.152169, 39.181338 ] } }
+,
+{ "type": "Feature", "id": 372, "properties": { "POLYID": 374, "CENID": "C6906", "LONGITUDE": -78.162957, "LATITUDE": 39.181669 }, "geometry": { "type": "Point", "coordinates": [ -78.162957, 39.181669 ] } }
+,
+{ "type": "Feature", "id": 373, "properties": { "POLYID": 375, "CENID": "C6906", "LONGITUDE": -78.162175, "LATITUDE": 39.180665 }, "geometry": { "type": "Point", "coordinates": [ -78.162175, 39.180665 ] } }
+,
+{ "type": "Feature", "id": 374, "properties": { "POLYID": 376, "CENID": "C6906", "LONGITUDE": -78.171769, "LATITUDE": 39.177369 }, "geometry": { "type": "Point", "coordinates": [ -78.171769, 39.177369 ] } }
+,
+{ "type": "Feature", "id": 375, "properties": { "POLYID": 377, "CENID": "C6906", "LONGITUDE": -78.151117, "LATITUDE": 39.181151 }, "geometry": { "type": "Point", "coordinates": [ -78.151117, 39.181151 ] } }
+,
+{ "type": "Feature", "id": 376, "properties": { "POLYID": 378, "CENID": "C6906", "LONGITUDE": -78.163328, "LATITUDE": 39.180411 }, "geometry": { "type": "Point", "coordinates": [ -78.163328, 39.180411 ] } }
+,
+{ "type": "Feature", "id": 377, "properties": { "POLYID": 379, "CENID": "C6906", "LONGITUDE": -78.174141, "LATITUDE": 39.180254 }, "geometry": { "type": "Point", "coordinates": [ -78.174141, 39.180254 ] } }
+,
+{ "type": "Feature", "id": 378, "properties": { "POLYID": 380, "CENID": "C6906", "LONGITUDE": -78.158057, "LATITUDE": 39.176328 }, "geometry": { "type": "Point", "coordinates": [ -78.158057, 39.176328 ] } }
+,
+{ "type": "Feature", "id": 379, "properties": { "POLYID": 381, "CENID": "C6906", "LONGITUDE": -78.188707, "LATITUDE": 39.178934 }, "geometry": { "type": "Point", "coordinates": [ -78.188707, 39.178934 ] } }
+,
+{ "type": "Feature", "id": 380, "properties": { "POLYID": 382, "CENID": "C6906", "LONGITUDE": -78.157022, "LATITUDE": 39.178708 }, "geometry": { "type": "Point", "coordinates": [ -78.157022, 39.178708 ] } }
+,
+{ "type": "Feature", "id": 381, "properties": { "POLYID": 383, "CENID": "C6906", "LONGITUDE": -78.159169, "LATITUDE": 39.176421 }, "geometry": { "type": "Point", "coordinates": [ -78.159169, 39.176421 ] } }
+,
+{ "type": "Feature", "id": 382, "properties": { "POLYID": 384, "CENID": "C6906", "LONGITUDE": -78.193989, "LATITUDE": 39.164060 }, "geometry": { "type": "Point", "coordinates": [ -78.193989, 39.164060 ] } }
+,
+{ "type": "Feature", "id": 383, "properties": { "POLYID": 385, "CENID": "C6906", "LONGITUDE": -78.181370, "LATITUDE": 39.166045 }, "geometry": { "type": "Point", "coordinates": [ -78.181370, 39.166045 ] } }
+,
+{ "type": "Feature", "id": 384, "properties": { "POLYID": 386, "CENID": "C6906", "LONGITUDE": -78.183418, "LATITUDE": 39.164030 }, "geometry": { "type": "Point", "coordinates": [ -78.183418, 39.164030 ] } }
+,
+{ "type": "Feature", "id": 385, "properties": { "POLYID": 387, "CENID": "C6906", "LONGITUDE": -78.192803, "LATITUDE": 39.164204 }, "geometry": { "type": "Point", "coordinates": [ -78.192803, 39.164204 ] } }
+,
+{ "type": "Feature", "id": 386, "properties": { "POLYID": 388, "CENID": "C6906", "LONGITUDE": -78.164690, "LATITUDE": 39.175238 }, "geometry": { "type": "Point", "coordinates": [ -78.164690, 39.175238 ] } }
+,
+{ "type": "Feature", "id": 387, "properties": { "POLYID": 389, "CENID": "C6906", "LONGITUDE": -78.163396, "LATITUDE": 39.172458 }, "geometry": { "type": "Point", "coordinates": [ -78.163396, 39.172458 ] } }
+,
+{ "type": "Feature", "id": 388, "properties": { "POLYID": 390, "CENID": "C6906", "LONGITUDE": -78.179044, "LATITUDE": 39.171497 }, "geometry": { "type": "Point", "coordinates": [ -78.179044, 39.171497 ] } }
+,
+{ "type": "Feature", "id": 389, "properties": { "POLYID": 391, "CENID": "C6906", "LONGITUDE": -78.179891, "LATITUDE": 39.172639 }, "geometry": { "type": "Point", "coordinates": [ -78.179891, 39.172639 ] } }
+,
+{ "type": "Feature", "id": 390, "properties": { "POLYID": 392, "CENID": "C6906", "LONGITUDE": -78.166171, "LATITUDE": 39.169874 }, "geometry": { "type": "Point", "coordinates": [ -78.166171, 39.169874 ] } }
+,
+{ "type": "Feature", "id": 391, "properties": { "POLYID": 393, "CENID": "C6906", "LONGITUDE": -78.172127, "LATITUDE": 39.169006 }, "geometry": { "type": "Point", "coordinates": [ -78.172127, 39.169006 ] } }
+,
+{ "type": "Feature", "id": 392, "properties": { "POLYID": 394, "CENID": "C6906", "LONGITUDE": -78.173808, "LATITUDE": 39.169768 }, "geometry": { "type": "Point", "coordinates": [ -78.173808, 39.169768 ] } }
+,
+{ "type": "Feature", "id": 393, "properties": { "POLYID": 395, "CENID": "C6906", "LONGITUDE": -78.165498, "LATITUDE": 39.167223 }, "geometry": { "type": "Point", "coordinates": [ -78.165498, 39.167223 ] } }
+,
+{ "type": "Feature", "id": 394, "properties": { "POLYID": 396, "CENID": "C6906", "LONGITUDE": -78.192176, "LATITUDE": 39.181631 }, "geometry": { "type": "Point", "coordinates": [ -78.192176, 39.181631 ] } }
+,
+{ "type": "Feature", "id": 395, "properties": { "POLYID": 397, "CENID": "C6906", "LONGITUDE": -78.171769, "LATITUDE": 39.147032 }, "geometry": { "type": "Point", "coordinates": [ -78.171769, 39.147032 ] } }
+,
+{ "type": "Feature", "id": 396, "properties": { "POLYID": 398, "CENID": "C6906", "LONGITUDE": -78.177477, "LATITUDE": 39.170124 }, "geometry": { "type": "Point", "coordinates": [ -78.177477, 39.170124 ] } }
+,
+{ "type": "Feature", "id": 397, "properties": { "POLYID": 399, "CENID": "C6906", "LONGITUDE": -78.174158, "LATITUDE": 39.149207 }, "geometry": { "type": "Point", "coordinates": [ -78.174158, 39.149207 ] } }
+,
+{ "type": "Feature", "id": 398, "properties": { "POLYID": 400, "CENID": "C6906", "LONGITUDE": -78.175857, "LATITUDE": 39.170296 }, "geometry": { "type": "Point", "coordinates": [ -78.175857, 39.170296 ] } }
+,
+{ "type": "Feature", "id": 399, "properties": { "POLYID": 401, "CENID": "C6906", "LONGITUDE": -78.174563, "LATITUDE": 39.171008 }, "geometry": { "type": "Point", "coordinates": [ -78.174563, 39.171008 ] } }
+,
+{ "type": "Feature", "id": 400, "properties": { "POLYID": 402, "CENID": "C6906", "LONGITUDE": -78.176187, "LATITUDE": 39.171160 }, "geometry": { "type": "Point", "coordinates": [ -78.176187, 39.171160 ] } }
+,
+{ "type": "Feature", "id": 401, "properties": { "POLYID": 403, "CENID": "C6906", "LONGITUDE": -78.161784, "LATITUDE": 39.165286 }, "geometry": { "type": "Point", "coordinates": [ -78.161784, 39.165286 ] } }
+,
+{ "type": "Feature", "id": 402, "properties": { "POLYID": 404, "CENID": "C6906", "LONGITUDE": -78.161633, "LATITUDE": 39.164176 }, "geometry": { "type": "Point", "coordinates": [ -78.161633, 39.164176 ] } }
+,
+{ "type": "Feature", "id": 403, "properties": { "POLYID": 405, "CENID": "C6906", "LONGITUDE": -78.159418, "LATITUDE": 39.167867 }, "geometry": { "type": "Point", "coordinates": [ -78.159418, 39.167867 ] } }
+,
+{ "type": "Feature", "id": 404, "properties": { "POLYID": 406, "CENID": "C6906", "LONGITUDE": -78.158354, "LATITUDE": 39.167866 }, "geometry": { "type": "Point", "coordinates": [ -78.158354, 39.167866 ] } }
+,
+{ "type": "Feature", "id": 405, "properties": { "POLYID": 407, "CENID": "C6906", "LONGITUDE": -78.160432, "LATITUDE": 39.164813 }, "geometry": { "type": "Point", "coordinates": [ -78.160432, 39.164813 ] } }
+,
+{ "type": "Feature", "id": 406, "properties": { "POLYID": 408, "CENID": "C6906", "LONGITUDE": -78.170190, "LATITUDE": 39.165768 }, "geometry": { "type": "Point", "coordinates": [ -78.170190, 39.165768 ] } }
+,
+{ "type": "Feature", "id": 407, "properties": { "POLYID": 409, "CENID": "C6906", "LONGITUDE": -78.181464, "LATITUDE": 39.164911 }, "geometry": { "type": "Point", "coordinates": [ -78.181464, 39.164911 ] } }
+,
+{ "type": "Feature", "id": 408, "properties": { "POLYID": 410, "CENID": "C6906", "LONGITUDE": -78.181367, "LATITUDE": 39.163159 }, "geometry": { "type": "Point", "coordinates": [ -78.181367, 39.163159 ] } }
+,
+{ "type": "Feature", "id": 409, "properties": { "POLYID": 411, "CENID": "C6906", "LONGITUDE": -78.182499, "LATITUDE": 39.164898 }, "geometry": { "type": "Point", "coordinates": [ -78.182499, 39.164898 ] } }
+,
+{ "type": "Feature", "id": 410, "properties": { "POLYID": 412, "CENID": "C6906", "LONGITUDE": -78.176785, "LATITUDE": 39.151993 }, "geometry": { "type": "Point", "coordinates": [ -78.176785, 39.151993 ] } }
+,
+{ "type": "Feature", "id": 411, "properties": { "POLYID": 413, "CENID": "C6906", "LONGITUDE": -78.169207, "LATITUDE": 39.162337 }, "geometry": { "type": "Point", "coordinates": [ -78.169207, 39.162337 ] } }
+,
+{ "type": "Feature", "id": 412, "properties": { "POLYID": 414, "CENID": "C6906", "LONGITUDE": -78.169592, "LATITUDE": 39.175516 }, "geometry": { "type": "Point", "coordinates": [ -78.169592, 39.175516 ] } }
+,
+{ "type": "Feature", "id": 413, "properties": { "POLYID": 415, "CENID": "C6906", "LONGITUDE": -78.191528, "LATITUDE": 39.161640 }, "geometry": { "type": "Point", "coordinates": [ -78.191528, 39.161640 ] } }
+,
+{ "type": "Feature", "id": 414, "properties": { "POLYID": 416, "CENID": "C6906", "LONGITUDE": -78.191089, "LATITUDE": 39.162542 }, "geometry": { "type": "Point", "coordinates": [ -78.191089, 39.162542 ] } }
+,
+{ "type": "Feature", "id": 415, "properties": { "POLYID": 417, "CENID": "C6906", "LONGITUDE": -78.150651, "LATITUDE": 39.190098 }, "geometry": { "type": "Point", "coordinates": [ -78.150651, 39.190098 ] } }
+,
+{ "type": "Feature", "id": 416, "properties": { "POLYID": 418, "CENID": "C6906", "LONGITUDE": -78.186990, "LATITUDE": 39.157418 }, "geometry": { "type": "Point", "coordinates": [ -78.186990, 39.157418 ] } }
+,
+{ "type": "Feature", "id": 417, "properties": { "POLYID": 419, "CENID": "C6906", "LONGITUDE": -78.187287, "LATITUDE": 39.156244 }, "geometry": { "type": "Point", "coordinates": [ -78.187287, 39.156244 ] } }
+,
+{ "type": "Feature", "id": 418, "properties": { "POLYID": 420, "CENID": "C6906", "LONGITUDE": -78.181083, "LATITUDE": 39.156451 }, "geometry": { "type": "Point", "coordinates": [ -78.181083, 39.156451 ] } }
+,
+{ "type": "Feature", "id": 419, "properties": { "POLYID": 421, "CENID": "C6906", "LONGITUDE": -78.185120, "LATITUDE": 39.147344 }, "geometry": { "type": "Point", "coordinates": [ -78.185120, 39.147344 ] } }
+,
+{ "type": "Feature", "id": 420, "properties": { "POLYID": 422, "CENID": "C6906", "LONGITUDE": -78.183334, "LATITUDE": 39.152029 }, "geometry": { "type": "Point", "coordinates": [ -78.183334, 39.152029 ] } }
+,
+{ "type": "Feature", "id": 421, "properties": { "POLYID": 423, "CENID": "C6906", "LONGITUDE": -78.178195, "LATITUDE": 39.151109 }, "geometry": { "type": "Point", "coordinates": [ -78.178195, 39.151109 ] } }
+,
+{ "type": "Feature", "id": 422, "properties": { "POLYID": 424, "CENID": "C6906", "LONGITUDE": -78.158817, "LATITUDE": 39.184430 }, "geometry": { "type": "Point", "coordinates": [ -78.158817, 39.184430 ] } }
+,
+{ "type": "Feature", "id": 423, "properties": { "POLYID": 425, "CENID": "C6906", "LONGITUDE": -78.192429, "LATITUDE": 39.176188 }, "geometry": { "type": "Point", "coordinates": [ -78.192429, 39.176188 ] } }
+,
+{ "type": "Feature", "id": 424, "properties": { "POLYID": 426, "CENID": "C6906", "LONGITUDE": -78.200637, "LATITUDE": 39.180372 }, "geometry": { "type": "Point", "coordinates": [ -78.200637, 39.180372 ] } }
+,
+{ "type": "Feature", "id": 425, "properties": { "POLYID": 427, "CENID": "C6906", "LONGITUDE": -78.169451, "LATITUDE": 39.176656 }, "geometry": { "type": "Point", "coordinates": [ -78.169451, 39.176656 ] } }
+,
+{ "type": "Feature", "id": 426, "properties": { "POLYID": 428, "CENID": "C6906", "LONGITUDE": -78.161806, "LATITUDE": 39.183466 }, "geometry": { "type": "Point", "coordinates": [ -78.161806, 39.183466 ] } }
+,
+{ "type": "Feature", "id": 427, "properties": { "POLYID": 429, "CENID": "C6906", "LONGITUDE": -78.169841, "LATITUDE": 39.167002 }, "geometry": { "type": "Point", "coordinates": [ -78.169841, 39.167002 ] } }
+,
+{ "type": "Feature", "id": 428, "properties": { "POLYID": 430, "CENID": "C6906", "LONGITUDE": -78.187492, "LATITUDE": 39.139925 }, "geometry": { "type": "Point", "coordinates": [ -78.187492, 39.139925 ] } }
+,
+{ "type": "Feature", "id": 429, "properties": { "POLYID": 431, "CENID": "C6906", "LONGITUDE": -78.173034, "LATITUDE": 39.160061 }, "geometry": { "type": "Point", "coordinates": [ -78.173034, 39.160061 ] } }
+,
+{ "type": "Feature", "id": 430, "properties": { "POLYID": 432, "CENID": "C6906", "LONGITUDE": -78.174322, "LATITUDE": 39.160772 }, "geometry": { "type": "Point", "coordinates": [ -78.174322, 39.160772 ] } }
+,
+{ "type": "Feature", "id": 431, "properties": { "POLYID": 433, "CENID": "C6906", "LONGITUDE": -78.160251, "LATITUDE": 39.192827 }, "geometry": { "type": "Point", "coordinates": [ -78.160251, 39.192827 ] } }
+,
+{ "type": "Feature", "id": 432, "properties": { "POLYID": 434, "CENID": "C6906", "LONGITUDE": -78.163648, "LATITUDE": 39.179116 }, "geometry": { "type": "Point", "coordinates": [ -78.163648, 39.179116 ] } }
+,
+{ "type": "Feature", "id": 433, "properties": { "POLYID": 435, "CENID": "C6906", "LONGITUDE": -78.158105, "LATITUDE": 39.201769 }, "geometry": { "type": "Point", "coordinates": [ -78.158105, 39.201769 ] } }
+,
+{ "type": "Feature", "id": 434, "properties": { "POLYID": 436, "CENID": "C6906", "LONGITUDE": -78.157096, "LATITUDE": 39.200329 }, "geometry": { "type": "Point", "coordinates": [ -78.157096, 39.200329 ] } }
+,
+{ "type": "Feature", "id": 435, "properties": { "POLYID": 437, "CENID": "C6906", "LONGITUDE": -78.150830, "LATITUDE": 39.192225 }, "geometry": { "type": "Point", "coordinates": [ -78.150830, 39.192225 ] } }
+,
+{ "type": "Feature", "id": 436, "properties": { "POLYID": 438, "CENID": "C6906", "LONGITUDE": -78.141157, "LATITUDE": 39.186452 }, "geometry": { "type": "Point", "coordinates": [ -78.141157, 39.186452 ] } }
+,
+{ "type": "Feature", "id": 437, "properties": { "POLYID": 439, "CENID": "C6906", "LONGITUDE": -78.159364, "LATITUDE": 39.183759 }, "geometry": { "type": "Point", "coordinates": [ -78.159364, 39.183759 ] } }
+,
+{ "type": "Feature", "id": 438, "properties": { "POLYID": 440, "CENID": "C6906", "LONGITUDE": -78.158283, "LATITUDE": 39.182744 }, "geometry": { "type": "Point", "coordinates": [ -78.158283, 39.182744 ] } }
+,
+{ "type": "Feature", "id": 439, "properties": { "POLYID": 441, "CENID": "C6906", "LONGITUDE": -78.158072, "LATITUDE": 39.193232 }, "geometry": { "type": "Point", "coordinates": [ -78.158072, 39.193232 ] } }
+,
+{ "type": "Feature", "id": 440, "properties": { "POLYID": 442, "CENID": "C6906", "LONGITUDE": -78.152626, "LATITUDE": 39.193261 }, "geometry": { "type": "Point", "coordinates": [ -78.152626, 39.193261 ] } }
+,
+{ "type": "Feature", "id": 441, "properties": { "POLYID": 443, "CENID": "C6906", "LONGITUDE": -78.186614, "LATITUDE": 39.159244 }, "geometry": { "type": "Point", "coordinates": [ -78.186614, 39.159244 ] } }
+,
+{ "type": "Feature", "id": 442, "properties": { "POLYID": 444, "CENID": "C6906", "LONGITUDE": -78.161046, "LATITUDE": 39.190957 }, "geometry": { "type": "Point", "coordinates": [ -78.161046, 39.190957 ] } }
+,
+{ "type": "Feature", "id": 443, "properties": { "POLYID": 445, "CENID": "C6906", "LONGITUDE": -78.162481, "LATITUDE": 39.193560 }, "geometry": { "type": "Point", "coordinates": [ -78.162481, 39.193560 ] } }
+,
+{ "type": "Feature", "id": 444, "properties": { "POLYID": 446, "CENID": "C6906", "LONGITUDE": -78.146484, "LATITUDE": 39.185094 }, "geometry": { "type": "Point", "coordinates": [ -78.146484, 39.185094 ] } }
+,
+{ "type": "Feature", "id": 445, "properties": { "POLYID": 447, "CENID": "C6906", "LONGITUDE": -78.189125, "LATITUDE": 39.190103 }, "geometry": { "type": "Point", "coordinates": [ -78.189125, 39.190103 ] } }
+,
+{ "type": "Feature", "id": 446, "properties": { "POLYID": 448, "CENID": "C6906", "LONGITUDE": -78.169556, "LATITUDE": 39.155484 }, "geometry": { "type": "Point", "coordinates": [ -78.169556, 39.155484 ] } }
+,
+{ "type": "Feature", "id": 447, "properties": { "POLYID": 449, "CENID": "C6906", "LONGITUDE": -78.166228, "LATITUDE": 39.162930 }, "geometry": { "type": "Point", "coordinates": [ -78.166228, 39.162930 ] } }
+,
+{ "type": "Feature", "id": 448, "properties": { "POLYID": 450, "CENID": "C6906", "LONGITUDE": -78.181471, "LATITUDE": 39.154337 }, "geometry": { "type": "Point", "coordinates": [ -78.181471, 39.154337 ] } }
+,
+{ "type": "Feature", "id": 449, "properties": { "POLYID": 451, "CENID": "C6906", "LONGITUDE": -78.180912, "LATITUDE": 39.146206 }, "geometry": { "type": "Point", "coordinates": [ -78.180912, 39.146206 ] } }
+,
+{ "type": "Feature", "id": 450, "properties": { "POLYID": 452, "CENID": "C6906", "LONGITUDE": -78.193162, "LATITUDE": 39.142914 }, "geometry": { "type": "Point", "coordinates": [ -78.193162, 39.142914 ] } }
+,
+{ "type": "Feature", "id": 451, "properties": { "POLYID": 453, "CENID": "C6906", "LONGITUDE": -78.184941, "LATITUDE": 39.151941 }, "geometry": { "type": "Point", "coordinates": [ -78.184941, 39.151941 ] } }
+,
+{ "type": "Feature", "id": 452, "properties": { "POLYID": 454, "CENID": "C6906", "LONGITUDE": -78.158930, "LATITUDE": 39.187385 }, "geometry": { "type": "Point", "coordinates": [ -78.158930, 39.187385 ] } }
+,
+{ "type": "Feature", "id": 453, "properties": { "POLYID": 455, "CENID": "C6906", "LONGITUDE": -78.165322, "LATITUDE": 39.168970 }, "geometry": { "type": "Point", "coordinates": [ -78.165322, 39.168970 ] } }
+,
+{ "type": "Feature", "id": 454, "properties": { "POLYID": 456, "CENID": "C6906", "LONGITUDE": -78.160228, "LATITUDE": 39.172441 }, "geometry": { "type": "Point", "coordinates": [ -78.160228, 39.172441 ] } }
+,
+{ "type": "Feature", "id": 455, "properties": { "POLYID": 457, "CENID": "C6906", "LONGITUDE": -78.193555, "LATITUDE": 39.165705 }, "geometry": { "type": "Point", "coordinates": [ -78.193555, 39.165705 ] } }
+,
+{ "type": "Feature", "id": 456, "properties": { "POLYID": 458, "CENID": "C6906", "LONGITUDE": -78.192620, "LATITUDE": 39.165781 }, "geometry": { "type": "Point", "coordinates": [ -78.192620, 39.165781 ] } }
+,
+{ "type": "Feature", "id": 457, "properties": { "POLYID": 459, "CENID": "C6906", "LONGITUDE": -78.184281, "LATITUDE": 39.163132 }, "geometry": { "type": "Point", "coordinates": [ -78.184281, 39.163132 ] } }
+,
+{ "type": "Feature", "id": 458, "properties": { "POLYID": 460, "CENID": "C6906", "LONGITUDE": -78.180860, "LATITUDE": 39.190779 }, "geometry": { "type": "Point", "coordinates": [ -78.180860, 39.190779 ] } }
+,
+{ "type": "Feature", "id": 459, "properties": { "POLYID": 461, "CENID": "C6906", "LONGITUDE": -78.176166, "LATITUDE": 39.166349 }, "geometry": { "type": "Point", "coordinates": [ -78.176166, 39.166349 ] } }
+,
+{ "type": "Feature", "id": 460, "properties": { "POLYID": 463, "CENID": "C6906", "LONGITUDE": -78.179150, "LATITUDE": 39.147879 }, "geometry": { "type": "Point", "coordinates": [ -78.179150, 39.147879 ] } }
+,
+{ "type": "Feature", "id": 461, "properties": { "POLYID": 464, "CENID": "C6906", "LONGITUDE": -78.185668, "LATITUDE": 39.201592 }, "geometry": { "type": "Point", "coordinates": [ -78.185668, 39.201592 ] } }
+,
+{ "type": "Feature", "id": 462, "properties": { "POLYID": 465, "CENID": "C6906", "LONGITUDE": -78.179048, "LATITUDE": 39.200417 }, "geometry": { "type": "Point", "coordinates": [ -78.179048, 39.200417 ] } }
+,
+{ "type": "Feature", "id": 463, "properties": { "POLYID": 466, "CENID": "C6906", "LONGITUDE": -78.195455, "LATITUDE": 39.193551 }, "geometry": { "type": "Point", "coordinates": [ -78.195455, 39.193551 ] } }
+,
+{ "type": "Feature", "id": 464, "properties": { "POLYID": 467, "CENID": "C6906", "LONGITUDE": -78.198867, "LATITUDE": 39.181855 }, "geometry": { "type": "Point", "coordinates": [ -78.198867, 39.181855 ] } }
+,
+{ "type": "Feature", "id": 465, "properties": { "POLYID": 468, "CENID": "C6906", "LONGITUDE": -78.200491, "LATITUDE": 39.180125 }, "geometry": { "type": "Point", "coordinates": [ -78.200491, 39.180125 ] } }
+,
+{ "type": "Feature", "id": 466, "properties": { "POLYID": 469, "CENID": "C6906", "LONGITUDE": -78.163703, "LATITUDE": 39.198919 }, "geometry": { "type": "Point", "coordinates": [ -78.163703, 39.198919 ] } }
+,
+{ "type": "Feature", "id": 467, "properties": { "POLYID": 470, "CENID": "C6906", "LONGITUDE": -78.139620, "LATITUDE": 39.185976 }, "geometry": { "type": "Point", "coordinates": [ -78.139620, 39.185976 ] } }
+,
+{ "type": "Feature", "id": 468, "properties": { "POLYID": 471, "CENID": "C6906", "LONGITUDE": -78.138258, "LATITUDE": 39.185169 }, "geometry": { "type": "Point", "coordinates": [ -78.138258, 39.185169 ] } }
+,
+{ "type": "Feature", "id": 469, "properties": { "POLYID": 472, "CENID": "C6906", "LONGITUDE": -78.139060, "LATITUDE": 39.184785 }, "geometry": { "type": "Point", "coordinates": [ -78.139060, 39.184785 ] } }
+,
+{ "type": "Feature", "id": 470, "properties": { "POLYID": 473, "CENID": "C6906", "LONGITUDE": -78.142700, "LATITUDE": 39.187773 }, "geometry": { "type": "Point", "coordinates": [ -78.142700, 39.187773 ] } }
+,
+{ "type": "Feature", "id": 471, "properties": { "POLYID": 474, "CENID": "C6906", "LONGITUDE": -78.137133, "LATITUDE": 39.184085 }, "geometry": { "type": "Point", "coordinates": [ -78.137133, 39.184085 ] } }
+,
+{ "type": "Feature", "id": 472, "properties": { "POLYID": 475, "CENID": "C6906", "LONGITUDE": -78.138001, "LATITUDE": 39.183501 }, "geometry": { "type": "Point", "coordinates": [ -78.138001, 39.183501 ] } }
+,
+{ "type": "Feature", "id": 473, "properties": { "POLYID": 476, "CENID": "C6906", "LONGITUDE": -78.138971, "LATITUDE": 39.185531 }, "geometry": { "type": "Point", "coordinates": [ -78.138971, 39.185531 ] } }
+,
+{ "type": "Feature", "id": 474, "properties": { "POLYID": 477, "CENID": "C6906", "LONGITUDE": -78.137315, "LATITUDE": 39.184622 }, "geometry": { "type": "Point", "coordinates": [ -78.137315, 39.184622 ] } }
+,
+{ "type": "Feature", "id": 475, "properties": { "POLYID": 478, "CENID": "C6906", "LONGITUDE": -78.197034, "LATITUDE": 39.189765 }, "geometry": { "type": "Point", "coordinates": [ -78.197034, 39.189765 ] } }
+,
+{ "type": "Feature", "id": 476, "properties": { "POLYID": 480, "CENID": "C6906", "LONGITUDE": -78.183402, "LATITUDE": 39.176742 }, "geometry": { "type": "Point", "coordinates": [ -78.183402, 39.176742 ] } }
+,
+{ "type": "Feature", "id": 477, "properties": { "POLYID": 481, "CENID": "C6906", "LONGITUDE": -78.180058, "LATITUDE": 39.202813 }, "geometry": { "type": "Point", "coordinates": [ -78.180058, 39.202813 ] } }
+,
+{ "type": "Feature", "id": 478, "properties": { "POLYID": 482, "CENID": "C6906", "LONGITUDE": -78.195468, "LATITUDE": 39.191351 }, "geometry": { "type": "Point", "coordinates": [ -78.195468, 39.191351 ] } }
+,
+{ "type": "Feature", "id": 479, "properties": { "POLYID": 483, "CENID": "C6906", "LONGITUDE": -78.193383, "LATITUDE": 39.191469 }, "geometry": { "type": "Point", "coordinates": [ -78.193383, 39.191469 ] } }
+,
+{ "type": "Feature", "id": 480, "properties": { "POLYID": 484, "CENID": "C6906", "LONGITUDE": -78.190627, "LATITUDE": 39.195558 }, "geometry": { "type": "Point", "coordinates": [ -78.190627, 39.195558 ] } }
+,
+{ "type": "Feature", "id": 481, "properties": { "POLYID": 485, "CENID": "C6906", "LONGITUDE": -78.192642, "LATITUDE": 39.194212 }, "geometry": { "type": "Point", "coordinates": [ -78.192642, 39.194212 ] } }
+,
+{ "type": "Feature", "id": 482, "properties": { "POLYID": 486, "CENID": "C6906", "LONGITUDE": -78.160926, "LATITUDE": 39.184858 }, "geometry": { "type": "Point", "coordinates": [ -78.160926, 39.184858 ] } }
+,
+{ "type": "Feature", "id": 483, "properties": { "POLYID": 487, "CENID": "C6906", "LONGITUDE": -78.158692, "LATITUDE": 39.184975 }, "geometry": { "type": "Point", "coordinates": [ -78.158692, 39.184975 ] } }
+,
+{ "type": "Feature", "id": 484, "properties": { "POLYID": 488, "CENID": "C6906", "LONGITUDE": -78.158946, "LATITUDE": 39.184123 }, "geometry": { "type": "Point", "coordinates": [ -78.158946, 39.184123 ] } }
+,
+{ "type": "Feature", "id": 485, "properties": { "POLYID": 489, "CENID": "C6906", "LONGITUDE": -78.160833, "LATITUDE": 39.187831 }, "geometry": { "type": "Point", "coordinates": [ -78.160833, 39.187831 ] } }
+,
+{ "type": "Feature", "id": 486, "properties": { "POLYID": 490, "CENID": "C6906", "LONGITUDE": -78.161291, "LATITUDE": 39.187415 }, "geometry": { "type": "Point", "coordinates": [ -78.161291, 39.187415 ] } }
+,
+{ "type": "Feature", "id": 487, "properties": { "POLYID": 491, "CENID": "C6906", "LONGITUDE": -78.160353, "LATITUDE": 39.186062 }, "geometry": { "type": "Point", "coordinates": [ -78.160353, 39.186062 ] } }
+,
+{ "type": "Feature", "id": 488, "properties": { "POLYID": 492, "CENID": "C6906", "LONGITUDE": -78.170270, "LATITUDE": 39.166338 }, "geometry": { "type": "Point", "coordinates": [ -78.170270, 39.166338 ] } }
+,
+{ "type": "Feature", "id": 489, "properties": { "POLYID": 493, "CENID": "C6906", "LONGITUDE": -78.168166, "LATITUDE": 39.166789 }, "geometry": { "type": "Point", "coordinates": [ -78.168166, 39.166789 ] } }
+,
+{ "type": "Feature", "id": 490, "properties": { "POLYID": 494, "CENID": "C6906", "LONGITUDE": -78.167032, "LATITUDE": 39.165343 }, "geometry": { "type": "Point", "coordinates": [ -78.167032, 39.165343 ] } }
+,
+{ "type": "Feature", "id": 491, "properties": { "POLYID": 495, "CENID": "C6906", "LONGITUDE": -78.186284, "LATITUDE": 39.192123 }, "geometry": { "type": "Point", "coordinates": [ -78.186284, 39.192123 ] } }
+,
+{ "type": "Feature", "id": 492, "properties": { "POLYID": 496, "CENID": "C6906", "LONGITUDE": -78.184757, "LATITUDE": 39.177237 }, "geometry": { "type": "Point", "coordinates": [ -78.184757, 39.177237 ] } }
+,
+{ "type": "Feature", "id": 493, "properties": { "POLYID": 497, "CENID": "C6906", "LONGITUDE": -78.185914, "LATITUDE": 39.176374 }, "geometry": { "type": "Point", "coordinates": [ -78.185914, 39.176374 ] } }
+,
+{ "type": "Feature", "id": 494, "properties": { "POLYID": 498, "CENID": "C6906", "LONGITUDE": -78.184604, "LATITUDE": 39.176316 }, "geometry": { "type": "Point", "coordinates": [ -78.184604, 39.176316 ] } }
+,
+{ "type": "Feature", "id": 495, "properties": { "POLYID": 499, "CENID": "C6906", "LONGITUDE": -78.185786, "LATITUDE": 39.173383 }, "geometry": { "type": "Point", "coordinates": [ -78.185786, 39.173383 ] } }
+,
+{ "type": "Feature", "id": 496, "properties": { "POLYID": 500, "CENID": "C6906", "LONGITUDE": -78.196187, "LATITUDE": 39.179321 }, "geometry": { "type": "Point", "coordinates": [ -78.196187, 39.179321 ] } }
+,
+{ "type": "Feature", "id": 497, "properties": { "POLYID": 501, "CENID": "C6906", "LONGITUDE": -78.189360, "LATITUDE": 39.182282 }, "geometry": { "type": "Point", "coordinates": [ -78.189360, 39.182282 ] } }
+,
+{ "type": "Feature", "id": 498, "properties": { "POLYID": 502, "CENID": "C6906", "LONGITUDE": -78.180580, "LATITUDE": 39.186078 }, "geometry": { "type": "Point", "coordinates": [ -78.180580, 39.186078 ] } }
+,
+{ "type": "Feature", "id": 499, "properties": { "POLYID": 503, "CENID": "C6906", "LONGITUDE": -78.191644, "LATITUDE": 39.185185 }, "geometry": { "type": "Point", "coordinates": [ -78.191644, 39.185185 ] } }
+,
+{ "type": "Feature", "id": 500, "properties": { "POLYID": 504, "CENID": "C6906", "LONGITUDE": -78.194919, "LATITUDE": 39.184352 }, "geometry": { "type": "Point", "coordinates": [ -78.194919, 39.184352 ] } }
+,
+{ "type": "Feature", "id": 501, "properties": { "POLYID": 505, "CENID": "C6906", "LONGITUDE": -78.192250, "LATITUDE": 39.182193 }, "geometry": { "type": "Point", "coordinates": [ -78.192250, 39.182193 ] } }
+,
+{ "type": "Feature", "id": 502, "properties": { "POLYID": 506, "CENID": "C6906", "LONGITUDE": -78.189067, "LATITUDE": 39.170724 }, "geometry": { "type": "Point", "coordinates": [ -78.189067, 39.170724 ] } }
+,
+{ "type": "Feature", "id": 503, "properties": { "POLYID": 507, "CENID": "C6906", "LONGITUDE": -78.181487, "LATITUDE": 39.171070 }, "geometry": { "type": "Point", "coordinates": [ -78.181487, 39.171070 ] } }
+,
+{ "type": "Feature", "id": 504, "properties": { "POLYID": 508, "CENID": "C6906", "LONGITUDE": -78.162659, "LATITUDE": 39.161059 }, "geometry": { "type": "Point", "coordinates": [ -78.162659, 39.161059 ] } }
+,
+{ "type": "Feature", "id": 505, "properties": { "POLYID": 509, "CENID": "C6906", "LONGITUDE": -78.175864, "LATITUDE": 39.165067 }, "geometry": { "type": "Point", "coordinates": [ -78.175864, 39.165067 ] } }
+,
+{ "type": "Feature", "id": 506, "properties": { "POLYID": 510, "CENID": "C6906", "LONGITUDE": -78.176040, "LATITUDE": 39.163658 }, "geometry": { "type": "Point", "coordinates": [ -78.176040, 39.163658 ] } }
+,
+{ "type": "Feature", "id": 507, "properties": { "POLYID": 511, "CENID": "C6906", "LONGITUDE": -78.162682, "LATITUDE": 39.162914 }, "geometry": { "type": "Point", "coordinates": [ -78.162682, 39.162914 ] } }
+,
+{ "type": "Feature", "id": 508, "properties": { "POLYID": 512, "CENID": "C6906", "LONGITUDE": -78.167499, "LATITUDE": 39.159478 }, "geometry": { "type": "Point", "coordinates": [ -78.167499, 39.159478 ] } }
+,
+{ "type": "Feature", "id": 509, "properties": { "POLYID": 513, "CENID": "C6906", "LONGITUDE": -78.163259, "LATITUDE": 39.163223 }, "geometry": { "type": "Point", "coordinates": [ -78.163259, 39.163223 ] } }
+,
+{ "type": "Feature", "id": 510, "properties": { "POLYID": 514, "CENID": "C6906", "LONGITUDE": -78.164748, "LATITUDE": 39.163180 }, "geometry": { "type": "Point", "coordinates": [ -78.164748, 39.163180 ] } }
+,
+{ "type": "Feature", "id": 511, "properties": { "POLYID": 515, "CENID": "C6906", "LONGITUDE": -78.182991, "LATITUDE": 39.154677 }, "geometry": { "type": "Point", "coordinates": [ -78.182991, 39.154677 ] } }
+,
+{ "type": "Feature", "id": 512, "properties": { "POLYID": 516, "CENID": "C6906", "LONGITUDE": -78.182697, "LATITUDE": 39.155732 }, "geometry": { "type": "Point", "coordinates": [ -78.182697, 39.155732 ] } }
+,
+{ "type": "Feature", "id": 513, "properties": { "POLYID": 517, "CENID": "C6906", "LONGITUDE": -78.182271, "LATITUDE": 39.153990 }, "geometry": { "type": "Point", "coordinates": [ -78.182271, 39.153990 ] } }
+,
+{ "type": "Feature", "id": 514, "properties": { "POLYID": 518, "CENID": "C6906", "LONGITUDE": -78.182476, "LATITUDE": 39.153481 }, "geometry": { "type": "Point", "coordinates": [ -78.182476, 39.153481 ] } }
+,
+{ "type": "Feature", "id": 515, "properties": { "POLYID": 519, "CENID": "C6906", "LONGITUDE": -78.183952, "LATITUDE": 39.154374 }, "geometry": { "type": "Point", "coordinates": [ -78.183952, 39.154374 ] } }
+,
+{ "type": "Feature", "id": 516, "properties": { "POLYID": 520, "CENID": "C6906", "LONGITUDE": -78.177997, "LATITUDE": 39.148775 }, "geometry": { "type": "Point", "coordinates": [ -78.177997, 39.148775 ] } }
+,
+{ "type": "Feature", "id": 517, "properties": { "POLYID": 521, "CENID": "C6906", "LONGITUDE": -78.185799, "LATITUDE": 39.153217 }, "geometry": { "type": "Point", "coordinates": [ -78.185799, 39.153217 ] } }
+,
+{ "type": "Feature", "id": 518, "properties": { "POLYID": 522, "CENID": "C6906", "LONGITUDE": -78.185063, "LATITUDE": 39.153958 }, "geometry": { "type": "Point", "coordinates": [ -78.185063, 39.153958 ] } }
+,
+{ "type": "Feature", "id": 519, "properties": { "POLYID": 523, "CENID": "C6906", "LONGITUDE": -78.191944, "LATITUDE": 39.159511 }, "geometry": { "type": "Point", "coordinates": [ -78.191944, 39.159511 ] } }
+,
+{ "type": "Feature", "id": 520, "properties": { "POLYID": 524, "CENID": "C6906", "LONGITUDE": -78.192581, "LATITUDE": 39.157299 }, "geometry": { "type": "Point", "coordinates": [ -78.192581, 39.157299 ] } }
+,
+{ "type": "Feature", "id": 521, "properties": { "POLYID": 525, "CENID": "C6906", "LONGITUDE": -78.194291, "LATITUDE": 39.151707 }, "geometry": { "type": "Point", "coordinates": [ -78.194291, 39.151707 ] } }
+,
+{ "type": "Feature", "id": 522, "properties": { "POLYID": 526, "CENID": "C6906", "LONGITUDE": -78.188565, "LATITUDE": 39.155410 }, "geometry": { "type": "Point", "coordinates": [ -78.188565, 39.155410 ] } }
+,
+{ "type": "Feature", "id": 523, "properties": { "POLYID": 527, "CENID": "C6906", "LONGITUDE": -78.190538, "LATITUDE": 39.146711 }, "geometry": { "type": "Point", "coordinates": [ -78.190538, 39.146711 ] } }
+,
+{ "type": "Feature", "id": 524, "properties": { "POLYID": 528, "CENID": "C6906", "LONGITUDE": -78.164876, "LATITUDE": 39.186527 }, "geometry": { "type": "Point", "coordinates": [ -78.164876, 39.186527 ] } }
+,
+{ "type": "Feature", "id": 525, "properties": { "POLYID": 529, "CENID": "C6906", "LONGITUDE": -78.166238, "LATITUDE": 39.183017 }, "geometry": { "type": "Point", "coordinates": [ -78.166238, 39.183017 ] } }
+,
+{ "type": "Feature", "id": 526, "properties": { "POLYID": 530, "CENID": "C6906", "LONGITUDE": -78.167140, "LATITUDE": 39.182712 }, "geometry": { "type": "Point", "coordinates": [ -78.167140, 39.182712 ] } }
+,
+{ "type": "Feature", "id": 527, "properties": { "POLYID": 531, "CENID": "C6906", "LONGITUDE": -78.173719, "LATITUDE": 39.174030 }, "geometry": { "type": "Point", "coordinates": [ -78.173719, 39.174030 ] } }
+,
+{ "type": "Feature", "id": 528, "properties": { "POLYID": 532, "CENID": "C6906", "LONGITUDE": -78.167087, "LATITUDE": 39.184885 }, "geometry": { "type": "Point", "coordinates": [ -78.167087, 39.184885 ] } }
+,
+{ "type": "Feature", "id": 529, "properties": { "POLYID": 533, "CENID": "C6906", "LONGITUDE": -78.150909, "LATITUDE": 39.185319 }, "geometry": { "type": "Point", "coordinates": [ -78.150909, 39.185319 ] } }
+,
+{ "type": "Feature", "id": 530, "properties": { "POLYID": 534, "CENID": "C6906", "LONGITUDE": -78.184679, "LATITUDE": 39.191337 }, "geometry": { "type": "Point", "coordinates": [ -78.184679, 39.191337 ] } }
+,
+{ "type": "Feature", "id": 531, "properties": { "POLYID": 535, "CENID": "C6906", "LONGITUDE": -78.183604, "LATITUDE": 39.190894 }, "geometry": { "type": "Point", "coordinates": [ -78.183604, 39.190894 ] } }
+,
+{ "type": "Feature", "id": 532, "properties": { "POLYID": 536, "CENID": "C6906", "LONGITUDE": -78.182520, "LATITUDE": 39.190443 }, "geometry": { "type": "Point", "coordinates": [ -78.182520, 39.190443 ] } }
+,
+{ "type": "Feature", "id": 533, "properties": { "POLYID": 537, "CENID": "C6906", "LONGITUDE": -78.160768, "LATITUDE": 39.199715 }, "geometry": { "type": "Point", "coordinates": [ -78.160768, 39.199715 ] } }
+,
+{ "type": "Feature", "id": 534, "properties": { "POLYID": 538, "CENID": "C6906", "LONGITUDE": -78.160115, "LATITUDE": 39.200089 }, "geometry": { "type": "Point", "coordinates": [ -78.160115, 39.200089 ] } }
+,
+{ "type": "Feature", "id": 535, "properties": { "POLYID": 539, "CENID": "C6906", "LONGITUDE": -78.150014, "LATITUDE": 39.184781 }, "geometry": { "type": "Point", "coordinates": [ -78.150014, 39.184781 ] } }
+,
+{ "type": "Feature", "id": 536, "properties": { "POLYID": 540, "CENID": "C6906", "LONGITUDE": -78.146789, "LATITUDE": 39.184143 }, "geometry": { "type": "Point", "coordinates": [ -78.146789, 39.184143 ] } }
+,
+{ "type": "Feature", "id": 537, "properties": { "POLYID": 541, "CENID": "C6906", "LONGITUDE": -78.144700, "LATITUDE": 39.183858 }, "geometry": { "type": "Point", "coordinates": [ -78.144700, 39.183858 ] } }
+,
+{ "type": "Feature", "id": 538, "properties": { "POLYID": 542, "CENID": "C6906", "LONGITUDE": -78.192418, "LATITUDE": 39.197248 }, "geometry": { "type": "Point", "coordinates": [ -78.192418, 39.197248 ] } }
+,
+{ "type": "Feature", "id": 539, "properties": { "POLYID": 543, "CENID": "C6906", "LONGITUDE": -78.193420, "LATITUDE": 39.192789 }, "geometry": { "type": "Point", "coordinates": [ -78.193420, 39.192789 ] } }
+,
+{ "type": "Feature", "id": 540, "properties": { "POLYID": 544, "CENID": "C6906", "LONGITUDE": -78.195166, "LATITUDE": 39.192482 }, "geometry": { "type": "Point", "coordinates": [ -78.195166, 39.192482 ] } }
+,
+{ "type": "Feature", "id": 541, "properties": { "POLYID": 545, "CENID": "C6906", "LONGITUDE": -78.188836, "LATITUDE": 39.179102 }, "geometry": { "type": "Point", "coordinates": [ -78.188836, 39.179102 ] } }
+,
+{ "type": "Feature", "id": 542, "properties": { "POLYID": 546, "CENID": "C6906", "LONGITUDE": -78.188875, "LATITUDE": 39.180069 }, "geometry": { "type": "Point", "coordinates": [ -78.188875, 39.180069 ] } }
+,
+{ "type": "Feature", "id": 543, "properties": { "POLYID": 547, "CENID": "C6906", "LONGITUDE": -78.189693, "LATITUDE": 39.180168 }, "geometry": { "type": "Point", "coordinates": [ -78.189693, 39.180168 ] } }
+,
+{ "type": "Feature", "id": 544, "properties": { "POLYID": 548, "CENID": "C6906", "LONGITUDE": -78.190075, "LATITUDE": 39.179178 }, "geometry": { "type": "Point", "coordinates": [ -78.190075, 39.179178 ] } }
+,
+{ "type": "Feature", "id": 545, "properties": { "POLYID": 549, "CENID": "C6906", "LONGITUDE": -78.184685, "LATITUDE": 39.176331 }, "geometry": { "type": "Point", "coordinates": [ -78.184685, 39.176331 ] } }
+,
+{ "type": "Feature", "id": 546, "properties": { "POLYID": 550, "CENID": "C6906", "LONGITUDE": -78.184248, "LATITUDE": 39.176690 }, "geometry": { "type": "Point", "coordinates": [ -78.184248, 39.176690 ] } }
+,
+{ "type": "Feature", "id": 547, "properties": { "POLYID": 551, "CENID": "C6906", "LONGITUDE": -78.184610, "LATITUDE": 39.176522 }, "geometry": { "type": "Point", "coordinates": [ -78.184610, 39.176522 ] } }
+,
+{ "type": "Feature", "id": 548, "properties": { "POLYID": 552, "CENID": "C6906", "LONGITUDE": -78.179511, "LATITUDE": 39.175034 }, "geometry": { "type": "Point", "coordinates": [ -78.179511, 39.175034 ] } }
+,
+{ "type": "Feature", "id": 549, "properties": { "POLYID": 553, "CENID": "C6906", "LONGITUDE": -78.182731, "LATITUDE": 39.169234 }, "geometry": { "type": "Point", "coordinates": [ -78.182731, 39.169234 ] } }
+,
+{ "type": "Feature", "id": 550, "properties": { "POLYID": 554, "CENID": "C6906", "LONGITUDE": -78.180962, "LATITUDE": 39.168405 }, "geometry": { "type": "Point", "coordinates": [ -78.180962, 39.168405 ] } }
+,
+{ "type": "Feature", "id": 551, "properties": { "POLYID": 555, "CENID": "C6906", "LONGITUDE": -78.183416, "LATITUDE": 39.171230 }, "geometry": { "type": "Point", "coordinates": [ -78.183416, 39.171230 ] } }
+,
+{ "type": "Feature", "id": 552, "properties": { "POLYID": 556, "CENID": "C6906", "LONGITUDE": -78.186588, "LATITUDE": 39.168271 }, "geometry": { "type": "Point", "coordinates": [ -78.186588, 39.168271 ] } }
+,
+{ "type": "Feature", "id": 553, "properties": { "POLYID": 557, "CENID": "C6906", "LONGITUDE": -78.184954, "LATITUDE": 39.169321 }, "geometry": { "type": "Point", "coordinates": [ -78.184954, 39.169321 ] } }
+,
+{ "type": "Feature", "id": 554, "properties": { "POLYID": 558, "CENID": "C6906", "LONGITUDE": -78.187717, "LATITUDE": 39.170068 }, "geometry": { "type": "Point", "coordinates": [ -78.187717, 39.170068 ] } }
+,
+{ "type": "Feature", "id": 555, "properties": { "POLYID": 559, "CENID": "C6906", "LONGITUDE": -78.187142, "LATITUDE": 39.170856 }, "geometry": { "type": "Point", "coordinates": [ -78.187142, 39.170856 ] } }
+,
+{ "type": "Feature", "id": 556, "properties": { "POLYID": 560, "CENID": "C6906", "LONGITUDE": -78.188662, "LATITUDE": 39.170382 }, "geometry": { "type": "Point", "coordinates": [ -78.188662, 39.170382 ] } }
+,
+{ "type": "Feature", "id": 557, "properties": { "POLYID": 561, "CENID": "C6906", "LONGITUDE": -78.188873, "LATITUDE": 39.171179 }, "geometry": { "type": "Point", "coordinates": [ -78.188873, 39.171179 ] } }
+,
+{ "type": "Feature", "id": 558, "properties": { "POLYID": 562, "CENID": "C6906", "LONGITUDE": -78.163865, "LATITUDE": 39.164620 }, "geometry": { "type": "Point", "coordinates": [ -78.163865, 39.164620 ] } }
+,
+{ "type": "Feature", "id": 559, "properties": { "POLYID": 563, "CENID": "C6906", "LONGITUDE": -78.159387, "LATITUDE": 39.166749 }, "geometry": { "type": "Point", "coordinates": [ -78.159387, 39.166749 ] } }
+
+]
+}
