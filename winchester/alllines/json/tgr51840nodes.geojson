@@ -1,0 +1,2505 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "NODE_ID": 1 }, "geometry": { "type": "Point", "coordinates": [ -78.200731, 39.180194 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "NODE_ID": 2 }, "geometry": { "type": "Point", "coordinates": [ -78.200695, 39.180322 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "NODE_ID": 3 }, "geometry": { "type": "Point", "coordinates": [ -78.200653, 39.180422 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "NODE_ID": 4 }, "geometry": { "type": "Point", "coordinates": [ -78.200601, 39.180372 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "NODE_ID": 5 }, "geometry": { "type": "Point", "coordinates": [ -78.200036, 39.180530 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "NODE_ID": 6 }, "geometry": { "type": "Point", "coordinates": [ -78.199925, 39.179768 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "NODE_ID": 7 }, "geometry": { "type": "Point", "coordinates": [ -78.199919, 39.179630 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "NODE_ID": 8 }, "geometry": { "type": "Point", "coordinates": [ -78.199774, 39.152877 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "NODE_ID": 9 }, "geometry": { "type": "Point", "coordinates": [ -78.199503, 39.152403 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "NODE_ID": 10 }, "geometry": { "type": "Point", "coordinates": [ -78.199097, 39.182596 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "NODE_ID": 11 }, "geometry": { "type": "Point", "coordinates": [ -78.198149, 39.181817 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "NODE_ID": 12 }, "geometry": { "type": "Point", "coordinates": [ -78.198089, 39.149564 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "NODE_ID": 13 }, "geometry": { "type": "Point", "coordinates": [ -78.197950, 39.182177 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "NODE_ID": 14 }, "geometry": { "type": "Point", "coordinates": [ -78.197713, 39.189568 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "NODE_ID": 15 }, "geometry": { "type": "Point", "coordinates": [ -78.197176, 39.142763 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "NODE_ID": 16 }, "geometry": { "type": "Point", "coordinates": [ -78.197154, 39.142655 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "NODE_ID": 17 }, "geometry": { "type": "Point", "coordinates": [ -78.196908, 39.190724 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "NODE_ID": 18 }, "geometry": { "type": "Point", "coordinates": [ -78.196862, 39.186043 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "NODE_ID": 19 }, "geometry": { "type": "Point", "coordinates": [ -78.196519, 39.189556 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "NODE_ID": 20 }, "geometry": { "type": "Point", "coordinates": [ -78.196299, 39.190811 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "NODE_ID": 21 }, "geometry": { "type": "Point", "coordinates": [ -78.195942, 39.191890 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "NODE_ID": 22 }, "geometry": { "type": "Point", "coordinates": [ -78.195654, 39.142266 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "NODE_ID": 23 }, "geometry": { "type": "Point", "coordinates": [ -78.195626, 39.183991 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "NODE_ID": 24 }, "geometry": { "type": "Point", "coordinates": [ -78.195556, 39.189547 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "NODE_ID": 25 }, "geometry": { "type": "Point", "coordinates": [ -78.195546, 39.155000 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "NODE_ID": 26 }, "geometry": { "type": "Point", "coordinates": [ -78.195206, 39.181468 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "NODE_ID": 27 }, "geometry": { "type": "Point", "coordinates": [ -78.195042, 39.194964 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "NODE_ID": 28 }, "geometry": { "type": "Point", "coordinates": [ -78.194942, 39.156971 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "NODE_ID": 29 }, "geometry": { "type": "Point", "coordinates": [ -78.194873, 39.191014 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "NODE_ID": 30 }, "geometry": { "type": "Point", "coordinates": [ -78.194847, 39.156086 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "NODE_ID": 31 }, "geometry": { "type": "Point", "coordinates": [ -78.194830, 39.189177 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "NODE_ID": 32 }, "geometry": { "type": "Point", "coordinates": [ -78.194797, 39.181745 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "NODE_ID": 33 }, "geometry": { "type": "Point", "coordinates": [ -78.194781, 39.193798 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "NODE_ID": 34 }, "geometry": { "type": "Point", "coordinates": [ -78.194762, 39.186909 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "NODE_ID": 35 }, "geometry": { "type": "Point", "coordinates": [ -78.194734, 39.191836 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "NODE_ID": 36 }, "geometry": { "type": "Point", "coordinates": [ -78.194723, 39.189178 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "NODE_ID": 37 }, "geometry": { "type": "Point", "coordinates": [ -78.194530, 39.192919 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "NODE_ID": 38 }, "geometry": { "type": "Point", "coordinates": [ -78.194335, 39.184852 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "NODE_ID": 39 }, "geometry": { "type": "Point", "coordinates": [ -78.194154, 39.162793 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "NODE_ID": 40 }, "geometry": { "type": "Point", "coordinates": [ -78.194033, 39.156777 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "NODE_ID": 41 }, "geometry": { "type": "Point", "coordinates": [ -78.193852, 39.162851 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "NODE_ID": 42 }, "geometry": { "type": "Point", "coordinates": [ -78.193774, 39.165558 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "NODE_ID": 43 }, "geometry": { "type": "Point", "coordinates": [ -78.193761, 39.188476 ] } }
+,
+{ "type": "Feature", "id": 43, "properties": { "NODE_ID": 44 }, "geometry": { "type": "Point", "coordinates": [ -78.193466, 39.178097 ] } }
+,
+{ "type": "Feature", "id": 44, "properties": { "NODE_ID": 45 }, "geometry": { "type": "Point", "coordinates": [ -78.193445, 39.182157 ] } }
+,
+{ "type": "Feature", "id": 45, "properties": { "NODE_ID": 46 }, "geometry": { "type": "Point", "coordinates": [ -78.193439, 39.165497 ] } }
+,
+{ "type": "Feature", "id": 46, "properties": { "NODE_ID": 47 }, "geometry": { "type": "Point", "coordinates": [ -78.193356, 39.166593 ] } }
+,
+{ "type": "Feature", "id": 47, "properties": { "NODE_ID": 48 }, "geometry": { "type": "Point", "coordinates": [ -78.193336, 39.166064 ] } }
+,
+{ "type": "Feature", "id": 48, "properties": { "NODE_ID": 49 }, "geometry": { "type": "Point", "coordinates": [ -78.193263, 39.166744 ] } }
+,
+{ "type": "Feature", "id": 49, "properties": { "NODE_ID": 50 }, "geometry": { "type": "Point", "coordinates": [ -78.193237, 39.166328 ] } }
+,
+{ "type": "Feature", "id": 50, "properties": { "NODE_ID": 51 }, "geometry": { "type": "Point", "coordinates": [ -78.193147, 39.140799 ] } }
+,
+{ "type": "Feature", "id": 51, "properties": { "NODE_ID": 52 }, "geometry": { "type": "Point", "coordinates": [ -78.193140, 39.195505 ] } }
+,
+{ "type": "Feature", "id": 52, "properties": { "NODE_ID": 53 }, "geometry": { "type": "Point", "coordinates": [ -78.193129, 39.156080 ] } }
+,
+{ "type": "Feature", "id": 53, "properties": { "NODE_ID": 54 }, "geometry": { "type": "Point", "coordinates": [ -78.193106, 39.166649 ] } }
+,
+{ "type": "Feature", "id": 54, "properties": { "NODE_ID": 55 }, "geometry": { "type": "Point", "coordinates": [ -78.193033, 39.186375 ] } }
+,
+{ "type": "Feature", "id": 55, "properties": { "NODE_ID": 56 }, "geometry": { "type": "Point", "coordinates": [ -78.193009, 39.183395 ] } }
+,
+{ "type": "Feature", "id": 56, "properties": { "NODE_ID": 57 }, "geometry": { "type": "Point", "coordinates": [ -78.193007, 39.178087 ] } }
+,
+{ "type": "Feature", "id": 57, "properties": { "NODE_ID": 58 }, "geometry": { "type": "Point", "coordinates": [ -78.192953, 39.156080 ] } }
+,
+{ "type": "Feature", "id": 58, "properties": { "NODE_ID": 59 }, "geometry": { "type": "Point", "coordinates": [ -78.192950, 39.185396 ] } }
+,
+{ "type": "Feature", "id": 59, "properties": { "NODE_ID": 60 }, "geometry": { "type": "Point", "coordinates": [ -78.192890, 39.160913 ] } }
+,
+{ "type": "Feature", "id": 60, "properties": { "NODE_ID": 61 }, "geometry": { "type": "Point", "coordinates": [ -78.192759, 39.182082 ] } }
+,
+{ "type": "Feature", "id": 61, "properties": { "NODE_ID": 62 }, "geometry": { "type": "Point", "coordinates": [ -78.192659, 39.154708 ] } }
+,
+{ "type": "Feature", "id": 62, "properties": { "NODE_ID": 63 }, "geometry": { "type": "Point", "coordinates": [ -78.192563, 39.140676 ] } }
+,
+{ "type": "Feature", "id": 63, "properties": { "NODE_ID": 64 }, "geometry": { "type": "Point", "coordinates": [ -78.192546, 39.140990 ] } }
+,
+{ "type": "Feature", "id": 64, "properties": { "NODE_ID": 65 }, "geometry": { "type": "Point", "coordinates": [ -78.192532, 39.158721 ] } }
+,
+{ "type": "Feature", "id": 65, "properties": { "NODE_ID": 66 }, "geometry": { "type": "Point", "coordinates": [ -78.192482, 39.181805 ] } }
+,
+{ "type": "Feature", "id": 66, "properties": { "NODE_ID": 67 }, "geometry": { "type": "Point", "coordinates": [ -78.192473, 39.181964 ] } }
+,
+{ "type": "Feature", "id": 67, "properties": { "NODE_ID": 68 }, "geometry": { "type": "Point", "coordinates": [ -78.192443, 39.187731 ] } }
+,
+{ "type": "Feature", "id": 68, "properties": { "NODE_ID": 69 }, "geometry": { "type": "Point", "coordinates": [ -78.192416, 39.182976 ] } }
+,
+{ "type": "Feature", "id": 69, "properties": { "NODE_ID": 70 }, "geometry": { "type": "Point", "coordinates": [ -78.192385, 39.166175 ] } }
+,
+{ "type": "Feature", "id": 70, "properties": { "NODE_ID": 71 }, "geometry": { "type": "Point", "coordinates": [ -78.192356, 39.166479 ] } }
+,
+{ "type": "Feature", "id": 71, "properties": { "NODE_ID": 72 }, "geometry": { "type": "Point", "coordinates": [ -78.192302, 39.145727 ] } }
+,
+{ "type": "Feature", "id": 72, "properties": { "NODE_ID": 73 }, "geometry": { "type": "Point", "coordinates": [ -78.192191, 39.184148 ] } }
+,
+{ "type": "Feature", "id": 73, "properties": { "NODE_ID": 74 }, "geometry": { "type": "Point", "coordinates": [ -78.192072, 39.155852 ] } }
+,
+{ "type": "Feature", "id": 74, "properties": { "NODE_ID": 75 }, "geometry": { "type": "Point", "coordinates": [ -78.192067, 39.162396 ] } }
+,
+{ "type": "Feature", "id": 75, "properties": { "NODE_ID": 76 }, "geometry": { "type": "Point", "coordinates": [ -78.192046, 39.176157 ] } }
+,
+{ "type": "Feature", "id": 76, "properties": { "NODE_ID": 77 }, "geometry": { "type": "Point", "coordinates": [ -78.192011, 39.163048 ] } }
+,
+{ "type": "Feature", "id": 77, "properties": { "NODE_ID": 78 }, "geometry": { "type": "Point", "coordinates": [ -78.191981, 39.158518 ] } }
+,
+{ "type": "Feature", "id": 78, "properties": { "NODE_ID": 79 }, "geometry": { "type": "Point", "coordinates": [ -78.191926, 39.191348 ] } }
+,
+{ "type": "Feature", "id": 79, "properties": { "NODE_ID": 80 }, "geometry": { "type": "Point", "coordinates": [ -78.191913, 39.181489 ] } }
+,
+{ "type": "Feature", "id": 80, "properties": { "NODE_ID": 81 }, "geometry": { "type": "Point", "coordinates": [ -78.191860, 39.181642 ] } }
+,
+{ "type": "Feature", "id": 81, "properties": { "NODE_ID": 82 }, "geometry": { "type": "Point", "coordinates": [ -78.191800, 39.146327 ] } }
+,
+{ "type": "Feature", "id": 82, "properties": { "NODE_ID": 83 }, "geometry": { "type": "Point", "coordinates": [ -78.191697, 39.163065 ] } }
+,
+{ "type": "Feature", "id": 83, "properties": { "NODE_ID": 84 }, "geometry": { "type": "Point", "coordinates": [ -78.191614, 39.149182 ] } }
+,
+{ "type": "Feature", "id": 84, "properties": { "NODE_ID": 85 }, "geometry": { "type": "Point", "coordinates": [ -78.191599, 39.143942 ] } }
+,
+{ "type": "Feature", "id": 85, "properties": { "NODE_ID": 86 }, "geometry": { "type": "Point", "coordinates": [ -78.191573, 39.156515 ] } }
+,
+{ "type": "Feature", "id": 86, "properties": { "NODE_ID": 87 }, "geometry": { "type": "Point", "coordinates": [ -78.191521, 39.193082 ] } }
+,
+{ "type": "Feature", "id": 87, "properties": { "NODE_ID": 88 }, "geometry": { "type": "Point", "coordinates": [ -78.191507, 39.193183 ] } }
+,
+{ "type": "Feature", "id": 88, "properties": { "NODE_ID": 89 }, "geometry": { "type": "Point", "coordinates": [ -78.191495, 39.183266 ] } }
+,
+{ "type": "Feature", "id": 89, "properties": { "NODE_ID": 90 }, "geometry": { "type": "Point", "coordinates": [ -78.191457, 39.193645 ] } }
+,
+{ "type": "Feature", "id": 90, "properties": { "NODE_ID": 91 }, "geometry": { "type": "Point", "coordinates": [ -78.191384, 39.168216 ] } }
+,
+{ "type": "Feature", "id": 91, "properties": { "NODE_ID": 92 }, "geometry": { "type": "Point", "coordinates": [ -78.191368, 39.193741 ] } }
+,
+{ "type": "Feature", "id": 92, "properties": { "NODE_ID": 93 }, "geometry": { "type": "Point", "coordinates": [ -78.191367, 39.168459 ] } }
+,
+{ "type": "Feature", "id": 93, "properties": { "NODE_ID": 94 }, "geometry": { "type": "Point", "coordinates": [ -78.191254, 39.163089 ] } }
+,
+{ "type": "Feature", "id": 94, "properties": { "NODE_ID": 95 }, "geometry": { "type": "Point", "coordinates": [ -78.191247, 39.165736 ] } }
+,
+{ "type": "Feature", "id": 95, "properties": { "NODE_ID": 96 }, "geometry": { "type": "Point", "coordinates": [ -78.191222, 39.168349 ] } }
+,
+{ "type": "Feature", "id": 96, "properties": { "NODE_ID": 97 }, "geometry": { "type": "Point", "coordinates": [ -78.191213, 39.148249 ] } }
+,
+{ "type": "Feature", "id": 97, "properties": { "NODE_ID": 98 }, "geometry": { "type": "Point", "coordinates": [ -78.191102, 39.180286 ] } }
+,
+{ "type": "Feature", "id": 98, "properties": { "NODE_ID": 99 }, "geometry": { "type": "Point", "coordinates": [ -78.190985, 39.160884 ] } }
+,
+{ "type": "Feature", "id": 99, "properties": { "NODE_ID": 100 }, "geometry": { "type": "Point", "coordinates": [ -78.190924, 39.194868 ] } }
+,
+{ "type": "Feature", "id": 100, "properties": { "NODE_ID": 101 }, "geometry": { "type": "Point", "coordinates": [ -78.190825, 39.158093 ] } }
+,
+{ "type": "Feature", "id": 101, "properties": { "NODE_ID": 102 }, "geometry": { "type": "Point", "coordinates": [ -78.190822, 39.167210 ] } }
+,
+{ "type": "Feature", "id": 102, "properties": { "NODE_ID": 103 }, "geometry": { "type": "Point", "coordinates": [ -78.190799, 39.200698 ] } }
+,
+{ "type": "Feature", "id": 103, "properties": { "NODE_ID": 104 }, "geometry": { "type": "Point", "coordinates": [ -78.190765, 39.150859 ] } }
+,
+{ "type": "Feature", "id": 104, "properties": { "NODE_ID": 105 }, "geometry": { "type": "Point", "coordinates": [ -78.190710, 39.179059 ] } }
+,
+{ "type": "Feature", "id": 105, "properties": { "NODE_ID": 106 }, "geometry": { "type": "Point", "coordinates": [ -78.190693, 39.179573 ] } }
+,
+{ "type": "Feature", "id": 106, "properties": { "NODE_ID": 107 }, "geometry": { "type": "Point", "coordinates": [ -78.190564, 39.164458 ] } }
+,
+{ "type": "Feature", "id": 107, "properties": { "NODE_ID": 108 }, "geometry": { "type": "Point", "coordinates": [ -78.190508, 39.167154 ] } }
+,
+{ "type": "Feature", "id": 108, "properties": { "NODE_ID": 109 }, "geometry": { "type": "Point", "coordinates": [ -78.190456, 39.191371 ] } }
+,
+{ "type": "Feature", "id": 109, "properties": { "NODE_ID": 110 }, "geometry": { "type": "Point", "coordinates": [ -78.190398, 39.161959 ] } }
+,
+{ "type": "Feature", "id": 110, "properties": { "NODE_ID": 111 }, "geometry": { "type": "Point", "coordinates": [ -78.190378, 39.165719 ] } }
+,
+{ "type": "Feature", "id": 111, "properties": { "NODE_ID": 112 }, "geometry": { "type": "Point", "coordinates": [ -78.190362, 39.140731 ] } }
+,
+{ "type": "Feature", "id": 112, "properties": { "NODE_ID": 113 }, "geometry": { "type": "Point", "coordinates": [ -78.190357, 39.195023 ] } }
+,
+{ "type": "Feature", "id": 113, "properties": { "NODE_ID": 114 }, "geometry": { "type": "Point", "coordinates": [ -78.190331, 39.140837 ] } }
+,
+{ "type": "Feature", "id": 114, "properties": { "NODE_ID": 115 }, "geometry": { "type": "Point", "coordinates": [ -78.190318, 39.157242 ] } }
+,
+{ "type": "Feature", "id": 115, "properties": { "NODE_ID": 116 }, "geometry": { "type": "Point", "coordinates": [ -78.190250, 39.166060 ] } }
+,
+{ "type": "Feature", "id": 116, "properties": { "NODE_ID": 117 }, "geometry": { "type": "Point", "coordinates": [ -78.190247, 39.160592 ] } }
+,
+{ "type": "Feature", "id": 117, "properties": { "NODE_ID": 118 }, "geometry": { "type": "Point", "coordinates": [ -78.190199, 39.179389 ] } }
+,
+{ "type": "Feature", "id": 118, "properties": { "NODE_ID": 119 }, "geometry": { "type": "Point", "coordinates": [ -78.190164, 39.157877 ] } }
+,
+{ "type": "Feature", "id": 119, "properties": { "NODE_ID": 120 }, "geometry": { "type": "Point", "coordinates": [ -78.190138, 39.180264 ] } }
+,
+{ "type": "Feature", "id": 120, "properties": { "NODE_ID": 121 }, "geometry": { "type": "Point", "coordinates": [ -78.190083, 39.150424 ] } }
+,
+{ "type": "Feature", "id": 121, "properties": { "NODE_ID": 122 }, "geometry": { "type": "Point", "coordinates": [ -78.190034, 39.160241 ] } }
+,
+{ "type": "Feature", "id": 122, "properties": { "NODE_ID": 123 }, "geometry": { "type": "Point", "coordinates": [ -78.190016, 39.163056 ] } }
+,
+{ "type": "Feature", "id": 123, "properties": { "NODE_ID": 124 }, "geometry": { "type": "Point", "coordinates": [ -78.190015, 39.141946 ] } }
+,
+{ "type": "Feature", "id": 124, "properties": { "NODE_ID": 125 }, "geometry": { "type": "Point", "coordinates": [ -78.189947, 39.152958 ] } }
+,
+{ "type": "Feature", "id": 125, "properties": { "NODE_ID": 126 }, "geometry": { "type": "Point", "coordinates": [ -78.189945, 39.152878 ] } }
+,
+{ "type": "Feature", "id": 126, "properties": { "NODE_ID": 127 }, "geometry": { "type": "Point", "coordinates": [ -78.189927, 39.152126 ] } }
+,
+{ "type": "Feature", "id": 127, "properties": { "NODE_ID": 128 }, "geometry": { "type": "Point", "coordinates": [ -78.189867, 39.170169 ] } }
+,
+{ "type": "Feature", "id": 128, "properties": { "NODE_ID": 129 }, "geometry": { "type": "Point", "coordinates": [ -78.189795, 39.180691 ] } }
+,
+{ "type": "Feature", "id": 129, "properties": { "NODE_ID": 130 }, "geometry": { "type": "Point", "coordinates": [ -78.189751, 39.160678 ] } }
+,
+{ "type": "Feature", "id": 130, "properties": { "NODE_ID": 131 }, "geometry": { "type": "Point", "coordinates": [ -78.189713, 39.155317 ] } }
+,
+{ "type": "Feature", "id": 131, "properties": { "NODE_ID": 132 }, "geometry": { "type": "Point", "coordinates": [ -78.189656, 39.185635 ] } }
+,
+{ "type": "Feature", "id": 132, "properties": { "NODE_ID": 133 }, "geometry": { "type": "Point", "coordinates": [ -78.189641, 39.170142 ] } }
+,
+{ "type": "Feature", "id": 133, "properties": { "NODE_ID": 134 }, "geometry": { "type": "Point", "coordinates": [ -78.189634, 39.144051 ] } }
+,
+{ "type": "Feature", "id": 134, "properties": { "NODE_ID": 135 }, "geometry": { "type": "Point", "coordinates": [ -78.189593, 39.171683 ] } }
+,
+{ "type": "Feature", "id": 135, "properties": { "NODE_ID": 136 }, "geometry": { "type": "Point", "coordinates": [ -78.189571, 39.157591 ] } }
+,
+{ "type": "Feature", "id": 136, "properties": { "NODE_ID": 137 }, "geometry": { "type": "Point", "coordinates": [ -78.189569, 39.180973 ] } }
+,
+{ "type": "Feature", "id": 137, "properties": { "NODE_ID": 138 }, "geometry": { "type": "Point", "coordinates": [ -78.189510, 39.190127 ] } }
+,
+{ "type": "Feature", "id": 138, "properties": { "NODE_ID": 139 }, "geometry": { "type": "Point", "coordinates": [ -78.189495, 39.156083 ] } }
+,
+{ "type": "Feature", "id": 139, "properties": { "NODE_ID": 140 }, "geometry": { "type": "Point", "coordinates": [ -78.189438, 39.199767 ] } }
+,
+{ "type": "Feature", "id": 140, "properties": { "NODE_ID": 141 }, "geometry": { "type": "Point", "coordinates": [ -78.189431, 39.157339 ] } }
+,
+{ "type": "Feature", "id": 141, "properties": { "NODE_ID": 142 }, "geometry": { "type": "Point", "coordinates": [ -78.189399, 39.161730 ] } }
+,
+{ "type": "Feature", "id": 142, "properties": { "NODE_ID": 143 }, "geometry": { "type": "Point", "coordinates": [ -78.189388, 39.190260 ] } }
+,
+{ "type": "Feature", "id": 143, "properties": { "NODE_ID": 144 }, "geometry": { "type": "Point", "coordinates": [ -78.189367, 39.170518 ] } }
+,
+{ "type": "Feature", "id": 144, "properties": { "NODE_ID": 145 }, "geometry": { "type": "Point", "coordinates": [ -78.189328, 39.174643 ] } }
+,
+{ "type": "Feature", "id": 145, "properties": { "NODE_ID": 146 }, "geometry": { "type": "Point", "coordinates": [ -78.189323, 39.170930 ] } }
+,
+{ "type": "Feature", "id": 146, "properties": { "NODE_ID": 147 }, "geometry": { "type": "Point", "coordinates": [ -78.189319, 39.152114 ] } }
+,
+{ "type": "Feature", "id": 147, "properties": { "NODE_ID": 148 }, "geometry": { "type": "Point", "coordinates": [ -78.189310, 39.144920 ] } }
+,
+{ "type": "Feature", "id": 148, "properties": { "NODE_ID": 149 }, "geometry": { "type": "Point", "coordinates": [ -78.189307, 39.191312 ] } }
+,
+{ "type": "Feature", "id": 149, "properties": { "NODE_ID": 150 }, "geometry": { "type": "Point", "coordinates": [ -78.189281, 39.141718 ] } }
+,
+{ "type": "Feature", "id": 150, "properties": { "NODE_ID": 151 }, "geometry": { "type": "Point", "coordinates": [ -78.189256, 39.189727 ] } }
+,
+{ "type": "Feature", "id": 151, "properties": { "NODE_ID": 152 }, "geometry": { "type": "Point", "coordinates": [ -78.189241, 39.154861 ] } }
+,
+{ "type": "Feature", "id": 152, "properties": { "NODE_ID": 153 }, "geometry": { "type": "Point", "coordinates": [ -78.189236, 39.180775 ] } }
+,
+{ "type": "Feature", "id": 153, "properties": { "NODE_ID": 154 }, "geometry": { "type": "Point", "coordinates": [ -78.189222, 39.145446 ] } }
+,
+{ "type": "Feature", "id": 154, "properties": { "NODE_ID": 155 }, "geometry": { "type": "Point", "coordinates": [ -78.189177, 39.155002 ] } }
+,
+{ "type": "Feature", "id": 155, "properties": { "NODE_ID": 156 }, "geometry": { "type": "Point", "coordinates": [ -78.189157, 39.170544 ] } }
+,
+{ "type": "Feature", "id": 156, "properties": { "NODE_ID": 157 }, "geometry": { "type": "Point", "coordinates": [ -78.189146, 39.165081 ] } }
+,
+{ "type": "Feature", "id": 157, "properties": { "NODE_ID": 158 }, "geometry": { "type": "Point", "coordinates": [ -78.189024, 39.180088 ] } }
+,
+{ "type": "Feature", "id": 158, "properties": { "NODE_ID": 159 }, "geometry": { "type": "Point", "coordinates": [ -78.188957, 39.155678 ] } }
+,
+{ "type": "Feature", "id": 159, "properties": { "NODE_ID": 160 }, "geometry": { "type": "Point", "coordinates": [ -78.188946, 39.185095 ] } }
+,
+{ "type": "Feature", "id": 160, "properties": { "NODE_ID": 161 }, "geometry": { "type": "Point", "coordinates": [ -78.188945, 39.185867 ] } }
+,
+{ "type": "Feature", "id": 161, "properties": { "NODE_ID": 162 }, "geometry": { "type": "Point", "coordinates": [ -78.188903, 39.158687 ] } }
+,
+{ "type": "Feature", "id": 162, "properties": { "NODE_ID": 163 }, "geometry": { "type": "Point", "coordinates": [ -78.188903, 39.180459 ] } }
+,
+{ "type": "Feature", "id": 163, "properties": { "NODE_ID": 164 }, "geometry": { "type": "Point", "coordinates": [ -78.188898, 39.158893 ] } }
+,
+{ "type": "Feature", "id": 164, "properties": { "NODE_ID": 165 }, "geometry": { "type": "Point", "coordinates": [ -78.188889, 39.179123 ] } }
+,
+{ "type": "Feature", "id": 165, "properties": { "NODE_ID": 166 }, "geometry": { "type": "Point", "coordinates": [ -78.188878, 39.147568 ] } }
+,
+{ "type": "Feature", "id": 166, "properties": { "NODE_ID": 167 }, "geometry": { "type": "Point", "coordinates": [ -78.188843, 39.179165 ] } }
+,
+{ "type": "Feature", "id": 167, "properties": { "NODE_ID": 168 }, "geometry": { "type": "Point", "coordinates": [ -78.188818, 39.156106 ] } }
+,
+{ "type": "Feature", "id": 168, "properties": { "NODE_ID": 169 }, "geometry": { "type": "Point", "coordinates": [ -78.188795, 39.155212 ] } }
+,
+{ "type": "Feature", "id": 169, "properties": { "NODE_ID": 170 }, "geometry": { "type": "Point", "coordinates": [ -78.188789, 39.177255 ] } }
+,
+{ "type": "Feature", "id": 170, "properties": { "NODE_ID": 171 }, "geometry": { "type": "Point", "coordinates": [ -78.188782, 39.160314 ] } }
+,
+{ "type": "Feature", "id": 171, "properties": { "NODE_ID": 172 }, "geometry": { "type": "Point", "coordinates": [ -78.188776, 39.179019 ] } }
+,
+{ "type": "Feature", "id": 172, "properties": { "NODE_ID": 173 }, "geometry": { "type": "Point", "coordinates": [ -78.188768, 39.170837 ] } }
+,
+{ "type": "Feature", "id": 173, "properties": { "NODE_ID": 174 }, "geometry": { "type": "Point", "coordinates": [ -78.188752, 39.154342 ] } }
+,
+{ "type": "Feature", "id": 174, "properties": { "NODE_ID": 175 }, "geometry": { "type": "Point", "coordinates": [ -78.188752, 39.162896 ] } }
+,
+{ "type": "Feature", "id": 175, "properties": { "NODE_ID": 176 }, "geometry": { "type": "Point", "coordinates": [ -78.188751, 39.189793 ] } }
+,
+{ "type": "Feature", "id": 176, "properties": { "NODE_ID": 177 }, "geometry": { "type": "Point", "coordinates": [ -78.188734, 39.180577 ] } }
+,
+{ "type": "Feature", "id": 177, "properties": { "NODE_ID": 178 }, "geometry": { "type": "Point", "coordinates": [ -78.188732, 39.180303 ] } }
+,
+{ "type": "Feature", "id": 178, "properties": { "NODE_ID": 179 }, "geometry": { "type": "Point", "coordinates": [ -78.188700, 39.178853 ] } }
+,
+{ "type": "Feature", "id": 179, "properties": { "NODE_ID": 180 }, "geometry": { "type": "Point", "coordinates": [ -78.188683, 39.180920 ] } }
+,
+{ "type": "Feature", "id": 180, "properties": { "NODE_ID": 181 }, "geometry": { "type": "Point", "coordinates": [ -78.188645, 39.178928 ] } }
+,
+{ "type": "Feature", "id": 181, "properties": { "NODE_ID": 182 }, "geometry": { "type": "Point", "coordinates": [ -78.188639, 39.177584 ] } }
+,
+{ "type": "Feature", "id": 182, "properties": { "NODE_ID": 183 }, "geometry": { "type": "Point", "coordinates": [ -78.188633, 39.176345 ] } }
+,
+{ "type": "Feature", "id": 183, "properties": { "NODE_ID": 184 }, "geometry": { "type": "Point", "coordinates": [ -78.188580, 39.177818 ] } }
+,
+{ "type": "Feature", "id": 184, "properties": { "NODE_ID": 185 }, "geometry": { "type": "Point", "coordinates": [ -78.188577, 39.183872 ] } }
+,
+{ "type": "Feature", "id": 185, "properties": { "NODE_ID": 186 }, "geometry": { "type": "Point", "coordinates": [ -78.188560, 39.167791 ] } }
+,
+{ "type": "Feature", "id": 186, "properties": { "NODE_ID": 187 }, "geometry": { "type": "Point", "coordinates": [ -78.188528, 39.171407 ] } }
+,
+{ "type": "Feature", "id": 187, "properties": { "NODE_ID": 188 }, "geometry": { "type": "Point", "coordinates": [ -78.188528, 39.180124 ] } }
+,
+{ "type": "Feature", "id": 188, "properties": { "NODE_ID": 189 }, "geometry": { "type": "Point", "coordinates": [ -78.188520, 39.177815 ] } }
+,
+{ "type": "Feature", "id": 189, "properties": { "NODE_ID": 190 }, "geometry": { "type": "Point", "coordinates": [ -78.188517, 39.153702 ] } }
+,
+{ "type": "Feature", "id": 190, "properties": { "NODE_ID": 191 }, "geometry": { "type": "Point", "coordinates": [ -78.188470, 39.147510 ] } }
+,
+{ "type": "Feature", "id": 191, "properties": { "NODE_ID": 192 }, "geometry": { "type": "Point", "coordinates": [ -78.188465, 39.155166 ] } }
+,
+{ "type": "Feature", "id": 192, "properties": { "NODE_ID": 193 }, "geometry": { "type": "Point", "coordinates": [ -78.188371, 39.149242 ] } }
+,
+{ "type": "Feature", "id": 193, "properties": { "NODE_ID": 194 }, "geometry": { "type": "Point", "coordinates": [ -78.188335, 39.155630 ] } }
+,
+{ "type": "Feature", "id": 194, "properties": { "NODE_ID": 195 }, "geometry": { "type": "Point", "coordinates": [ -78.188290, 39.174398 ] } }
+,
+{ "type": "Feature", "id": 195, "properties": { "NODE_ID": 196 }, "geometry": { "type": "Point", "coordinates": [ -78.188282, 39.160289 ] } }
+,
+{ "type": "Feature", "id": 196, "properties": { "NODE_ID": 197 }, "geometry": { "type": "Point", "coordinates": [ -78.188240, 39.180326 ] } }
+,
+{ "type": "Feature", "id": 197, "properties": { "NODE_ID": 198 }, "geometry": { "type": "Point", "coordinates": [ -78.188234, 39.183596 ] } }
+,
+{ "type": "Feature", "id": 198, "properties": { "NODE_ID": 199 }, "geometry": { "type": "Point", "coordinates": [ -78.188218, 39.156051 ] } }
+,
+{ "type": "Feature", "id": 199, "properties": { "NODE_ID": 200 }, "geometry": { "type": "Point", "coordinates": [ -78.188177, 39.175117 ] } }
+,
+{ "type": "Feature", "id": 200, "properties": { "NODE_ID": 201 }, "geometry": { "type": "Point", "coordinates": [ -78.188175, 39.169927 ] } }
+,
+{ "type": "Feature", "id": 201, "properties": { "NODE_ID": 202 }, "geometry": { "type": "Point", "coordinates": [ -78.188137, 39.159955 ] } }
+,
+{ "type": "Feature", "id": 202, "properties": { "NODE_ID": 203 }, "geometry": { "type": "Point", "coordinates": [ -78.188117, 39.156461 ] } }
+,
+{ "type": "Feature", "id": 203, "properties": { "NODE_ID": 204 }, "geometry": { "type": "Point", "coordinates": [ -78.188106, 39.141901 ] } }
+,
+{ "type": "Feature", "id": 204, "properties": { "NODE_ID": 205 }, "geometry": { "type": "Point", "coordinates": [ -78.188026, 39.183101 ] } }
+,
+{ "type": "Feature", "id": 205, "properties": { "NODE_ID": 206 }, "geometry": { "type": "Point", "coordinates": [ -78.187968, 39.176977 ] } }
+,
+{ "type": "Feature", "id": 206, "properties": { "NODE_ID": 207 }, "geometry": { "type": "Point", "coordinates": [ -78.187945, 39.168383 ] } }
+,
+{ "type": "Feature", "id": 207, "properties": { "NODE_ID": 208 }, "geometry": { "type": "Point", "coordinates": [ -78.187901, 39.150888 ] } }
+,
+{ "type": "Feature", "id": 208, "properties": { "NODE_ID": 209 }, "geometry": { "type": "Point", "coordinates": [ -78.187897, 39.195311 ] } }
+,
+{ "type": "Feature", "id": 209, "properties": { "NODE_ID": 210 }, "geometry": { "type": "Point", "coordinates": [ -78.187884, 39.174329 ] } }
+,
+{ "type": "Feature", "id": 210, "properties": { "NODE_ID": 211 }, "geometry": { "type": "Point", "coordinates": [ -78.187869, 39.160407 ] } }
+,
+{ "type": "Feature", "id": 211, "properties": { "NODE_ID": 212 }, "geometry": { "type": "Point", "coordinates": [ -78.187836, 39.174201 ] } }
+,
+{ "type": "Feature", "id": 212, "properties": { "NODE_ID": 213 }, "geometry": { "type": "Point", "coordinates": [ -78.187792, 39.204733 ] } }
+,
+{ "type": "Feature", "id": 213, "properties": { "NODE_ID": 214 }, "geometry": { "type": "Point", "coordinates": [ -78.187782, 39.191234 ] } }
+,
+{ "type": "Feature", "id": 214, "properties": { "NODE_ID": 215 }, "geometry": { "type": "Point", "coordinates": [ -78.187674, 39.170655 ] } }
+,
+{ "type": "Feature", "id": 215, "properties": { "NODE_ID": 216 }, "geometry": { "type": "Point", "coordinates": [ -78.187626, 39.201170 ] } }
+,
+{ "type": "Feature", "id": 216, "properties": { "NODE_ID": 217 }, "geometry": { "type": "Point", "coordinates": [ -78.187618, 39.169775 ] } }
+,
+{ "type": "Feature", "id": 217, "properties": { "NODE_ID": 218 }, "geometry": { "type": "Point", "coordinates": [ -78.187591, 39.158245 ] } }
+,
+{ "type": "Feature", "id": 218, "properties": { "NODE_ID": 219 }, "geometry": { "type": "Point", "coordinates": [ -78.187589, 39.152250 ] } }
+,
+{ "type": "Feature", "id": 219, "properties": { "NODE_ID": 220 }, "geometry": { "type": "Point", "coordinates": [ -78.187576, 39.195762 ] } }
+,
+{ "type": "Feature", "id": 220, "properties": { "NODE_ID": 221 }, "geometry": { "type": "Point", "coordinates": [ -78.187572, 39.174276 ] } }
+,
+{ "type": "Feature", "id": 221, "properties": { "NODE_ID": 222 }, "geometry": { "type": "Point", "coordinates": [ -78.187522, 39.174268 ] } }
+,
+{ "type": "Feature", "id": 222, "properties": { "NODE_ID": 223 }, "geometry": { "type": "Point", "coordinates": [ -78.187502, 39.147004 ] } }
+,
+{ "type": "Feature", "id": 223, "properties": { "NODE_ID": 224 }, "geometry": { "type": "Point", "coordinates": [ -78.187419, 39.201718 ] } }
+,
+{ "type": "Feature", "id": 224, "properties": { "NODE_ID": 225 }, "geometry": { "type": "Point", "coordinates": [ -78.187376, 39.147353 ] } }
+,
+{ "type": "Feature", "id": 225, "properties": { "NODE_ID": 226 }, "geometry": { "type": "Point", "coordinates": [ -78.187254, 39.153633 ] } }
+,
+{ "type": "Feature", "id": 226, "properties": { "NODE_ID": 227 }, "geometry": { "type": "Point", "coordinates": [ -78.187196, 39.153999 ] } }
+,
+{ "type": "Feature", "id": 227, "properties": { "NODE_ID": 228 }, "geometry": { "type": "Point", "coordinates": [ -78.187151, 39.170568 ] } }
+,
+{ "type": "Feature", "id": 228, "properties": { "NODE_ID": 229 }, "geometry": { "type": "Point", "coordinates": [ -78.187092, 39.169506 ] } }
+,
+{ "type": "Feature", "id": 229, "properties": { "NODE_ID": 230 }, "geometry": { "type": "Point", "coordinates": [ -78.187022, 39.160651 ] } }
+,
+{ "type": "Feature", "id": 230, "properties": { "NODE_ID": 231 }, "geometry": { "type": "Point", "coordinates": [ -78.186819, 39.144663 ] } }
+,
+{ "type": "Feature", "id": 231, "properties": { "NODE_ID": 232 }, "geometry": { "type": "Point", "coordinates": [ -78.186771, 39.177602 ] } }
+,
+{ "type": "Feature", "id": 232, "properties": { "NODE_ID": 233 }, "geometry": { "type": "Point", "coordinates": [ -78.186696, 39.145126 ] } }
+,
+{ "type": "Feature", "id": 233, "properties": { "NODE_ID": 234 }, "geometry": { "type": "Point", "coordinates": [ -78.186673, 39.170969 ] } }
+,
+{ "type": "Feature", "id": 234, "properties": { "NODE_ID": 235 }, "geometry": { "type": "Point", "coordinates": [ -78.186666, 39.163788 ] } }
+,
+{ "type": "Feature", "id": 235, "properties": { "NODE_ID": 236 }, "geometry": { "type": "Point", "coordinates": [ -78.186608, 39.155829 ] } }
+,
+{ "type": "Feature", "id": 236, "properties": { "NODE_ID": 237 }, "geometry": { "type": "Point", "coordinates": [ -78.186575, 39.159820 ] } }
+,
+{ "type": "Feature", "id": 237, "properties": { "NODE_ID": 238 }, "geometry": { "type": "Point", "coordinates": [ -78.186544, 39.170882 ] } }
+,
+{ "type": "Feature", "id": 238, "properties": { "NODE_ID": 239 }, "geometry": { "type": "Point", "coordinates": [ -78.186514, 39.152824 ] } }
+,
+{ "type": "Feature", "id": 239, "properties": { "NODE_ID": 240 }, "geometry": { "type": "Point", "coordinates": [ -78.186503, 39.150105 ] } }
+,
+{ "type": "Feature", "id": 240, "properties": { "NODE_ID": 241 }, "geometry": { "type": "Point", "coordinates": [ -78.186466, 39.150582 ] } }
+,
+{ "type": "Feature", "id": 241, "properties": { "NODE_ID": 242 }, "geometry": { "type": "Point", "coordinates": [ -78.186463, 39.168454 ] } }
+,
+{ "type": "Feature", "id": 242, "properties": { "NODE_ID": 243 }, "geometry": { "type": "Point", "coordinates": [ -78.186461, 39.155852 ] } }
+,
+{ "type": "Feature", "id": 243, "properties": { "NODE_ID": 244 }, "geometry": { "type": "Point", "coordinates": [ -78.186316, 39.156659 ] } }
+,
+{ "type": "Feature", "id": 244, "properties": { "NODE_ID": 245 }, "geometry": { "type": "Point", "coordinates": [ -78.186287, 39.138914 ] } }
+,
+{ "type": "Feature", "id": 245, "properties": { "NODE_ID": 246 }, "geometry": { "type": "Point", "coordinates": [ -78.186285, 39.139819 ] } }
+,
+{ "type": "Feature", "id": 246, "properties": { "NODE_ID": 247 }, "geometry": { "type": "Point", "coordinates": [ -78.186281, 39.174372 ] } }
+,
+{ "type": "Feature", "id": 247, "properties": { "NODE_ID": 248 }, "geometry": { "type": "Point", "coordinates": [ -78.186273, 39.151299 ] } }
+,
+{ "type": "Feature", "id": 248, "properties": { "NODE_ID": 249 }, "geometry": { "type": "Point", "coordinates": [ -78.186253, 39.192858 ] } }
+,
+{ "type": "Feature", "id": 249, "properties": { "NODE_ID": 250 }, "geometry": { "type": "Point", "coordinates": [ -78.186226, 39.148250 ] } }
+,
+{ "type": "Feature", "id": 250, "properties": { "NODE_ID": 251 }, "geometry": { "type": "Point", "coordinates": [ -78.186224, 39.189702 ] } }
+,
+{ "type": "Feature", "id": 251, "properties": { "NODE_ID": 252 }, "geometry": { "type": "Point", "coordinates": [ -78.186024, 39.160606 ] } }
+,
+{ "type": "Feature", "id": 252, "properties": { "NODE_ID": 253 }, "geometry": { "type": "Point", "coordinates": [ -78.185989, 39.157764 ] } }
+,
+{ "type": "Feature", "id": 253, "properties": { "NODE_ID": 254 }, "geometry": { "type": "Point", "coordinates": [ -78.185962, 39.147329 ] } }
+,
+{ "type": "Feature", "id": 254, "properties": { "NODE_ID": 255 }, "geometry": { "type": "Point", "coordinates": [ -78.185957, 39.160702 ] } }
+,
+{ "type": "Feature", "id": 255, "properties": { "NODE_ID": 256 }, "geometry": { "type": "Point", "coordinates": [ -78.185902, 39.169754 ] } }
+,
+{ "type": "Feature", "id": 256, "properties": { "NODE_ID": 257 }, "geometry": { "type": "Point", "coordinates": [ -78.185894, 39.138667 ] } }
+,
+{ "type": "Feature", "id": 257, "properties": { "NODE_ID": 258 }, "geometry": { "type": "Point", "coordinates": [ -78.185879, 39.176571 ] } }
+,
+{ "type": "Feature", "id": 258, "properties": { "NODE_ID": 259 }, "geometry": { "type": "Point", "coordinates": [ -78.185876, 39.177475 ] } }
+,
+{ "type": "Feature", "id": 259, "properties": { "NODE_ID": 260 }, "geometry": { "type": "Point", "coordinates": [ -78.185849, 39.162444 ] } }
+,
+{ "type": "Feature", "id": 260, "properties": { "NODE_ID": 261 }, "geometry": { "type": "Point", "coordinates": [ -78.185840, 39.152040 ] } }
+,
+{ "type": "Feature", "id": 261, "properties": { "NODE_ID": 262 }, "geometry": { "type": "Point", "coordinates": [ -78.185813, 39.177466 ] } }
+,
+{ "type": "Feature", "id": 262, "properties": { "NODE_ID": 263 }, "geometry": { "type": "Point", "coordinates": [ -78.185779, 39.168838 ] } }
+,
+{ "type": "Feature", "id": 263, "properties": { "NODE_ID": 264 }, "geometry": { "type": "Point", "coordinates": [ -78.185766, 39.139524 ] } }
+,
+{ "type": "Feature", "id": 264, "properties": { "NODE_ID": 265 }, "geometry": { "type": "Point", "coordinates": [ -78.185696, 39.175145 ] } }
+,
+{ "type": "Feature", "id": 265, "properties": { "NODE_ID": 266 }, "geometry": { "type": "Point", "coordinates": [ -78.185669, 39.147963 ] } }
+,
+{ "type": "Feature", "id": 266, "properties": { "NODE_ID": 267 }, "geometry": { "type": "Point", "coordinates": [ -78.185569, 39.148460 ] } }
+,
+{ "type": "Feature", "id": 267, "properties": { "NODE_ID": 268 }, "geometry": { "type": "Point", "coordinates": [ -78.185547, 39.169528 ] } }
+,
+{ "type": "Feature", "id": 268, "properties": { "NODE_ID": 269 }, "geometry": { "type": "Point", "coordinates": [ -78.185490, 39.189336 ] } }
+,
+{ "type": "Feature", "id": 269, "properties": { "NODE_ID": 270 }, "geometry": { "type": "Point", "coordinates": [ -78.185489, 39.190868 ] } }
+,
+{ "type": "Feature", "id": 270, "properties": { "NODE_ID": 271 }, "geometry": { "type": "Point", "coordinates": [ -78.185427, 39.153426 ] } }
+,
+{ "type": "Feature", "id": 271, "properties": { "NODE_ID": 272 }, "geometry": { "type": "Point", "coordinates": [ -78.185366, 39.167928 ] } }
+,
+{ "type": "Feature", "id": 272, "properties": { "NODE_ID": 273 }, "geometry": { "type": "Point", "coordinates": [ -78.185359, 39.148353 ] } }
+,
+{ "type": "Feature", "id": 273, "properties": { "NODE_ID": 274 }, "geometry": { "type": "Point", "coordinates": [ -78.185286, 39.169003 ] } }
+,
+{ "type": "Feature", "id": 274, "properties": { "NODE_ID": 275 }, "geometry": { "type": "Point", "coordinates": [ -78.185228, 39.201062 ] } }
+,
+{ "type": "Feature", "id": 275, "properties": { "NODE_ID": 276 }, "geometry": { "type": "Point", "coordinates": [ -78.185168, 39.160723 ] } }
+,
+{ "type": "Feature", "id": 276, "properties": { "NODE_ID": 277 }, "geometry": { "type": "Point", "coordinates": [ -78.185153, 39.148251 ] } }
+,
+{ "type": "Feature", "id": 277, "properties": { "NODE_ID": 278 }, "geometry": { "type": "Point", "coordinates": [ -78.185123, 39.147682 ] } }
+,
+{ "type": "Feature", "id": 278, "properties": { "NODE_ID": 279 }, "geometry": { "type": "Point", "coordinates": [ -78.185110, 39.150294 ] } }
+,
+{ "type": "Feature", "id": 279, "properties": { "NODE_ID": 280 }, "geometry": { "type": "Point", "coordinates": [ -78.185064, 39.168966 ] } }
+,
+{ "type": "Feature", "id": 280, "properties": { "NODE_ID": 281 }, "geometry": { "type": "Point", "coordinates": [ -78.185007, 39.168051 ] } }
+,
+{ "type": "Feature", "id": 281, "properties": { "NODE_ID": 282 }, "geometry": { "type": "Point", "coordinates": [ -78.184997, 39.169122 ] } }
+,
+{ "type": "Feature", "id": 282, "properties": { "NODE_ID": 283 }, "geometry": { "type": "Point", "coordinates": [ -78.184981, 39.177348 ] } }
+,
+{ "type": "Feature", "id": 283, "properties": { "NODE_ID": 284 }, "geometry": { "type": "Point", "coordinates": [ -78.184949, 39.168827 ] } }
+,
+{ "type": "Feature", "id": 284, "properties": { "NODE_ID": 285 }, "geometry": { "type": "Point", "coordinates": [ -78.184845, 39.163697 ] } }
+,
+{ "type": "Feature", "id": 285, "properties": { "NODE_ID": 286 }, "geometry": { "type": "Point", "coordinates": [ -78.184817, 39.145309 ] } }
+,
+{ "type": "Feature", "id": 286, "properties": { "NODE_ID": 287 }, "geometry": { "type": "Point", "coordinates": [ -78.184791, 39.201958 ] } }
+,
+{ "type": "Feature", "id": 287, "properties": { "NODE_ID": 288 }, "geometry": { "type": "Point", "coordinates": [ -78.184784, 39.192171 ] } }
+,
+{ "type": "Feature", "id": 288, "properties": { "NODE_ID": 289 }, "geometry": { "type": "Point", "coordinates": [ -78.184779, 39.148084 ] } }
+,
+{ "type": "Feature", "id": 289, "properties": { "NODE_ID": 290 }, "geometry": { "type": "Point", "coordinates": [ -78.184746, 39.176255 ] } }
+,
+{ "type": "Feature", "id": 290, "properties": { "NODE_ID": 291 }, "geometry": { "type": "Point", "coordinates": [ -78.184713, 39.176374 ] } }
+,
+{ "type": "Feature", "id": 291, "properties": { "NODE_ID": 292 }, "geometry": { "type": "Point", "coordinates": [ -78.184667, 39.190502 ] } }
+,
+{ "type": "Feature", "id": 292, "properties": { "NODE_ID": 293 }, "geometry": { "type": "Point", "coordinates": [ -78.184630, 39.176680 ] } }
+,
+{ "type": "Feature", "id": 293, "properties": { "NODE_ID": 294 }, "geometry": { "type": "Point", "coordinates": [ -78.184597, 39.176363 ] } }
+,
+{ "type": "Feature", "id": 294, "properties": { "NODE_ID": 295 }, "geometry": { "type": "Point", "coordinates": [ -78.184591, 39.177260 ] } }
+,
+{ "type": "Feature", "id": 295, "properties": { "NODE_ID": 296 }, "geometry": { "type": "Point", "coordinates": [ -78.184581, 39.154408 ] } }
+,
+{ "type": "Feature", "id": 296, "properties": { "NODE_ID": 297 }, "geometry": { "type": "Point", "coordinates": [ -78.184570, 39.177572 ] } }
+,
+{ "type": "Feature", "id": 297, "properties": { "NODE_ID": 298 }, "geometry": { "type": "Point", "coordinates": [ -78.184538, 39.147380 ] } }
+,
+{ "type": "Feature", "id": 298, "properties": { "NODE_ID": 299 }, "geometry": { "type": "Point", "coordinates": [ -78.184527, 39.154014 ] } }
+,
+{ "type": "Feature", "id": 299, "properties": { "NODE_ID": 300 }, "geometry": { "type": "Point", "coordinates": [ -78.184508, 39.154740 ] } }
+,
+{ "type": "Feature", "id": 300, "properties": { "NODE_ID": 301 }, "geometry": { "type": "Point", "coordinates": [ -78.184463, 39.176332 ] } }
+,
+{ "type": "Feature", "id": 301, "properties": { "NODE_ID": 302 }, "geometry": { "type": "Point", "coordinates": [ -78.184445, 39.172437 ] } }
+,
+{ "type": "Feature", "id": 302, "properties": { "NODE_ID": 303 }, "geometry": { "type": "Point", "coordinates": [ -78.184432, 39.170071 ] } }
+,
+{ "type": "Feature", "id": 303, "properties": { "NODE_ID": 304 }, "geometry": { "type": "Point", "coordinates": [ -78.184422, 39.153720 ] } }
+,
+{ "type": "Feature", "id": 304, "properties": { "NODE_ID": 305 }, "geometry": { "type": "Point", "coordinates": [ -78.184361, 39.173385 ] } }
+,
+{ "type": "Feature", "id": 305, "properties": { "NODE_ID": 306 }, "geometry": { "type": "Point", "coordinates": [ -78.184332, 39.164145 ] } }
+,
+{ "type": "Feature", "id": 306, "properties": { "NODE_ID": 307 }, "geometry": { "type": "Point", "coordinates": [ -78.184287, 39.162119 ] } }
+,
+{ "type": "Feature", "id": 307, "properties": { "NODE_ID": 308 }, "geometry": { "type": "Point", "coordinates": [ -78.184284, 39.154696 ] } }
+,
+{ "type": "Feature", "id": 308, "properties": { "NODE_ID": 309 }, "geometry": { "type": "Point", "coordinates": [ -78.184230, 39.140551 ] } }
+,
+{ "type": "Feature", "id": 309, "properties": { "NODE_ID": 310 }, "geometry": { "type": "Point", "coordinates": [ -78.184203, 39.169115 ] } }
+,
+{ "type": "Feature", "id": 310, "properties": { "NODE_ID": 311 }, "geometry": { "type": "Point", "coordinates": [ -78.184196, 39.194824 ] } }
+,
+{ "type": "Feature", "id": 311, "properties": { "NODE_ID": 312 }, "geometry": { "type": "Point", "coordinates": [ -78.184165, 39.155126 ] } }
+,
+{ "type": "Feature", "id": 312, "properties": { "NODE_ID": 313 }, "geometry": { "type": "Point", "coordinates": [ -78.184082, 39.152764 ] } }
+,
+{ "type": "Feature", "id": 313, "properties": { "NODE_ID": 314 }, "geometry": { "type": "Point", "coordinates": [ -78.184073, 39.168962 ] } }
+,
+{ "type": "Feature", "id": 314, "properties": { "NODE_ID": 315 }, "geometry": { "type": "Point", "coordinates": [ -78.183991, 39.177126 ] } }
+,
+{ "type": "Feature", "id": 315, "properties": { "NODE_ID": 316 }, "geometry": { "type": "Point", "coordinates": [ -78.183983, 39.173191 ] } }
+,
+{ "type": "Feature", "id": 316, "properties": { "NODE_ID": 317 }, "geometry": { "type": "Point", "coordinates": [ -78.183917, 39.148978 ] } }
+,
+{ "type": "Feature", "id": 317, "properties": { "NODE_ID": 318 }, "geometry": { "type": "Point", "coordinates": [ -78.183843, 39.191767 ] } }
+,
+{ "type": "Feature", "id": 318, "properties": { "NODE_ID": 319 }, "geometry": { "type": "Point", "coordinates": [ -78.183838, 39.163821 ] } }
+,
+{ "type": "Feature", "id": 319, "properties": { "NODE_ID": 320 }, "geometry": { "type": "Point", "coordinates": [ -78.183795, 39.147435 ] } }
+,
+{ "type": "Feature", "id": 320, "properties": { "NODE_ID": 321 }, "geometry": { "type": "Point", "coordinates": [ -78.183769, 39.169311 ] } }
+,
+{ "type": "Feature", "id": 321, "properties": { "NODE_ID": 322 }, "geometry": { "type": "Point", "coordinates": [ -78.183760, 39.202820 ] } }
+,
+{ "type": "Feature", "id": 322, "properties": { "NODE_ID": 323 }, "geometry": { "type": "Point", "coordinates": [ -78.183759, 39.152009 ] } }
+,
+{ "type": "Feature", "id": 323, "properties": { "NODE_ID": 324 }, "geometry": { "type": "Point", "coordinates": [ -78.183731, 39.175234 ] } }
+,
+{ "type": "Feature", "id": 324, "properties": { "NODE_ID": 325 }, "geometry": { "type": "Point", "coordinates": [ -78.183704, 39.176120 ] } }
+,
+{ "type": "Feature", "id": 325, "properties": { "NODE_ID": 326 }, "geometry": { "type": "Point", "coordinates": [ -78.183666, 39.199262 ] } }
+,
+{ "type": "Feature", "id": 326, "properties": { "NODE_ID": 327 }, "geometry": { "type": "Point", "coordinates": [ -78.183594, 39.201613 ] } }
+,
+{ "type": "Feature", "id": 327, "properties": { "NODE_ID": 328 }, "geometry": { "type": "Point", "coordinates": [ -78.183580, 39.179547 ] } }
+,
+{ "type": "Feature", "id": 328, "properties": { "NODE_ID": 329 }, "geometry": { "type": "Point", "coordinates": [ -78.183552, 39.153479 ] } }
+,
+{ "type": "Feature", "id": 329, "properties": { "NODE_ID": 330 }, "geometry": { "type": "Point", "coordinates": [ -78.183524, 39.149882 ] } }
+,
+{ "type": "Feature", "id": 330, "properties": { "NODE_ID": 331 }, "geometry": { "type": "Point", "coordinates": [ -78.183494, 39.164451 ] } }
+,
+{ "type": "Feature", "id": 331, "properties": { "NODE_ID": 332 }, "geometry": { "type": "Point", "coordinates": [ -78.183480, 39.194056 ] } }
+,
+{ "type": "Feature", "id": 332, "properties": { "NODE_ID": 333 }, "geometry": { "type": "Point", "coordinates": [ -78.183473, 39.173929 ] } }
+,
+{ "type": "Feature", "id": 333, "properties": { "NODE_ID": 334 }, "geometry": { "type": "Point", "coordinates": [ -78.183373, 39.190021 ] } }
+,
+{ "type": "Feature", "id": 334, "properties": { "NODE_ID": 335 }, "geometry": { "type": "Point", "coordinates": [ -78.183342, 39.153010 ] } }
+,
+{ "type": "Feature", "id": 335, "properties": { "NODE_ID": 336 }, "geometry": { "type": "Point", "coordinates": [ -78.183335, 39.175975 ] } }
+,
+{ "type": "Feature", "id": 336, "properties": { "NODE_ID": 337 }, "geometry": { "type": "Point", "coordinates": [ -78.183279, 39.154501 ] } }
+,
+{ "type": "Feature", "id": 337, "properties": { "NODE_ID": 338 }, "geometry": { "type": "Point", "coordinates": [ -78.183260, 39.145057 ] } }
+,
+{ "type": "Feature", "id": 338, "properties": { "NODE_ID": 339 }, "geometry": { "type": "Point", "coordinates": [ -78.183255, 39.194413 ] } }
+,
+{ "type": "Feature", "id": 339, "properties": { "NODE_ID": 340 }, "geometry": { "type": "Point", "coordinates": [ -78.183210, 39.163188 ] } }
+,
+{ "type": "Feature", "id": 340, "properties": { "NODE_ID": 341 }, "geometry": { "type": "Point", "coordinates": [ -78.183201, 39.151048 ] } }
+,
+{ "type": "Feature", "id": 341, "properties": { "NODE_ID": 342 }, "geometry": { "type": "Point", "coordinates": [ -78.183140, 39.137095 ] } }
+,
+{ "type": "Feature", "id": 342, "properties": { "NODE_ID": 343 }, "geometry": { "type": "Point", "coordinates": [ -78.183138, 39.189907 ] } }
+,
+{ "type": "Feature", "id": 343, "properties": { "NODE_ID": 344 }, "geometry": { "type": "Point", "coordinates": [ -78.182932, 39.197477 ] } }
+,
+{ "type": "Feature", "id": 344, "properties": { "NODE_ID": 345 }, "geometry": { "type": "Point", "coordinates": [ -78.182891, 39.152005 ] } }
+,
+{ "type": "Feature", "id": 345, "properties": { "NODE_ID": 346 }, "geometry": { "type": "Point", "coordinates": [ -78.182856, 39.176870 ] } }
+,
+{ "type": "Feature", "id": 346, "properties": { "NODE_ID": 347 }, "geometry": { "type": "Point", "coordinates": [ -78.182847, 39.170627 ] } }
+,
+{ "type": "Feature", "id": 347, "properties": { "NODE_ID": 348 }, "geometry": { "type": "Point", "coordinates": [ -78.182760, 39.150294 ] } }
+,
+{ "type": "Feature", "id": 348, "properties": { "NODE_ID": 349 }, "geometry": { "type": "Point", "coordinates": [ -78.182734, 39.130474 ] } }
+,
+{ "type": "Feature", "id": 349, "properties": { "NODE_ID": 350 }, "geometry": { "type": "Point", "coordinates": [ -78.182732, 39.135962 ] } }
+,
+{ "type": "Feature", "id": 350, "properties": { "NODE_ID": 351 }, "geometry": { "type": "Point", "coordinates": [ -78.182643, 39.148876 ] } }
+,
+{ "type": "Feature", "id": 351, "properties": { "NODE_ID": 352 }, "geometry": { "type": "Point", "coordinates": [ -78.182642, 39.170691 ] } }
+,
+{ "type": "Feature", "id": 352, "properties": { "NODE_ID": 353 }, "geometry": { "type": "Point", "coordinates": [ -78.182614, 39.146521 ] } }
+,
+{ "type": "Feature", "id": 353, "properties": { "NODE_ID": 354 }, "geometry": { "type": "Point", "coordinates": [ -78.182592, 39.191230 ] } }
+,
+{ "type": "Feature", "id": 354, "properties": { "NODE_ID": 355 }, "geometry": { "type": "Point", "coordinates": [ -78.182555, 39.151254 ] } }
+,
+{ "type": "Feature", "id": 355, "properties": { "NODE_ID": 356 }, "geometry": { "type": "Point", "coordinates": [ -78.182553, 39.163948 ] } }
+,
+{ "type": "Feature", "id": 356, "properties": { "NODE_ID": 357 }, "geometry": { "type": "Point", "coordinates": [ -78.182549, 39.193755 ] } }
+,
+{ "type": "Feature", "id": 357, "properties": { "NODE_ID": 358 }, "geometry": { "type": "Point", "coordinates": [ -78.182526, 39.138698 ] } }
+,
+{ "type": "Feature", "id": 358, "properties": { "NODE_ID": 359 }, "geometry": { "type": "Point", "coordinates": [ -78.182523, 39.172937 ] } }
+,
+{ "type": "Feature", "id": 359, "properties": { "NODE_ID": 360 }, "geometry": { "type": "Point", "coordinates": [ -78.182408, 39.170164 ] } }
+,
+{ "type": "Feature", "id": 360, "properties": { "NODE_ID": 361 }, "geometry": { "type": "Point", "coordinates": [ -78.182406, 39.172937 ] } }
+,
+{ "type": "Feature", "id": 361, "properties": { "NODE_ID": 362 }, "geometry": { "type": "Point", "coordinates": [ -78.182374, 39.189655 ] } }
+,
+{ "type": "Feature", "id": 362, "properties": { "NODE_ID": 363 }, "geometry": { "type": "Point", "coordinates": [ -78.182350, 39.141146 ] } }
+,
+{ "type": "Feature", "id": 363, "properties": { "NODE_ID": 364 }, "geometry": { "type": "Point", "coordinates": [ -78.182349, 39.148395 ] } }
+,
+{ "type": "Feature", "id": 364, "properties": { "NODE_ID": 365 }, "geometry": { "type": "Point", "coordinates": [ -78.182315, 39.194115 ] } }
+,
+{ "type": "Feature", "id": 365, "properties": { "NODE_ID": 366 }, "geometry": { "type": "Point", "coordinates": [ -78.182291, 39.146931 ] } }
+,
+{ "type": "Feature", "id": 366, "properties": { "NODE_ID": 367 }, "geometry": { "type": "Point", "coordinates": [ -78.182273, 39.186056 ] } }
+,
+{ "type": "Feature", "id": 367, "properties": { "NODE_ID": 368 }, "geometry": { "type": "Point", "coordinates": [ -78.182226, 39.199101 ] } }
+,
+{ "type": "Feature", "id": 368, "properties": { "NODE_ID": 369 }, "geometry": { "type": "Point", "coordinates": [ -78.182192, 39.203374 ] } }
+,
+{ "type": "Feature", "id": 369, "properties": { "NODE_ID": 370 }, "geometry": { "type": "Point", "coordinates": [ -78.182152, 39.170402 ] } }
+,
+{ "type": "Feature", "id": 370, "properties": { "NODE_ID": 371 }, "geometry": { "type": "Point", "coordinates": [ -78.181911, 39.169572 ] } }
+,
+{ "type": "Feature", "id": 371, "properties": { "NODE_ID": 372 }, "geometry": { "type": "Point", "coordinates": [ -78.181879, 39.154228 ] } }
+,
+{ "type": "Feature", "id": 372, "properties": { "NODE_ID": 373 }, "geometry": { "type": "Point", "coordinates": [ -78.181844, 39.197386 ] } }
+,
+{ "type": "Feature", "id": 373, "properties": { "NODE_ID": 374 }, "geometry": { "type": "Point", "coordinates": [ -78.181838, 39.203288 ] } }
+,
+{ "type": "Feature", "id": 374, "properties": { "NODE_ID": 375 }, "geometry": { "type": "Point", "coordinates": [ -78.181792, 39.142038 ] } }
+,
+{ "type": "Feature", "id": 375, "properties": { "NODE_ID": 376 }, "geometry": { "type": "Point", "coordinates": [ -78.181745, 39.154668 ] } }
+,
+{ "type": "Feature", "id": 376, "properties": { "NODE_ID": 377 }, "geometry": { "type": "Point", "coordinates": [ -78.181708, 39.175334 ] } }
+,
+{ "type": "Feature", "id": 377, "properties": { "NODE_ID": 378 }, "geometry": { "type": "Point", "coordinates": [ -78.181705, 39.190850 ] } }
+,
+{ "type": "Feature", "id": 378, "properties": { "NODE_ID": 379 }, "geometry": { "type": "Point", "coordinates": [ -78.181648, 39.166448 ] } }
+,
+{ "type": "Feature", "id": 379, "properties": { "NODE_ID": 380 }, "geometry": { "type": "Point", "coordinates": [ -78.181643, 39.164863 ] } }
+,
+{ "type": "Feature", "id": 380, "properties": { "NODE_ID": 381 }, "geometry": { "type": "Point", "coordinates": [ -78.181581, 39.189355 ] } }
+,
+{ "type": "Feature", "id": 381, "properties": { "NODE_ID": 382 }, "geometry": { "type": "Point", "coordinates": [ -78.181539, 39.165696 ] } }
+,
+{ "type": "Feature", "id": 382, "properties": { "NODE_ID": 383 }, "geometry": { "type": "Point", "coordinates": [ -78.181528, 39.192982 ] } }
+,
+{ "type": "Feature", "id": 383, "properties": { "NODE_ID": 384 }, "geometry": { "type": "Point", "coordinates": [ -78.181523, 39.155395 ] } }
+,
+{ "type": "Feature", "id": 384, "properties": { "NODE_ID": 385 }, "geometry": { "type": "Point", "coordinates": [ -78.181432, 39.165368 ] } }
+,
+{ "type": "Feature", "id": 385, "properties": { "NODE_ID": 386 }, "geometry": { "type": "Point", "coordinates": [ -78.181396, 39.195037 ] } }
+,
+{ "type": "Feature", "id": 386, "properties": { "NODE_ID": 387 }, "geometry": { "type": "Point", "coordinates": [ -78.181368, 39.155347 ] } }
+,
+{ "type": "Feature", "id": 387, "properties": { "NODE_ID": 388 }, "geometry": { "type": "Point", "coordinates": [ -78.181350, 39.164820 ] } }
+,
+{ "type": "Feature", "id": 388, "properties": { "NODE_ID": 389 }, "geometry": { "type": "Point", "coordinates": [ -78.181323, 39.191492 ] } }
+,
+{ "type": "Feature", "id": 389, "properties": { "NODE_ID": 390 }, "geometry": { "type": "Point", "coordinates": [ -78.181322, 39.145125 ] } }
+,
+{ "type": "Feature", "id": 390, "properties": { "NODE_ID": 391 }, "geometry": { "type": "Point", "coordinates": [ -78.181319, 39.165641 ] } }
+,
+{ "type": "Feature", "id": 391, "properties": { "NODE_ID": 392 }, "geometry": { "type": "Point", "coordinates": [ -78.181251, 39.153776 ] } }
+,
+{ "type": "Feature", "id": 392, "properties": { "NODE_ID": 393 }, "geometry": { "type": "Point", "coordinates": [ -78.181239, 39.145702 ] } }
+,
+{ "type": "Feature", "id": 393, "properties": { "NODE_ID": 394 }, "geometry": { "type": "Point", "coordinates": [ -78.181228, 39.193475 ] } }
+,
+{ "type": "Feature", "id": 394, "properties": { "NODE_ID": 395 }, "geometry": { "type": "Point", "coordinates": [ -78.181227, 39.198712 ] } }
+,
+{ "type": "Feature", "id": 395, "properties": { "NODE_ID": 396 }, "geometry": { "type": "Point", "coordinates": [ -78.181205, 39.136777 ] } }
+,
+{ "type": "Feature", "id": 396, "properties": { "NODE_ID": 397 }, "geometry": { "type": "Point", "coordinates": [ -78.181145, 39.156637 ] } }
+,
+{ "type": "Feature", "id": 397, "properties": { "NODE_ID": 398 }, "geometry": { "type": "Point", "coordinates": [ -78.181128, 39.154125 ] } }
+,
+{ "type": "Feature", "id": 398, "properties": { "NODE_ID": 399 }, "geometry": { "type": "Point", "coordinates": [ -78.181113, 39.174527 ] } }
+,
+{ "type": "Feature", "id": 399, "properties": { "NODE_ID": 400 }, "geometry": { "type": "Point", "coordinates": [ -78.181084, 39.154444 ] } }
+,
+{ "type": "Feature", "id": 400, "properties": { "NODE_ID": 401 }, "geometry": { "type": "Point", "coordinates": [ -78.181047, 39.166118 ] } }
+,
+{ "type": "Feature", "id": 401, "properties": { "NODE_ID": 402 }, "geometry": { "type": "Point", "coordinates": [ -78.181041, 39.156246 ] } }
+,
+{ "type": "Feature", "id": 402, "properties": { "NODE_ID": 403 }, "geometry": { "type": "Point", "coordinates": [ -78.180998, 39.172122 ] } }
+,
+{ "type": "Feature", "id": 403, "properties": { "NODE_ID": 404 }, "geometry": { "type": "Point", "coordinates": [ -78.180988, 39.195046 ] } }
+,
+{ "type": "Feature", "id": 404, "properties": { "NODE_ID": 405 }, "geometry": { "type": "Point", "coordinates": [ -78.180967, 39.166258 ] } }
+,
+{ "type": "Feature", "id": 405, "properties": { "NODE_ID": 406 }, "geometry": { "type": "Point", "coordinates": [ -78.180966, 39.173211 ] } }
+,
+{ "type": "Feature", "id": 406, "properties": { "NODE_ID": 407 }, "geometry": { "type": "Point", "coordinates": [ -78.180962, 39.201892 ] } }
+,
+{ "type": "Feature", "id": 407, "properties": { "NODE_ID": 408 }, "geometry": { "type": "Point", "coordinates": [ -78.180936, 39.203069 ] } }
+,
+{ "type": "Feature", "id": 408, "properties": { "NODE_ID": 409 }, "geometry": { "type": "Point", "coordinates": [ -78.180929, 39.146710 ] } }
+,
+{ "type": "Feature", "id": 409, "properties": { "NODE_ID": 410 }, "geometry": { "type": "Point", "coordinates": [ -78.180877, 39.177648 ] } }
+,
+{ "type": "Feature", "id": 410, "properties": { "NODE_ID": 411 }, "geometry": { "type": "Point", "coordinates": [ -78.180867, 39.141796 ] } }
+,
+{ "type": "Feature", "id": 411, "properties": { "NODE_ID": 412 }, "geometry": { "type": "Point", "coordinates": [ -78.180818, 39.145777 ] } }
+,
+{ "type": "Feature", "id": 412, "properties": { "NODE_ID": 413 }, "geometry": { "type": "Point", "coordinates": [ -78.180805, 39.146940 ] } }
+,
+{ "type": "Feature", "id": 413, "properties": { "NODE_ID": 414 }, "geometry": { "type": "Point", "coordinates": [ -78.180791, 39.161455 ] } }
+,
+{ "type": "Feature", "id": 414, "properties": { "NODE_ID": 415 }, "geometry": { "type": "Point", "coordinates": [ -78.180771, 39.142047 ] } }
+,
+{ "type": "Feature", "id": 415, "properties": { "NODE_ID": 416 }, "geometry": { "type": "Point", "coordinates": [ -78.180630, 39.174543 ] } }
+,
+{ "type": "Feature", "id": 416, "properties": { "NODE_ID": 417 }, "geometry": { "type": "Point", "coordinates": [ -78.180601, 39.172903 ] } }
+,
+{ "type": "Feature", "id": 417, "properties": { "NODE_ID": 418 }, "geometry": { "type": "Point", "coordinates": [ -78.180552, 39.192789 ] } }
+,
+{ "type": "Feature", "id": 418, "properties": { "NODE_ID": 419 }, "geometry": { "type": "Point", "coordinates": [ -78.180551, 39.197020 ] } }
+,
+{ "type": "Feature", "id": 419, "properties": { "NODE_ID": 420 }, "geometry": { "type": "Point", "coordinates": [ -78.180513, 39.159548 ] } }
+,
+{ "type": "Feature", "id": 420, "properties": { "NODE_ID": 421 }, "geometry": { "type": "Point", "coordinates": [ -78.180503, 39.146482 ] } }
+,
+{ "type": "Feature", "id": 421, "properties": { "NODE_ID": 422 }, "geometry": { "type": "Point", "coordinates": [ -78.180500, 39.139750 ] } }
+,
+{ "type": "Feature", "id": 422, "properties": { "NODE_ID": 423 }, "geometry": { "type": "Point", "coordinates": [ -78.180491, 39.202961 ] } }
+,
+{ "type": "Feature", "id": 423, "properties": { "NODE_ID": 424 }, "geometry": { "type": "Point", "coordinates": [ -78.180437, 39.171244 ] } }
+,
+{ "type": "Feature", "id": 424, "properties": { "NODE_ID": 425 }, "geometry": { "type": "Point", "coordinates": [ -78.180437, 39.172091 ] } }
+,
+{ "type": "Feature", "id": 425, "properties": { "NODE_ID": 426 }, "geometry": { "type": "Point", "coordinates": [ -78.180428, 39.155179 ] } }
+,
+{ "type": "Feature", "id": 426, "properties": { "NODE_ID": 427 }, "geometry": { "type": "Point", "coordinates": [ -78.180414, 39.157003 ] } }
+,
+{ "type": "Feature", "id": 427, "properties": { "NODE_ID": 428 }, "geometry": { "type": "Point", "coordinates": [ -78.180365, 39.156801 ] } }
+,
+{ "type": "Feature", "id": 428, "properties": { "NODE_ID": 429 }, "geometry": { "type": "Point", "coordinates": [ -78.180350, 39.167699 ] } }
+,
+{ "type": "Feature", "id": 429, "properties": { "NODE_ID": 430 }, "geometry": { "type": "Point", "coordinates": [ -78.180248, 39.156107 ] } }
+,
+{ "type": "Feature", "id": 430, "properties": { "NODE_ID": 431 }, "geometry": { "type": "Point", "coordinates": [ -78.180203, 39.164909 ] } }
+,
+{ "type": "Feature", "id": 431, "properties": { "NODE_ID": 432 }, "geometry": { "type": "Point", "coordinates": [ -78.180194, 39.149722 ] } }
+,
+{ "type": "Feature", "id": 432, "properties": { "NODE_ID": 433 }, "geometry": { "type": "Point", "coordinates": [ -78.180140, 39.190447 ] } }
+,
+{ "type": "Feature", "id": 433, "properties": { "NODE_ID": 434 }, "geometry": { "type": "Point", "coordinates": [ -78.180111, 39.193681 ] } }
+,
+{ "type": "Feature", "id": 434, "properties": { "NODE_ID": 435 }, "geometry": { "type": "Point", "coordinates": [ -78.180080, 39.201731 ] } }
+,
+{ "type": "Feature", "id": 435, "properties": { "NODE_ID": 436 }, "geometry": { "type": "Point", "coordinates": [ -78.179971, 39.144485 ] } }
+,
+{ "type": "Feature", "id": 436, "properties": { "NODE_ID": 437 }, "geometry": { "type": "Point", "coordinates": [ -78.179958, 39.190813 ] } }
+,
+{ "type": "Feature", "id": 437, "properties": { "NODE_ID": 438 }, "geometry": { "type": "Point", "coordinates": [ -78.179934, 39.198369 ] } }
+,
+{ "type": "Feature", "id": 438, "properties": { "NODE_ID": 439 }, "geometry": { "type": "Point", "coordinates": [ -78.179881, 39.154159 ] } }
+,
+{ "type": "Feature", "id": 439, "properties": { "NODE_ID": 440 }, "geometry": { "type": "Point", "coordinates": [ -78.179870, 39.156769 ] } }
+,
+{ "type": "Feature", "id": 440, "properties": { "NODE_ID": 441 }, "geometry": { "type": "Point", "coordinates": [ -78.179839, 39.154918 ] } }
+,
+{ "type": "Feature", "id": 441, "properties": { "NODE_ID": 442 }, "geometry": { "type": "Point", "coordinates": [ -78.179765, 39.145629 ] } }
+,
+{ "type": "Feature", "id": 442, "properties": { "NODE_ID": 443 }, "geometry": { "type": "Point", "coordinates": [ -78.179759, 39.167584 ] } }
+,
+{ "type": "Feature", "id": 443, "properties": { "NODE_ID": 444 }, "geometry": { "type": "Point", "coordinates": [ -78.179757, 39.196448 ] } }
+,
+{ "type": "Feature", "id": 444, "properties": { "NODE_ID": 445 }, "geometry": { "type": "Point", "coordinates": [ -78.179710, 39.188648 ] } }
+,
+{ "type": "Feature", "id": 445, "properties": { "NODE_ID": 446 }, "geometry": { "type": "Point", "coordinates": [ -78.179705, 39.154319 ] } }
+,
+{ "type": "Feature", "id": 446, "properties": { "NODE_ID": 447 }, "geometry": { "type": "Point", "coordinates": [ -78.179699, 39.202661 ] } }
+,
+{ "type": "Feature", "id": 447, "properties": { "NODE_ID": 448 }, "geometry": { "type": "Point", "coordinates": [ -78.179668, 39.202761 ] } }
+,
+{ "type": "Feature", "id": 448, "properties": { "NODE_ID": 449 }, "geometry": { "type": "Point", "coordinates": [ -78.179665, 39.164058 ] } }
+,
+{ "type": "Feature", "id": 449, "properties": { "NODE_ID": 450 }, "geometry": { "type": "Point", "coordinates": [ -78.179585, 39.170970 ] } }
+,
+{ "type": "Feature", "id": 450, "properties": { "NODE_ID": 451 }, "geometry": { "type": "Point", "coordinates": [ -78.179582, 39.191828 ] } }
+,
+{ "type": "Feature", "id": 451, "properties": { "NODE_ID": 452 }, "geometry": { "type": "Point", "coordinates": [ -78.179556, 39.172068 ] } }
+,
+{ "type": "Feature", "id": 452, "properties": { "NODE_ID": 453 }, "geometry": { "type": "Point", "coordinates": [ -78.179530, 39.141191 ] } }
+,
+{ "type": "Feature", "id": 453, "properties": { "NODE_ID": 454 }, "geometry": { "type": "Point", "coordinates": [ -78.179530, 39.177131 ] } }
+,
+{ "type": "Feature", "id": 454, "properties": { "NODE_ID": 455 }, "geometry": { "type": "Point", "coordinates": [ -78.179509, 39.170927 ] } }
+,
+{ "type": "Feature", "id": 455, "properties": { "NODE_ID": 456 }, "geometry": { "type": "Point", "coordinates": [ -78.179482, 39.169027 ] } }
+,
+{ "type": "Feature", "id": 456, "properties": { "NODE_ID": 457 }, "geometry": { "type": "Point", "coordinates": [ -78.179469, 39.163010 ] } }
+,
+{ "type": "Feature", "id": 457, "properties": { "NODE_ID": 458 }, "geometry": { "type": "Point", "coordinates": [ -78.179464, 39.195419 ] } }
+,
+{ "type": "Feature", "id": 458, "properties": { "NODE_ID": 459 }, "geometry": { "type": "Point", "coordinates": [ -78.179411, 39.158756 ] } }
+,
+{ "type": "Feature", "id": 459, "properties": { "NODE_ID": 460 }, "geometry": { "type": "Point", "coordinates": [ -78.179379, 39.174034 ] } }
+,
+{ "type": "Feature", "id": 460, "properties": { "NODE_ID": 461 }, "geometry": { "type": "Point", "coordinates": [ -78.179284, 39.196437 ] } }
+,
+{ "type": "Feature", "id": 461, "properties": { "NODE_ID": 462 }, "geometry": { "type": "Point", "coordinates": [ -78.179273, 39.159380 ] } }
+,
+{ "type": "Feature", "id": 462, "properties": { "NODE_ID": 463 }, "geometry": { "type": "Point", "coordinates": [ -78.179140, 39.200382 ] } }
+,
+{ "type": "Feature", "id": 463, "properties": { "NODE_ID": 464 }, "geometry": { "type": "Point", "coordinates": [ -78.179083, 39.154469 ] } }
+,
+{ "type": "Feature", "id": 464, "properties": { "NODE_ID": 465 }, "geometry": { "type": "Point", "coordinates": [ -78.179072, 39.161314 ] } }
+,
+{ "type": "Feature", "id": 465, "properties": { "NODE_ID": 466 }, "geometry": { "type": "Point", "coordinates": [ -78.178974, 39.171235 ] } }
+,
+{ "type": "Feature", "id": 466, "properties": { "NODE_ID": 467 }, "geometry": { "type": "Point", "coordinates": [ -78.178912, 39.149950 ] } }
+,
+{ "type": "Feature", "id": 467, "properties": { "NODE_ID": 468 }, "geometry": { "type": "Point", "coordinates": [ -78.178827, 39.137884 ] } }
+,
+{ "type": "Feature", "id": 468, "properties": { "NODE_ID": 469 }, "geometry": { "type": "Point", "coordinates": [ -78.178818, 39.190936 ] } }
+,
+{ "type": "Feature", "id": 469, "properties": { "NODE_ID": 470 }, "geometry": { "type": "Point", "coordinates": [ -78.178702, 39.158634 ] } }
+,
+{ "type": "Feature", "id": 470, "properties": { "NODE_ID": 471 }, "geometry": { "type": "Point", "coordinates": [ -78.178678, 39.144256 ] } }
+,
+{ "type": "Feature", "id": 471, "properties": { "NODE_ID": 472 }, "geometry": { "type": "Point", "coordinates": [ -78.178670, 39.198072 ] } }
+,
+{ "type": "Feature", "id": 472, "properties": { "NODE_ID": 473 }, "geometry": { "type": "Point", "coordinates": [ -78.178644, 39.177785 ] } }
+,
+{ "type": "Feature", "id": 473, "properties": { "NODE_ID": 474 }, "geometry": { "type": "Point", "coordinates": [ -78.178613, 39.163106 ] } }
+,
+{ "type": "Feature", "id": 474, "properties": { "NODE_ID": 475 }, "geometry": { "type": "Point", "coordinates": [ -78.178588, 39.179536 ] } }
+,
+{ "type": "Feature", "id": 475, "properties": { "NODE_ID": 476 }, "geometry": { "type": "Point", "coordinates": [ -78.178558, 39.161272 ] } }
+,
+{ "type": "Feature", "id": 476, "properties": { "NODE_ID": 477 }, "geometry": { "type": "Point", "coordinates": [ -78.178479, 39.171520 ] } }
+,
+{ "type": "Feature", "id": 477, "properties": { "NODE_ID": 478 }, "geometry": { "type": "Point", "coordinates": [ -78.178472, 39.151002 ] } }
+,
+{ "type": "Feature", "id": 478, "properties": { "NODE_ID": 479 }, "geometry": { "type": "Point", "coordinates": [ -78.178465, 39.189724 ] } }
+,
+{ "type": "Feature", "id": 479, "properties": { "NODE_ID": 480 }, "geometry": { "type": "Point", "coordinates": [ -78.178440, 39.153446 ] } }
+,
+{ "type": "Feature", "id": 480, "properties": { "NODE_ID": 481 }, "geometry": { "type": "Point", "coordinates": [ -78.178421, 39.176038 ] } }
+,
+{ "type": "Feature", "id": 481, "properties": { "NODE_ID": 482 }, "geometry": { "type": "Point", "coordinates": [ -78.178409, 39.174538 ] } }
+,
+{ "type": "Feature", "id": 482, "properties": { "NODE_ID": 483 }, "geometry": { "type": "Point", "coordinates": [ -78.178407, 39.148771 ] } }
+,
+{ "type": "Feature", "id": 483, "properties": { "NODE_ID": 484 }, "geometry": { "type": "Point", "coordinates": [ -78.178386, 39.159530 ] } }
+,
+{ "type": "Feature", "id": 484, "properties": { "NODE_ID": 485 }, "geometry": { "type": "Point", "coordinates": [ -78.178234, 39.166235 ] } }
+,
+{ "type": "Feature", "id": 485, "properties": { "NODE_ID": 486 }, "geometry": { "type": "Point", "coordinates": [ -78.178156, 39.176604 ] } }
+,
+{ "type": "Feature", "id": 486, "properties": { "NODE_ID": 487 }, "geometry": { "type": "Point", "coordinates": [ -78.178146, 39.170146 ] } }
+,
+{ "type": "Feature", "id": 487, "properties": { "NODE_ID": 488 }, "geometry": { "type": "Point", "coordinates": [ -78.178017, 39.137187 ] } }
+,
+{ "type": "Feature", "id": 488, "properties": { "NODE_ID": 489 }, "geometry": { "type": "Point", "coordinates": [ -78.178003, 39.196649 ] } }
+,
+{ "type": "Feature", "id": 489, "properties": { "NODE_ID": 490 }, "geometry": { "type": "Point", "coordinates": [ -78.177942, 39.158504 ] } }
+,
+{ "type": "Feature", "id": 490, "properties": { "NODE_ID": 491 }, "geometry": { "type": "Point", "coordinates": [ -78.177884, 39.179272 ] } }
+,
+{ "type": "Feature", "id": 491, "properties": { "NODE_ID": 492 }, "geometry": { "type": "Point", "coordinates": [ -78.177877, 39.195327 ] } }
+,
+{ "type": "Feature", "id": 492, "properties": { "NODE_ID": 493 }, "geometry": { "type": "Point", "coordinates": [ -78.177679, 39.149813 ] } }
+,
+{ "type": "Feature", "id": 493, "properties": { "NODE_ID": 494 }, "geometry": { "type": "Point", "coordinates": [ -78.177643, 39.189563 ] } }
+,
+{ "type": "Feature", "id": 494, "properties": { "NODE_ID": 495 }, "geometry": { "type": "Point", "coordinates": [ -78.177634, 39.149109 ] } }
+,
+{ "type": "Feature", "id": 495, "properties": { "NODE_ID": 496 }, "geometry": { "type": "Point", "coordinates": [ -78.177591, 39.148441 ] } }
+,
+{ "type": "Feature", "id": 496, "properties": { "NODE_ID": 497 }, "geometry": { "type": "Point", "coordinates": [ -78.177557, 39.170548 ] } }
+,
+{ "type": "Feature", "id": 497, "properties": { "NODE_ID": 498 }, "geometry": { "type": "Point", "coordinates": [ -78.177554, 39.192491 ] } }
+,
+{ "type": "Feature", "id": 498, "properties": { "NODE_ID": 499 }, "geometry": { "type": "Point", "coordinates": [ -78.177528, 39.175086 ] } }
+,
+{ "type": "Feature", "id": 499, "properties": { "NODE_ID": 500 }, "geometry": { "type": "Point", "coordinates": [ -78.177495, 39.194298 ] } }
+,
+{ "type": "Feature", "id": 500, "properties": { "NODE_ID": 501 }, "geometry": { "type": "Point", "coordinates": [ -78.177428, 39.167621 ] } }
+,
+{ "type": "Feature", "id": 501, "properties": { "NODE_ID": 502 }, "geometry": { "type": "Point", "coordinates": [ -78.177357, 39.143684 ] } }
+,
+{ "type": "Feature", "id": 502, "properties": { "NODE_ID": 503 }, "geometry": { "type": "Point", "coordinates": [ -78.177208, 39.153084 ] } }
+,
+{ "type": "Feature", "id": 503, "properties": { "NODE_ID": 504 }, "geometry": { "type": "Point", "coordinates": [ -78.177201, 39.194412 ] } }
+,
+{ "type": "Feature", "id": 504, "properties": { "NODE_ID": 505 }, "geometry": { "type": "Point", "coordinates": [ -78.177176, 39.172319 ] } }
+,
+{ "type": "Feature", "id": 505, "properties": { "NODE_ID": 506 }, "geometry": { "type": "Point", "coordinates": [ -78.177170, 39.200976 ] } }
+,
+{ "type": "Feature", "id": 506, "properties": { "NODE_ID": 507 }, "geometry": { "type": "Point", "coordinates": [ -78.177146, 39.172616 ] } }
+,
+{ "type": "Feature", "id": 507, "properties": { "NODE_ID": 508 }, "geometry": { "type": "Point", "coordinates": [ -78.177078, 39.168935 ] } }
+,
+{ "type": "Feature", "id": 508, "properties": { "NODE_ID": 509 }, "geometry": { "type": "Point", "coordinates": [ -78.177016, 39.152351 ] } }
+,
+{ "type": "Feature", "id": 509, "properties": { "NODE_ID": 510 }, "geometry": { "type": "Point", "coordinates": [ -78.176999, 39.176161 ] } }
+,
+{ "type": "Feature", "id": 510, "properties": { "NODE_ID": 511 }, "geometry": { "type": "Point", "coordinates": [ -78.176991, 39.148168 ] } }
+,
+{ "type": "Feature", "id": 511, "properties": { "NODE_ID": 512 }, "geometry": { "type": "Point", "coordinates": [ -78.176990, 39.170252 ] } }
+,
+{ "type": "Feature", "id": 512, "properties": { "NODE_ID": 513 }, "geometry": { "type": "Point", "coordinates": [ -78.176950, 39.169277 ] } }
+,
+{ "type": "Feature", "id": 513, "properties": { "NODE_ID": 514 }, "geometry": { "type": "Point", "coordinates": [ -78.176914, 39.156331 ] } }
+,
+{ "type": "Feature", "id": 514, "properties": { "NODE_ID": 515 }, "geometry": { "type": "Point", "coordinates": [ -78.176914, 39.196556 ] } }
+,
+{ "type": "Feature", "id": 515, "properties": { "NODE_ID": 516 }, "geometry": { "type": "Point", "coordinates": [ -78.176876, 39.201685 ] } }
+,
+{ "type": "Feature", "id": 516, "properties": { "NODE_ID": 517 }, "geometry": { "type": "Point", "coordinates": [ -78.176856, 39.151277 ] } }
+,
+{ "type": "Feature", "id": 517, "properties": { "NODE_ID": 518 }, "geometry": { "type": "Point", "coordinates": [ -78.176832, 39.170169 ] } }
+,
+{ "type": "Feature", "id": 518, "properties": { "NODE_ID": 519 }, "geometry": { "type": "Point", "coordinates": [ -78.176827, 39.150705 ] } }
+,
+{ "type": "Feature", "id": 519, "properties": { "NODE_ID": 520 }, "geometry": { "type": "Point", "coordinates": [ -78.176825, 39.161249 ] } }
+,
+{ "type": "Feature", "id": 520, "properties": { "NODE_ID": 521 }, "geometry": { "type": "Point", "coordinates": [ -78.176748, 39.202006 ] } }
+,
+{ "type": "Feature", "id": 521, "properties": { "NODE_ID": 522 }, "geometry": { "type": "Point", "coordinates": [ -78.176738, 39.157063 ] } }
+,
+{ "type": "Feature", "id": 522, "properties": { "NODE_ID": 523 }, "geometry": { "type": "Point", "coordinates": [ -78.176703, 39.187551 ] } }
+,
+{ "type": "Feature", "id": 523, "properties": { "NODE_ID": 524 }, "geometry": { "type": "Point", "coordinates": [ -78.176671, 39.197911 ] } }
+,
+{ "type": "Feature", "id": 524, "properties": { "NODE_ID": 525 }, "geometry": { "type": "Point", "coordinates": [ -78.176670, 39.201685 ] } }
+,
+{ "type": "Feature", "id": 525, "properties": { "NODE_ID": 526 }, "geometry": { "type": "Point", "coordinates": [ -78.176616, 39.176893 ] } }
+,
+{ "type": "Feature", "id": 526, "properties": { "NODE_ID": 527 }, "geometry": { "type": "Point", "coordinates": [ -78.176616, 39.181696 ] } }
+,
+{ "type": "Feature", "id": 527, "properties": { "NODE_ID": 528 }, "geometry": { "type": "Point", "coordinates": [ -78.176597, 39.152130 ] } }
+,
+{ "type": "Feature", "id": 528, "properties": { "NODE_ID": 529 }, "geometry": { "type": "Point", "coordinates": [ -78.176496, 39.192354 ] } }
+,
+{ "type": "Feature", "id": 529, "properties": { "NODE_ID": 530 }, "geometry": { "type": "Point", "coordinates": [ -78.176444, 39.158275 ] } }
+,
+{ "type": "Feature", "id": 530, "properties": { "NODE_ID": 531 }, "geometry": { "type": "Point", "coordinates": [ -78.176416, 39.147777 ] } }
+,
+{ "type": "Feature", "id": 531, "properties": { "NODE_ID": 532 }, "geometry": { "type": "Point", "coordinates": [ -78.176353, 39.173165 ] } }
+,
+{ "type": "Feature", "id": 532, "properties": { "NODE_ID": 533 }, "geometry": { "type": "Point", "coordinates": [ -78.176204, 39.180873 ] } }
+,
+{ "type": "Feature", "id": 533, "properties": { "NODE_ID": 534 }, "geometry": { "type": "Point", "coordinates": [ -78.176180, 39.156514 ] } }
+,
+{ "type": "Feature", "id": 534, "properties": { "NODE_ID": 535 }, "geometry": { "type": "Point", "coordinates": [ -78.176177, 39.171587 ] } }
+,
+{ "type": "Feature", "id": 535, "properties": { "NODE_ID": 536 }, "geometry": { "type": "Point", "coordinates": [ -78.176005, 39.143067 ] } }
+,
+{ "type": "Feature", "id": 536, "properties": { "NODE_ID": 537 }, "geometry": { "type": "Point", "coordinates": [ -78.175998, 39.181605 ] } }
+,
+{ "type": "Feature", "id": 537, "properties": { "NODE_ID": 538 }, "geometry": { "type": "Point", "coordinates": [ -78.175878, 39.193817 ] } }
+,
+{ "type": "Feature", "id": 538, "properties": { "NODE_ID": 539 }, "geometry": { "type": "Point", "coordinates": [ -78.175850, 39.171063 ] } }
+,
+{ "type": "Feature", "id": 539, "properties": { "NODE_ID": 540 }, "geometry": { "type": "Point", "coordinates": [ -78.175807, 39.168687 ] } }
+,
+{ "type": "Feature", "id": 540, "properties": { "NODE_ID": 541 }, "geometry": { "type": "Point", "coordinates": [ -78.175619, 39.168957 ] } }
+,
+{ "type": "Feature", "id": 541, "properties": { "NODE_ID": 542 }, "geometry": { "type": "Point", "coordinates": [ -78.175594, 39.139681 ] } }
+,
+{ "type": "Feature", "id": 542, "properties": { "NODE_ID": 543 }, "geometry": { "type": "Point", "coordinates": [ -78.175505, 39.165723 ] } }
+,
+{ "type": "Feature", "id": 543, "properties": { "NODE_ID": 544 }, "geometry": { "type": "Point", "coordinates": [ -78.175499, 39.182497 ] } }
+,
+{ "type": "Feature", "id": 544, "properties": { "NODE_ID": 545 }, "geometry": { "type": "Point", "coordinates": [ -78.175355, 39.169528 ] } }
+,
+{ "type": "Feature", "id": 545, "properties": { "NODE_ID": 546 }, "geometry": { "type": "Point", "coordinates": [ -78.175352, 39.183183 ] } }
+,
+{ "type": "Feature", "id": 546, "properties": { "NODE_ID": 547 }, "geometry": { "type": "Point", "coordinates": [ -78.175329, 39.150041 ] } }
+,
+{ "type": "Feature", "id": 547, "properties": { "NODE_ID": 548 }, "geometry": { "type": "Point", "coordinates": [ -78.175321, 39.187277 ] } }
+,
+{ "type": "Feature", "id": 548, "properties": { "NODE_ID": 549 }, "geometry": { "type": "Point", "coordinates": [ -78.175268, 39.163284 ] } }
+,
+{ "type": "Feature", "id": 549, "properties": { "NODE_ID": 550 }, "geometry": { "type": "Point", "coordinates": [ -78.175264, 39.178723 ] } }
+,
+{ "type": "Feature", "id": 550, "properties": { "NODE_ID": 551 }, "geometry": { "type": "Point", "coordinates": [ -78.175261, 39.174653 ] } }
+,
+{ "type": "Feature", "id": 551, "properties": { "NODE_ID": 552 }, "geometry": { "type": "Point", "coordinates": [ -78.175239, 39.161203 ] } }
+,
+{ "type": "Feature", "id": 552, "properties": { "NODE_ID": 553 }, "geometry": { "type": "Point", "coordinates": [ -78.175211, 39.147251 ] } }
+,
+{ "type": "Feature", "id": 553, "properties": { "NODE_ID": 554 }, "geometry": { "type": "Point", "coordinates": [ -78.175175, 39.198217 ] } }
+,
+{ "type": "Feature", "id": 554, "properties": { "NODE_ID": 555 }, "geometry": { "type": "Point", "coordinates": [ -78.175161, 39.173720 ] } }
+,
+{ "type": "Feature", "id": 555, "properties": { "NODE_ID": 556 }, "geometry": { "type": "Point", "coordinates": [ -78.175090, 39.172067 ] } }
+,
+{ "type": "Feature", "id": 556, "properties": { "NODE_ID": 557 }, "geometry": { "type": "Point", "coordinates": [ -78.175057, 39.185676 ] } }
+,
+{ "type": "Feature", "id": 557, "properties": { "NODE_ID": 558 }, "geometry": { "type": "Point", "coordinates": [ -78.175056, 39.189015 ] } }
+,
+{ "type": "Feature", "id": 558, "properties": { "NODE_ID": 559 }, "geometry": { "type": "Point", "coordinates": [ -78.175035, 39.146794 ] } }
+,
+{ "type": "Feature", "id": 559, "properties": { "NODE_ID": 560 }, "geometry": { "type": "Point", "coordinates": [ -78.174972, 39.172433 ] } }
+,
+{ "type": "Feature", "id": 560, "properties": { "NODE_ID": 561 }, "geometry": { "type": "Point", "coordinates": [ -78.174879, 39.192079 ] } }
+,
+{ "type": "Feature", "id": 561, "properties": { "NODE_ID": 562 }, "geometry": { "type": "Point", "coordinates": [ -78.174823, 39.180023 ] } }
+,
+{ "type": "Feature", "id": 562, "properties": { "NODE_ID": 563 }, "geometry": { "type": "Point", "coordinates": [ -78.174794, 39.180690 ] } }
+,
+{ "type": "Feature", "id": 563, "properties": { "NODE_ID": 564 }, "geometry": { "type": "Point", "coordinates": [ -78.174762, 39.175322 ] } }
+,
+{ "type": "Feature", "id": 564, "properties": { "NODE_ID": 565 }, "geometry": { "type": "Point", "coordinates": [ -78.174737, 39.161660 ] } }
+,
+{ "type": "Feature", "id": 565, "properties": { "NODE_ID": 566 }, "geometry": { "type": "Point", "coordinates": [ -78.174734, 39.183160 ] } }
+,
+{ "type": "Feature", "id": 566, "properties": { "NODE_ID": 567 }, "geometry": { "type": "Point", "coordinates": [ -78.174682, 39.146611 ] } }
+,
+{ "type": "Feature", "id": 567, "properties": { "NODE_ID": 568 }, "geometry": { "type": "Point", "coordinates": [ -78.174677, 39.171900 ] } }
+,
+{ "type": "Feature", "id": 568, "properties": { "NODE_ID": 569 }, "geometry": { "type": "Point", "coordinates": [ -78.174650, 39.164885 ] } }
+,
+{ "type": "Feature", "id": 569, "properties": { "NODE_ID": 570 }, "geometry": { "type": "Point", "coordinates": [ -78.174538, 39.170116 ] } }
+,
+{ "type": "Feature", "id": 570, "properties": { "NODE_ID": 571 }, "geometry": { "type": "Point", "coordinates": [ -78.174500, 39.181330 ] } }
+,
+{ "type": "Feature", "id": 571, "properties": { "NODE_ID": 572 }, "geometry": { "type": "Point", "coordinates": [ -78.174470, 39.183823 ] } }
+,
+{ "type": "Feature", "id": 572, "properties": { "NODE_ID": 573 }, "geometry": { "type": "Point", "coordinates": [ -78.174466, 39.166648 ] } }
+,
+{ "type": "Feature", "id": 573, "properties": { "NODE_ID": 574 }, "geometry": { "type": "Point", "coordinates": [ -78.174462, 39.166251 ] } }
+,
+{ "type": "Feature", "id": 574, "properties": { "NODE_ID": 575 }, "geometry": { "type": "Point", "coordinates": [ -78.174355, 39.172730 ] } }
+,
+{ "type": "Feature", "id": 575, "properties": { "NODE_ID": 576 }, "geometry": { "type": "Point", "coordinates": [ -78.174330, 39.145468 ] } }
+,
+{ "type": "Feature", "id": 576, "properties": { "NODE_ID": 577 }, "geometry": { "type": "Point", "coordinates": [ -78.174323, 39.182199 ] } }
+,
+{ "type": "Feature", "id": 577, "properties": { "NODE_ID": 578 }, "geometry": { "type": "Point", "coordinates": [ -78.174242, 39.144530 ] } }
+,
+{ "type": "Feature", "id": 578, "properties": { "NODE_ID": 579 }, "geometry": { "type": "Point", "coordinates": [ -78.174062, 39.182987 ] } }
+,
+{ "type": "Feature", "id": 579, "properties": { "NODE_ID": 580 }, "geometry": { "type": "Point", "coordinates": [ -78.174047, 39.175054 ] } }
+,
+{ "type": "Feature", "id": 580, "properties": { "NODE_ID": 581 }, "geometry": { "type": "Point", "coordinates": [ -78.174032, 39.173005 ] } }
+,
+{ "type": "Feature", "id": 581, "properties": { "NODE_ID": 582 }, "geometry": { "type": "Point", "coordinates": [ -78.173941, 39.185310 ] } }
+,
+{ "type": "Feature", "id": 582, "properties": { "NODE_ID": 583 }, "geometry": { "type": "Point", "coordinates": [ -78.173928, 39.164166 ] } }
+,
+{ "type": "Feature", "id": 583, "properties": { "NODE_ID": 584 }, "geometry": { "type": "Point", "coordinates": [ -78.173919, 39.143752 ] } }
+,
+{ "type": "Feature", "id": 584, "properties": { "NODE_ID": 585 }, "geometry": { "type": "Point", "coordinates": [ -78.173887, 39.162575 ] } }
+,
+{ "type": "Feature", "id": 585, "properties": { "NODE_ID": 586 }, "geometry": { "type": "Point", "coordinates": [ -78.173860, 39.148738 ] } }
+,
+{ "type": "Feature", "id": 586, "properties": { "NODE_ID": 587 }, "geometry": { "type": "Point", "coordinates": [ -78.173795, 39.174121 ] } }
+,
+{ "type": "Feature", "id": 587, "properties": { "NODE_ID": 588 }, "geometry": { "type": "Point", "coordinates": [ -78.173676, 39.183731 ] } }
+,
+{ "type": "Feature", "id": 588, "properties": { "NODE_ID": 589 }, "geometry": { "type": "Point", "coordinates": [ -78.173654, 39.146839 ] } }
+,
+{ "type": "Feature", "id": 589, "properties": { "NODE_ID": 590 }, "geometry": { "type": "Point", "coordinates": [ -78.173503, 39.170717 ] } }
+,
+{ "type": "Feature", "id": 590, "properties": { "NODE_ID": 591 }, "geometry": { "type": "Point", "coordinates": [ -78.173503, 39.173371 ] } }
+,
+{ "type": "Feature", "id": 591, "properties": { "NODE_ID": 592 }, "geometry": { "type": "Point", "coordinates": [ -78.173479, 39.142289 ] } }
+,
+{ "type": "Feature", "id": 592, "properties": { "NODE_ID": 593 }, "geometry": { "type": "Point", "coordinates": [ -78.173450, 39.161116 ] } }
+,
+{ "type": "Feature", "id": 593, "properties": { "NODE_ID": 594 }, "geometry": { "type": "Point", "coordinates": [ -78.173362, 39.141991 ] } }
+,
+{ "type": "Feature", "id": 594, "properties": { "NODE_ID": 595 }, "geometry": { "type": "Point", "coordinates": [ -78.173357, 39.168819 ] } }
+,
+{ "type": "Feature", "id": 595, "properties": { "NODE_ID": 596 }, "geometry": { "type": "Point", "coordinates": [ -78.173286, 39.180417 ] } }
+,
+{ "type": "Feature", "id": 596, "properties": { "NODE_ID": 597 }, "geometry": { "type": "Point", "coordinates": [ -78.173183, 39.174730 ] } }
+,
+{ "type": "Feature", "id": 597, "properties": { "NODE_ID": 598 }, "geometry": { "type": "Point", "coordinates": [ -78.173177, 39.185035 ] } }
+,
+{ "type": "Feature", "id": 598, "properties": { "NODE_ID": 599 }, "geometry": { "type": "Point", "coordinates": [ -78.173151, 39.171198 ] } }
+,
+{ "type": "Feature", "id": 599, "properties": { "NODE_ID": 600 }, "geometry": { "type": "Point", "coordinates": [ -78.173073, 39.160956 ] } }
+,
+{ "type": "Feature", "id": 600, "properties": { "NODE_ID": 601 }, "geometry": { "type": "Point", "coordinates": [ -78.173029, 39.186705 ] } }
+,
+{ "type": "Feature", "id": 601, "properties": { "NODE_ID": 602 }, "geometry": { "type": "Point", "coordinates": [ -78.172983, 39.190518 ] } }
+,
+{ "type": "Feature", "id": 602, "properties": { "NODE_ID": 603 }, "geometry": { "type": "Point", "coordinates": [ -78.172942, 39.141362 ] } }
+,
+{ "type": "Feature", "id": 603, "properties": { "NODE_ID": 604 }, "geometry": { "type": "Point", "coordinates": [ -78.172883, 39.183548 ] } }
+,
+{ "type": "Feature", "id": 604, "properties": { "NODE_ID": 605 }, "geometry": { "type": "Point", "coordinates": [ -78.172708, 39.177693 ] } }
+,
+{ "type": "Feature", "id": 605, "properties": { "NODE_ID": 606 }, "geometry": { "type": "Point", "coordinates": [ -78.172704, 39.165115 ] } }
+,
+{ "type": "Feature", "id": 606, "properties": { "NODE_ID": 607 }, "geometry": { "type": "Point", "coordinates": [ -78.172618, 39.184166 ] } }
+,
+{ "type": "Feature", "id": 607, "properties": { "NODE_ID": 608 }, "geometry": { "type": "Point", "coordinates": [ -78.172479, 39.148166 ] } }
+,
+{ "type": "Feature", "id": 608, "properties": { "NODE_ID": 609 }, "geometry": { "type": "Point", "coordinates": [ -78.172478, 39.163670 ] } }
+,
+{ "type": "Feature", "id": 609, "properties": { "NODE_ID": 610 }, "geometry": { "type": "Point", "coordinates": [ -78.172477, 39.158206 ] } }
+,
+{ "type": "Feature", "id": 610, "properties": { "NODE_ID": 611 }, "geometry": { "type": "Point", "coordinates": [ -78.172475, 39.170237 ] } }
+,
+{ "type": "Feature", "id": 611, "properties": { "NODE_ID": 612 }, "geometry": { "type": "Point", "coordinates": [ -78.172414, 39.178402 ] } }
+,
+{ "type": "Feature", "id": 612, "properties": { "NODE_ID": 613 }, "geometry": { "type": "Point", "coordinates": [ -78.172413, 39.184806 ] } }
+,
+{ "type": "Feature", "id": 613, "properties": { "NODE_ID": 614 }, "geometry": { "type": "Point", "coordinates": [ -78.172307, 39.161448 ] } }
+,
+{ "type": "Feature", "id": 614, "properties": { "NODE_ID": 615 }, "geometry": { "type": "Point", "coordinates": [ -78.172298, 39.174194 ] } }
+,
+{ "type": "Feature", "id": 615, "properties": { "NODE_ID": 616 }, "geometry": { "type": "Point", "coordinates": [ -78.172295, 39.186545 ] } }
+,
+{ "type": "Feature", "id": 616, "properties": { "NODE_ID": 617 }, "geometry": { "type": "Point", "coordinates": [ -78.172238, 39.161926 ] } }
+,
+{ "type": "Feature", "id": 617, "properties": { "NODE_ID": 618 }, "geometry": { "type": "Point", "coordinates": [ -78.172210, 39.170946 ] } }
+,
+{ "type": "Feature", "id": 618, "properties": { "NODE_ID": 619 }, "geometry": { "type": "Point", "coordinates": [ -78.172204, 39.196150 ] } }
+,
+{ "type": "Feature", "id": 619, "properties": { "NODE_ID": 620 }, "geometry": { "type": "Point", "coordinates": [ -78.172180, 39.174354 ] } }
+,
+{ "type": "Feature", "id": 620, "properties": { "NODE_ID": 621 }, "geometry": { "type": "Point", "coordinates": [ -78.172120, 39.179134 ] } }
+,
+{ "type": "Feature", "id": 621, "properties": { "NODE_ID": 622 }, "geometry": { "type": "Point", "coordinates": [ -78.172089, 39.186430 ] } }
+,
+{ "type": "Feature", "id": 622, "properties": { "NODE_ID": 623 }, "geometry": { "type": "Point", "coordinates": [ -78.172026, 39.157583 ] } }
+,
+{ "type": "Feature", "id": 623, "properties": { "NODE_ID": 624 }, "geometry": { "type": "Point", "coordinates": [ -78.172002, 39.186498 ] } }
+,
+{ "type": "Feature", "id": 624, "properties": { "NODE_ID": 625 }, "geometry": { "type": "Point", "coordinates": [ -78.171952, 39.147970 ] } }
+,
+{ "type": "Feature", "id": 625, "properties": { "NODE_ID": 626 }, "geometry": { "type": "Point", "coordinates": [ -78.171939, 39.195326 ] } }
+,
+{ "type": "Feature", "id": 626, "properties": { "NODE_ID": 627 }, "geometry": { "type": "Point", "coordinates": [ -78.171922, 39.143112 ] } }
+,
+{ "type": "Feature", "id": 627, "properties": { "NODE_ID": 628 }, "geometry": { "type": "Point", "coordinates": [ -78.171894, 39.186690 ] } }
+,
+{ "type": "Feature", "id": 628, "properties": { "NODE_ID": 629 }, "geometry": { "type": "Point", "coordinates": [ -78.171855, 39.179980 ] } }
+,
+{ "type": "Feature", "id": 629, "properties": { "NODE_ID": 630 }, "geometry": { "type": "Point", "coordinates": [ -78.171838, 39.153799 ] } }
+,
+{ "type": "Feature", "id": 630, "properties": { "NODE_ID": 631 }, "geometry": { "type": "Point", "coordinates": [ -78.171769, 39.171769 ] } }
+,
+{ "type": "Feature", "id": 631, "properties": { "NODE_ID": 632 }, "geometry": { "type": "Point", "coordinates": [ -78.171768, 39.186881 ] } }
+,
+{ "type": "Feature", "id": 632, "properties": { "NODE_ID": 633 }, "geometry": { "type": "Point", "coordinates": [ -78.171658, 39.164634 ] } }
+,
+{ "type": "Feature", "id": 633, "properties": { "NODE_ID": 634 }, "geometry": { "type": "Point", "coordinates": [ -78.171650, 39.180666 ] } }
+,
+{ "type": "Feature", "id": 634, "properties": { "NODE_ID": 635 }, "geometry": { "type": "Point", "coordinates": [ -78.171563, 39.174743 ] } }
+,
+{ "type": "Feature", "id": 635, "properties": { "NODE_ID": 636 }, "geometry": { "type": "Point", "coordinates": [ -78.171507, 39.165091 ] } }
+,
+{ "type": "Feature", "id": 636, "properties": { "NODE_ID": 637 }, "geometry": { "type": "Point", "coordinates": [ -78.171502, 39.183205 ] } }
+,
+{ "type": "Feature", "id": 637, "properties": { "NODE_ID": 638 }, "geometry": { "type": "Point", "coordinates": [ -78.171480, 39.176721 ] } }
+,
+{ "type": "Feature", "id": 638, "properties": { "NODE_ID": 639 }, "geometry": { "type": "Point", "coordinates": [ -78.171446, 39.172593 ] } }
+,
+{ "type": "Feature", "id": 639, "properties": { "NODE_ID": 640 }, "geometry": { "type": "Point", "coordinates": [ -78.171442, 39.165891 ] } }
+,
+{ "type": "Feature", "id": 640, "properties": { "NODE_ID": 641 }, "geometry": { "type": "Point", "coordinates": [ -78.171404, 39.166352 ] } }
+,
+{ "type": "Feature", "id": 641, "properties": { "NODE_ID": 642 }, "geometry": { "type": "Point", "coordinates": [ -78.171387, 39.174948 ] } }
+,
+{ "type": "Feature", "id": 642, "properties": { "NODE_ID": 643 }, "geometry": { "type": "Point", "coordinates": [ -78.171326, 39.181513 ] } }
+,
+{ "type": "Feature", "id": 643, "properties": { "NODE_ID": 644 }, "geometry": { "type": "Point", "coordinates": [ -78.171300, 39.167652 ] } }
+,
+{ "type": "Feature", "id": 644, "properties": { "NODE_ID": 645 }, "geometry": { "type": "Point", "coordinates": [ -78.171296, 39.183845 ] } }
+,
+{ "type": "Feature", "id": 645, "properties": { "NODE_ID": 646 }, "geometry": { "type": "Point", "coordinates": [ -78.171239, 39.177373 ] } }
+,
+{ "type": "Feature", "id": 646, "properties": { "NODE_ID": 647 }, "geometry": { "type": "Point", "coordinates": [ -78.171197, 39.168453 ] } }
+,
+{ "type": "Feature", "id": 647, "properties": { "NODE_ID": 648 }, "geometry": { "type": "Point", "coordinates": [ -78.171188, 39.144049 ] } }
+,
+{ "type": "Feature", "id": 648, "properties": { "NODE_ID": 649 }, "geometry": { "type": "Point", "coordinates": [ -78.171178, 39.184417 ] } }
+,
+{ "type": "Feature", "id": 649, "properties": { "NODE_ID": 650 }, "geometry": { "type": "Point", "coordinates": [ -78.171124, 39.168681 ] } }
+,
+{ "type": "Feature", "id": 650, "properties": { "NODE_ID": 651 }, "geometry": { "type": "Point", "coordinates": [ -78.171091, 39.182222 ] } }
+,
+{ "type": "Feature", "id": 651, "properties": { "NODE_ID": 652 }, "geometry": { "type": "Point", "coordinates": [ -78.170945, 39.178082 ] } }
+,
+{ "type": "Feature", "id": 652, "properties": { "NODE_ID": 653 }, "geometry": { "type": "Point", "coordinates": [ -78.170917, 39.173828 ] } }
+,
+{ "type": "Feature", "id": 653, "properties": { "NODE_ID": 654 }, "geometry": { "type": "Point", "coordinates": [ -78.170864, 39.147692 ] } }
+,
+{ "type": "Feature", "id": 654, "properties": { "NODE_ID": 655 }, "geometry": { "type": "Point", "coordinates": [ -78.170767, 39.182999 ] } }
+,
+{ "type": "Feature", "id": 655, "properties": { "NODE_ID": 656 }, "geometry": { "type": "Point", "coordinates": [ -78.170711, 39.174468 ] } }
+,
+{ "type": "Feature", "id": 656, "properties": { "NODE_ID": 657 }, "geometry": { "type": "Point", "coordinates": [ -78.170681, 39.175360 ] } }
+,
+{ "type": "Feature", "id": 657, "properties": { "NODE_ID": 658 }, "geometry": { "type": "Point", "coordinates": [ -78.170680, 39.178791 ] } }
+,
+{ "type": "Feature", "id": 658, "properties": { "NODE_ID": 659 }, "geometry": { "type": "Point", "coordinates": [ -78.170679, 39.146749 ] } }
+,
+{ "type": "Feature", "id": 659, "properties": { "NODE_ID": 660 }, "geometry": { "type": "Point", "coordinates": [ -78.170620, 39.183685 ] } }
+,
+{ "type": "Feature", "id": 660, "properties": { "NODE_ID": 661 }, "geometry": { "type": "Point", "coordinates": [ -78.170427, 39.184649 ] } }
+,
+{ "type": "Feature", "id": 661, "properties": { "NODE_ID": 662 }, "geometry": { "type": "Point", "coordinates": [ -78.170385, 39.183960 ] } }
+,
+{ "type": "Feature", "id": 662, "properties": { "NODE_ID": 663 }, "geometry": { "type": "Point", "coordinates": [ -78.170361, 39.195781 ] } }
+,
+{ "type": "Feature", "id": 663, "properties": { "NODE_ID": 664 }, "geometry": { "type": "Point", "coordinates": [ -78.170357, 39.179637 ] } }
+,
+{ "type": "Feature", "id": 664, "properties": { "NODE_ID": 665 }, "geometry": { "type": "Point", "coordinates": [ -78.170329, 39.175246 ] } }
+,
+{ "type": "Feature", "id": 665, "properties": { "NODE_ID": 666 }, "geometry": { "type": "Point", "coordinates": [ -78.170329, 39.175909 ] } }
+,
+{ "type": "Feature", "id": 666, "properties": { "NODE_ID": 667 }, "geometry": { "type": "Point", "coordinates": [ -78.170296, 39.186224 ] } }
+,
+{ "type": "Feature", "id": 667, "properties": { "NODE_ID": 668 }, "geometry": { "type": "Point", "coordinates": [ -78.170271, 39.147475 ] } }
+,
+{ "type": "Feature", "id": 668, "properties": { "NODE_ID": 669 }, "geometry": { "type": "Point", "coordinates": [ -78.170242, 39.171197 ] } }
+,
+{ "type": "Feature", "id": 669, "properties": { "NODE_ID": 670 }, "geometry": { "type": "Point", "coordinates": [ -78.170194, 39.184578 ] } }
+,
+{ "type": "Feature", "id": 670, "properties": { "NODE_ID": 671 }, "geometry": { "type": "Point", "coordinates": [ -78.170126, 39.164378 ] } }
+,
+{ "type": "Feature", "id": 671, "properties": { "NODE_ID": 672 }, "geometry": { "type": "Point", "coordinates": [ -78.170092, 39.180277 ] } }
+,
+{ "type": "Feature", "id": 672, "properties": { "NODE_ID": 673 }, "geometry": { "type": "Point", "coordinates": [ -78.170050, 39.162954 ] } }
+,
+{ "type": "Feature", "id": 673, "properties": { "NODE_ID": 674 }, "geometry": { "type": "Point", "coordinates": [ -78.170032, 39.185103 ] } }
+,
+{ "type": "Feature", "id": 674, "properties": { "NODE_ID": 675 }, "geometry": { "type": "Point", "coordinates": [ -78.169946, 39.176108 ] } }
+,
+{ "type": "Feature", "id": 675, "properties": { "NODE_ID": 676 }, "geometry": { "type": "Point", "coordinates": [ -78.169918, 39.172066 ] } }
+,
+{ "type": "Feature", "id": 676, "properties": { "NODE_ID": 677 }, "geometry": { "type": "Point", "coordinates": [ -78.169858, 39.177029 ] } }
+,
+{ "type": "Feature", "id": 677, "properties": { "NODE_ID": 678 }, "geometry": { "type": "Point", "coordinates": [ -78.169826, 39.187322 ] } }
+,
+{ "type": "Feature", "id": 678, "properties": { "NODE_ID": 679 }, "geometry": { "type": "Point", "coordinates": [ -78.169787, 39.164772 ] } }
+,
+{ "type": "Feature", "id": 679, "properties": { "NODE_ID": 680 }, "geometry": { "type": "Point", "coordinates": [ -78.169757, 39.186084 ] } }
+,
+{ "type": "Feature", "id": 680, "properties": { "NODE_ID": 681 }, "geometry": { "type": "Point", "coordinates": [ -78.169739, 39.181146 ] } }
+,
+{ "type": "Feature", "id": 681, "properties": { "NODE_ID": 682 }, "geometry": { "type": "Point", "coordinates": [ -78.169737, 39.187665 ] } }
+,
+{ "type": "Feature", "id": 682, "properties": { "NODE_ID": 683 }, "geometry": { "type": "Point", "coordinates": [ -78.169730, 39.159332 ] } }
+,
+{ "type": "Feature", "id": 683, "properties": { "NODE_ID": 684 }, "geometry": { "type": "Point", "coordinates": [ -78.169647, 39.193931 ] } }
+,
+{ "type": "Feature", "id": 684, "properties": { "NODE_ID": 685 }, "geometry": { "type": "Point", "coordinates": [ -78.169631, 39.155648 ] } }
+,
+{ "type": "Feature", "id": 685, "properties": { "NODE_ID": 686 }, "geometry": { "type": "Point", "coordinates": [ -78.169535, 39.175954 ] } }
+,
+{ "type": "Feature", "id": 686, "properties": { "NODE_ID": 687 }, "geometry": { "type": "Point", "coordinates": [ -78.169505, 39.177738 ] } }
+,
+{ "type": "Feature", "id": 687, "properties": { "NODE_ID": 688 }, "geometry": { "type": "Point", "coordinates": [ -78.169504, 39.181855 ] } }
+,
+{ "type": "Feature", "id": 688, "properties": { "NODE_ID": 689 }, "geometry": { "type": "Point", "coordinates": [ -78.169360, 39.173461 ] } }
+,
+{ "type": "Feature", "id": 689, "properties": { "NODE_ID": 690 }, "geometry": { "type": "Point", "coordinates": [ -78.169265, 39.146634 ] } }
+,
+{ "type": "Feature", "id": 690, "properties": { "NODE_ID": 691 }, "geometry": { "type": "Point", "coordinates": [ -78.169231, 39.164312 ] } }
+,
+{ "type": "Feature", "id": 691, "properties": { "NODE_ID": 692 }, "geometry": { "type": "Point", "coordinates": [ -78.169181, 39.182587 ] } }
+,
+{ "type": "Feature", "id": 692, "properties": { "NODE_ID": 693 }, "geometry": { "type": "Point", "coordinates": [ -78.169154, 39.174102 ] } }
+,
+{ "type": "Feature", "id": 693, "properties": { "NODE_ID": 694 }, "geometry": { "type": "Point", "coordinates": [ -78.169123, 39.178470 ] } }
+,
+{ "type": "Feature", "id": 694, "properties": { "NODE_ID": 695 }, "geometry": { "type": "Point", "coordinates": [ -78.169038, 39.164633 ] } }
+,
+{ "type": "Feature", "id": 695, "properties": { "NODE_ID": 696 }, "geometry": { "type": "Point", "coordinates": [ -78.169026, 39.195464 ] } }
+,
+{ "type": "Feature", "id": 696, "properties": { "NODE_ID": 697 }, "geometry": { "type": "Point", "coordinates": [ -78.169007, 39.169413 ] } }
+,
+{ "type": "Feature", "id": 697, "properties": { "NODE_ID": 698 }, "geometry": { "type": "Point", "coordinates": [ -78.169003, 39.166403 ] } }
+,
+{ "type": "Feature", "id": 698, "properties": { "NODE_ID": 699 }, "geometry": { "type": "Point", "coordinates": [ -78.168927, 39.199000 ] } }
+,
+{ "type": "Feature", "id": 699, "properties": { "NODE_ID": 700 }, "geometry": { "type": "Point", "coordinates": [ -78.168801, 39.174925 ] } }
+,
+{ "type": "Feature", "id": 700, "properties": { "NODE_ID": 701 }, "geometry": { "type": "Point", "coordinates": [ -78.168770, 39.179225 ] } }
+,
+{ "type": "Feature", "id": 701, "properties": { "NODE_ID": 702 }, "geometry": { "type": "Point", "coordinates": [ -78.168769, 39.183616 ] } }
+,
+{ "type": "Feature", "id": 702, "properties": { "NODE_ID": 703 }, "geometry": { "type": "Point", "coordinates": [ -78.168726, 39.176741 ] } }
+,
+{ "type": "Feature", "id": 703, "properties": { "NODE_ID": 704 }, "geometry": { "type": "Point", "coordinates": [ -78.168720, 39.191191 ] } }
+,
+{ "type": "Feature", "id": 704, "properties": { "NODE_ID": 705 }, "geometry": { "type": "Point", "coordinates": [ -78.168685, 39.167080 ] } }
+,
+{ "type": "Feature", "id": 705, "properties": { "NODE_ID": 706 }, "geometry": { "type": "Point", "coordinates": [ -78.168536, 39.175725 ] } }
+,
+{ "type": "Feature", "id": 706, "properties": { "NODE_ID": 707 }, "geometry": { "type": "Point", "coordinates": [ -78.168535, 39.179934 ] } }
+,
+{ "type": "Feature", "id": 707, "properties": { "NODE_ID": 708 }, "geometry": { "type": "Point", "coordinates": [ -78.168509, 39.163878 ] } }
+,
+{ "type": "Feature", "id": 708, "properties": { "NODE_ID": 709 }, "geometry": { "type": "Point", "coordinates": [ -78.168386, 39.184691 ] } }
+,
+{ "type": "Feature", "id": 709, "properties": { "NODE_ID": 710 }, "geometry": { "type": "Point", "coordinates": [ -78.168370, 39.164154 ] } }
+,
+{ "type": "Feature", "id": 710, "properties": { "NODE_ID": 711 }, "geometry": { "type": "Point", "coordinates": [ -78.168354, 39.191622 ] } }
+,
+{ "type": "Feature", "id": 711, "properties": { "NODE_ID": 712 }, "geometry": { "type": "Point", "coordinates": [ -78.168330, 39.166763 ] } }
+,
+{ "type": "Feature", "id": 712, "properties": { "NODE_ID": 713 }, "geometry": { "type": "Point", "coordinates": [ -78.168241, 39.180734 ] } }
+,
+{ "type": "Feature", "id": 713, "properties": { "NODE_ID": 714 }, "geometry": { "type": "Point", "coordinates": [ -78.168186, 39.164518 ] } }
+,
+{ "type": "Feature", "id": 714, "properties": { "NODE_ID": 715 }, "geometry": { "type": "Point", "coordinates": [ -78.168183, 39.176549 ] } }
+,
+{ "type": "Feature", "id": 715, "properties": { "NODE_ID": 716 }, "geometry": { "type": "Point", "coordinates": [ -78.168121, 39.187001 ] } }
+,
+{ "type": "Feature", "id": 716, "properties": { "NODE_ID": 717 }, "geometry": { "type": "Point", "coordinates": [ -78.168093, 39.166739 ] } }
+,
+{ "type": "Feature", "id": 717, "properties": { "NODE_ID": 718 }, "geometry": { "type": "Point", "coordinates": [ -78.168022, 39.166935 ] } }
+,
+{ "type": "Feature", "id": 718, "properties": { "NODE_ID": 719 }, "geometry": { "type": "Point", "coordinates": [ -78.168004, 39.185629 ] } }
+,
+{ "type": "Feature", "id": 719, "properties": { "NODE_ID": 720 }, "geometry": { "type": "Point", "coordinates": [ -78.168003, 39.187733 ] } }
+,
+{ "type": "Feature", "id": 720, "properties": { "NODE_ID": 721 }, "geometry": { "type": "Point", "coordinates": [ -78.167985, 39.183461 ] } }
+,
+{ "type": "Feature", "id": 721, "properties": { "NODE_ID": 722 }, "geometry": { "type": "Point", "coordinates": [ -78.167976, 39.181489 ] } }
+,
+{ "type": "Feature", "id": 722, "properties": { "NODE_ID": 723 }, "geometry": { "type": "Point", "coordinates": [ -78.167890, 39.173164 ] } }
+,
+{ "type": "Feature", "id": 723, "properties": { "NODE_ID": 724 }, "geometry": { "type": "Point", "coordinates": [ -78.167860, 39.177349 ] } }
+,
+{ "type": "Feature", "id": 724, "properties": { "NODE_ID": 725 }, "geometry": { "type": "Point", "coordinates": [ -78.167834, 39.167040 ] } }
+,
+{ "type": "Feature", "id": 725, "properties": { "NODE_ID": 726 }, "geometry": { "type": "Point", "coordinates": [ -78.167800, 39.184020 ] } }
+,
+{ "type": "Feature", "id": 726, "properties": { "NODE_ID": 727 }, "geometry": { "type": "Point", "coordinates": [ -78.167772, 39.173804 ] } }
+,
+{ "type": "Feature", "id": 727, "properties": { "NODE_ID": 728 }, "geometry": { "type": "Point", "coordinates": [ -78.167682, 39.182267 ] } }
+,
+{ "type": "Feature", "id": 728, "properties": { "NODE_ID": 729 }, "geometry": { "type": "Point", "coordinates": [ -78.167666, 39.168608 ] } }
+,
+{ "type": "Feature", "id": 729, "properties": { "NODE_ID": 730 }, "geometry": { "type": "Point", "coordinates": [ -78.167637, 39.184485 ] } }
+,
+{ "type": "Feature", "id": 730, "properties": { "NODE_ID": 731 }, "geometry": { "type": "Point", "coordinates": [ -78.167621, 39.188898 ] } }
+,
+{ "type": "Feature", "id": 731, "properties": { "NODE_ID": 732 }, "geometry": { "type": "Point", "coordinates": [ -78.167595, 39.178081 ] } }
+,
+{ "type": "Feature", "id": 732, "properties": { "NODE_ID": 733 }, "geometry": { "type": "Point", "coordinates": [ -78.167563, 39.186772 ] } }
+,
+{ "type": "Feature", "id": 733, "properties": { "NODE_ID": 734 }, "geometry": { "type": "Point", "coordinates": [ -78.167448, 39.174650 ] } }
+,
+{ "type": "Feature", "id": 734, "properties": { "NODE_ID": 735 }, "geometry": { "type": "Point", "coordinates": [ -78.167391, 39.171265 ] } }
+,
+{ "type": "Feature", "id": 735, "properties": { "NODE_ID": 736 }, "geometry": { "type": "Point", "coordinates": [ -78.167330, 39.178904 ] } }
+,
+{ "type": "Feature", "id": 736, "properties": { "NODE_ID": 737 }, "geometry": { "type": "Point", "coordinates": [ -78.167319, 39.187562 ] } }
+,
+{ "type": "Feature", "id": 737, "properties": { "NODE_ID": 738 }, "geometry": { "type": "Point", "coordinates": [ -78.167305, 39.163397 ] } }
+,
+{ "type": "Feature", "id": 738, "properties": { "NODE_ID": 739 }, "geometry": { "type": "Point", "coordinates": [ -78.167270, 39.183319 ] } }
+,
+{ "type": "Feature", "id": 739, "properties": { "NODE_ID": 740 }, "geometry": { "type": "Point", "coordinates": [ -78.167260, 39.185490 ] } }
+,
+{ "type": "Feature", "id": 740, "properties": { "NODE_ID": 741 }, "geometry": { "type": "Point", "coordinates": [ -78.167195, 39.157529 ] } }
+,
+{ "type": "Feature", "id": 741, "properties": { "NODE_ID": 742 }, "geometry": { "type": "Point", "coordinates": [ -78.167184, 39.175451 ] } }
+,
+{ "type": "Feature", "id": 742, "properties": { "NODE_ID": 743 }, "geometry": { "type": "Point", "coordinates": [ -78.167066, 39.179591 ] } }
+,
+{ "type": "Feature", "id": 743, "properties": { "NODE_ID": 744 }, "geometry": { "type": "Point", "coordinates": [ -78.167051, 39.163793 ] } }
+,
+{ "type": "Feature", "id": 744, "properties": { "NODE_ID": 745 }, "geometry": { "type": "Point", "coordinates": [ -78.167006, 39.182105 ] } }
+,
+{ "type": "Feature", "id": 745, "properties": { "NODE_ID": 746 }, "geometry": { "type": "Point", "coordinates": [ -78.167004, 39.198778 ] } }
+,
+{ "type": "Feature", "id": 746, "properties": { "NODE_ID": 747 }, "geometry": { "type": "Point", "coordinates": [ -78.167003, 39.190659 ] } }
+,
+{ "type": "Feature", "id": 747, "properties": { "NODE_ID": 748 }, "geometry": { "type": "Point", "coordinates": [ -78.166888, 39.184279 ] } }
+,
+{ "type": "Feature", "id": 748, "properties": { "NODE_ID": 749 }, "geometry": { "type": "Point", "coordinates": [ -78.166835, 39.164129 ] } }
+,
+{ "type": "Feature", "id": 749, "properties": { "NODE_ID": 750 }, "geometry": { "type": "Point", "coordinates": [ -78.166827, 39.191094 ] } }
+,
+{ "type": "Feature", "id": 750, "properties": { "NODE_ID": 751 }, "geometry": { "type": "Point", "coordinates": [ -78.166801, 39.176320 ] } }
+,
+{ "type": "Feature", "id": 751, "properties": { "NODE_ID": 752 }, "geometry": { "type": "Point", "coordinates": [ -78.166742, 39.180437 ] } }
+,
+{ "type": "Feature", "id": 752, "properties": { "NODE_ID": 753 }, "geometry": { "type": "Point", "coordinates": [ -78.166715, 39.169870 ] } }
+,
+{ "type": "Feature", "id": 753, "properties": { "NODE_ID": 754 }, "geometry": { "type": "Point", "coordinates": [ -78.166714, 39.172775 ] } }
+,
+{ "type": "Feature", "id": 754, "properties": { "NODE_ID": 755 }, "geometry": { "type": "Point", "coordinates": [ -78.166702, 39.168504 ] } }
+,
+{ "type": "Feature", "id": 755, "properties": { "NODE_ID": 756 }, "geometry": { "type": "Point", "coordinates": [ -78.166689, 39.193555 ] } }
+,
+{ "type": "Feature", "id": 756, "properties": { "NODE_ID": 757 }, "geometry": { "type": "Point", "coordinates": [ -78.166661, 39.187399 ] } }
+,
+{ "type": "Feature", "id": 757, "properties": { "NODE_ID": 758 }, "geometry": { "type": "Point", "coordinates": [ -78.166601, 39.183160 ] } }
+,
+{ "type": "Feature", "id": 758, "properties": { "NODE_ID": 759 }, "geometry": { "type": "Point", "coordinates": [ -78.166566, 39.177006 ] } }
+,
+{ "type": "Feature", "id": 759, "properties": { "NODE_ID": 760 }, "geometry": { "type": "Point", "coordinates": [ -78.166535, 39.185354 ] } }
+,
+{ "type": "Feature", "id": 760, "properties": { "NODE_ID": 761 }, "geometry": { "type": "Point", "coordinates": [ -78.166507, 39.181123 ] } }
+,
+{ "type": "Feature", "id": 761, "properties": { "NODE_ID": 762 }, "geometry": { "type": "Point", "coordinates": [ -78.166425, 39.162705 ] } }
+,
+{ "type": "Feature", "id": 762, "properties": { "NODE_ID": 763 }, "geometry": { "type": "Point", "coordinates": [ -78.166421, 39.172775 ] } }
+,
+{ "type": "Feature", "id": 763, "properties": { "NODE_ID": 764 }, "geometry": { "type": "Point", "coordinates": [ -78.166400, 39.163155 ] } }
+,
+{ "type": "Feature", "id": 764, "properties": { "NODE_ID": 765 }, "geometry": { "type": "Point", "coordinates": [ -78.166272, 39.177806 ] } }
+,
+{ "type": "Feature", "id": 765, "properties": { "NODE_ID": 766 }, "geometry": { "type": "Point", "coordinates": [ -78.166259, 39.188609 ] } }
+,
+{ "type": "Feature", "id": 766, "properties": { "NODE_ID": 767 }, "geometry": { "type": "Point", "coordinates": [ -78.166242, 39.181923 ] } }
+,
+{ "type": "Feature", "id": 767, "properties": { "NODE_ID": 768 }, "geometry": { "type": "Point", "coordinates": [ -78.166236, 39.184110 ] } }
+,
+{ "type": "Feature", "id": 768, "properties": { "NODE_ID": 769 }, "geometry": { "type": "Point", "coordinates": [ -78.166214, 39.163517 ] } }
+,
+{ "type": "Feature", "id": 769, "properties": { "NODE_ID": 770 }, "geometry": { "type": "Point", "coordinates": [ -78.166188, 39.185313 ] } }
+,
+{ "type": "Feature", "id": 770, "properties": { "NODE_ID": 771 }, "geometry": { "type": "Point", "coordinates": [ -78.166123, 39.186383 ] } }
+,
+{ "type": "Feature", "id": 771, "properties": { "NODE_ID": 772 }, "geometry": { "type": "Point", "coordinates": [ -78.166045, 39.162931 ] } }
+,
+{ "type": "Feature", "id": 772, "properties": { "NODE_ID": 773 }, "geometry": { "type": "Point", "coordinates": [ -78.165983, 39.163946 ] } }
+,
+{ "type": "Feature", "id": 773, "properties": { "NODE_ID": 774 }, "geometry": { "type": "Point", "coordinates": [ -78.165950, 39.174307 ] } }
+,
+{ "type": "Feature", "id": 774, "properties": { "NODE_ID": 775 }, "geometry": { "type": "Point", "coordinates": [ -78.165948, 39.178561 ] } }
+,
+{ "type": "Feature", "id": 775, "properties": { "NODE_ID": 776 }, "geometry": { "type": "Point", "coordinates": [ -78.165944, 39.193610 ] } }
+,
+{ "type": "Feature", "id": 776, "properties": { "NODE_ID": 777 }, "geometry": { "type": "Point", "coordinates": [ -78.165888, 39.187207 ] } }
+,
+{ "type": "Feature", "id": 777, "properties": { "NODE_ID": 778 }, "geometry": { "type": "Point", "coordinates": [ -78.165863, 39.170899 ] } }
+,
+{ "type": "Feature", "id": 778, "properties": { "NODE_ID": 779 }, "geometry": { "type": "Point", "coordinates": [ -78.165780, 39.194610 ] } }
+,
+{ "type": "Feature", "id": 779, "properties": { "NODE_ID": 780 }, "geometry": { "type": "Point", "coordinates": [ -78.165743, 39.179293 ] } }
+,
+{ "type": "Feature", "id": 780, "properties": { "NODE_ID": 781 }, "geometry": { "type": "Point", "coordinates": [ -78.165650, 39.194570 ] } }
+,
+{ "type": "Feature", "id": 781, "properties": { "NODE_ID": 782 }, "geometry": { "type": "Point", "coordinates": [ -78.165597, 39.175130 ] } }
+,
+{ "type": "Feature", "id": 782, "properties": { "NODE_ID": 783 }, "geometry": { "type": "Point", "coordinates": [ -78.165539, 39.172614 ] } }
+,
+{ "type": "Feature", "id": 783, "properties": { "NODE_ID": 784 }, "geometry": { "type": "Point", "coordinates": [ -78.165477, 39.183913 ] } }
+,
+{ "type": "Feature", "id": 784, "properties": { "NODE_ID": 785 }, "geometry": { "type": "Point", "coordinates": [ -78.165472, 39.194968 ] } }
+,
+{ "type": "Feature", "id": 785, "properties": { "NODE_ID": 786 }, "geometry": { "type": "Point", "coordinates": [ -78.165420, 39.186219 ] } }
+,
+{ "type": "Feature", "id": 786, "properties": { "NODE_ID": 787 }, "geometry": { "type": "Point", "coordinates": [ -78.165419, 39.180071 ] } }
+,
+{ "type": "Feature", "id": 787, "properties": { "NODE_ID": 788 }, "geometry": { "type": "Point", "coordinates": [ -78.165363, 39.159209 ] } }
+,
+{ "type": "Feature", "id": 788, "properties": { "NODE_ID": 789 }, "geometry": { "type": "Point", "coordinates": [ -78.165358, 39.188418 ] } }
+,
+{ "type": "Feature", "id": 789, "properties": { "NODE_ID": 790 }, "geometry": { "type": "Point", "coordinates": [ -78.165334, 39.170430 ] } }
+,
+{ "type": "Feature", "id": 790, "properties": { "NODE_ID": 791 }, "geometry": { "type": "Point", "coordinates": [ -78.165244, 39.175999 ] } }
+,
+{ "type": "Feature", "id": 791, "properties": { "NODE_ID": 792 }, "geometry": { "type": "Point", "coordinates": [ -78.165183, 39.184576 ] } }
+,
+{ "type": "Feature", "id": 792, "properties": { "NODE_ID": 793 }, "geometry": { "type": "Point", "coordinates": [ -78.165150, 39.193325 ] } }
+,
+{ "type": "Feature", "id": 793, "properties": { "NODE_ID": 794 }, "geometry": { "type": "Point", "coordinates": [ -78.165120, 39.195759 ] } }
+,
+{ "type": "Feature", "id": 794, "properties": { "NODE_ID": 795 }, "geometry": { "type": "Point", "coordinates": [ -78.165118, 39.187014 ] } }
+,
+{ "type": "Feature", "id": 795, "properties": { "NODE_ID": 796 }, "geometry": { "type": "Point", "coordinates": [ -78.165096, 39.180802 ] } }
+,
+{ "type": "Feature", "id": 796, "properties": { "NODE_ID": 797 }, "geometry": { "type": "Point", "coordinates": [ -78.165009, 39.176617 ] } }
+,
+{ "type": "Feature", "id": 797, "properties": { "NODE_ID": 798 }, "geometry": { "type": "Point", "coordinates": [ -78.164944, 39.195169 ] } }
+,
+{ "type": "Feature", "id": 798, "properties": { "NODE_ID": 799 }, "geometry": { "type": "Point", "coordinates": [ -78.164941, 39.194392 ] } }
+,
+{ "type": "Feature", "id": 799, "properties": { "NODE_ID": 800 }, "geometry": { "type": "Point", "coordinates": [ -78.164831, 39.181626 ] } }
+,
+{ "type": "Feature", "id": 800, "properties": { "NODE_ID": 801 }, "geometry": { "type": "Point", "coordinates": [ -78.164831, 39.196549 ] } }
+,
+{ "type": "Feature", "id": 801, "properties": { "NODE_ID": 802 }, "geometry": { "type": "Point", "coordinates": [ -78.164774, 39.177440 ] } }
+,
+{ "type": "Feature", "id": 802, "properties": { "NODE_ID": 803 }, "geometry": { "type": "Point", "coordinates": [ -78.164677, 39.176522 ] } }
+,
+{ "type": "Feature", "id": 803, "properties": { "NODE_ID": 804 }, "geometry": { "type": "Point", "coordinates": [ -78.164654, 39.186040 ] } }
+,
+{ "type": "Feature", "id": 804, "properties": { "NODE_ID": 805 }, "geometry": { "type": "Point", "coordinates": [ -78.164623, 39.190590 ] } }
+,
+{ "type": "Feature", "id": 805, "properties": { "NODE_ID": 806 }, "geometry": { "type": "Point", "coordinates": [ -78.164571, 39.168268 ] } }
+,
+{ "type": "Feature", "id": 806, "properties": { "NODE_ID": 807 }, "geometry": { "type": "Point", "coordinates": [ -78.164570, 39.172591 ] } }
+,
+{ "type": "Feature", "id": 807, "properties": { "NODE_ID": 808 }, "geometry": { "type": "Point", "coordinates": [ -78.164506, 39.172480 ] } }
+,
+{ "type": "Feature", "id": 808, "properties": { "NODE_ID": 809 }, "geometry": { "type": "Point", "coordinates": [ -78.164483, 39.168291 ] } }
+,
+{ "type": "Feature", "id": 809, "properties": { "NODE_ID": 810 }, "geometry": { "type": "Point", "coordinates": [ -78.164479, 39.178286 ] } }
+,
+{ "type": "Feature", "id": 810, "properties": { "NODE_ID": 811 }, "geometry": { "type": "Point", "coordinates": [ -78.164330, 39.186817 ] } }
+,
+{ "type": "Feature", "id": 811, "properties": { "NODE_ID": 812 }, "geometry": { "type": "Point", "coordinates": [ -78.164311, 39.165941 ] } }
+,
+{ "type": "Feature", "id": 812, "properties": { "NODE_ID": 813 }, "geometry": { "type": "Point", "coordinates": [ -78.164209, 39.195553 ] } }
+,
+{ "type": "Feature", "id": 813, "properties": { "NODE_ID": 814 }, "geometry": { "type": "Point", "coordinates": [ -78.164199, 39.188934 ] } }
+,
+{ "type": "Feature", "id": 814, "properties": { "NODE_ID": 815 }, "geometry": { "type": "Point", "coordinates": [ -78.164190, 39.199014 ] } }
+,
+{ "type": "Feature", "id": 815, "properties": { "NODE_ID": 816 }, "geometry": { "type": "Point", "coordinates": [ -78.164185, 39.178950 ] } }
+,
+{ "type": "Feature", "id": 816, "properties": { "NODE_ID": 817 }, "geometry": { "type": "Point", "coordinates": [ -78.164066, 39.183570 ] } }
+,
+{ "type": "Feature", "id": 817, "properties": { "NODE_ID": 818 }, "geometry": { "type": "Point", "coordinates": [ -78.163920, 39.179750 ] } }
+,
+{ "type": "Feature", "id": 818, "properties": { "NODE_ID": 819 }, "geometry": { "type": "Point", "coordinates": [ -78.163919, 39.184256 ] } }
+,
+{ "type": "Feature", "id": 819, "properties": { "NODE_ID": 820 }, "geometry": { "type": "Point", "coordinates": [ -78.163918, 39.187755 ] } }
+,
+{ "type": "Feature", "id": 820, "properties": { "NODE_ID": 821 }, "geometry": { "type": "Point", "coordinates": [ -78.163918, 39.188052 ] } }
+,
+{ "type": "Feature", "id": 821, "properties": { "NODE_ID": 822 }, "geometry": { "type": "Point", "coordinates": [ -78.163809, 39.162413 ] } }
+,
+{ "type": "Feature", "id": 822, "properties": { "NODE_ID": 823 }, "geometry": { "type": "Point", "coordinates": [ -78.163796, 39.163299 ] } }
+,
+{ "type": "Feature", "id": 823, "properties": { "NODE_ID": 824 }, "geometry": { "type": "Point", "coordinates": [ -78.163766, 39.198913 ] } }
+,
+{ "type": "Feature", "id": 824, "properties": { "NODE_ID": 825 }, "geometry": { "type": "Point", "coordinates": [ -78.163675, 39.199091 ] } }
+,
+{ "type": "Feature", "id": 825, "properties": { "NODE_ID": 826 }, "geometry": { "type": "Point", "coordinates": [ -78.163661, 39.175990 ] } }
+,
+{ "type": "Feature", "id": 826, "properties": { "NODE_ID": 827 }, "geometry": { "type": "Point", "coordinates": [ -78.163656, 39.190320 ] } }
+,
+{ "type": "Feature", "id": 827, "properties": { "NODE_ID": 828 }, "geometry": { "type": "Point", "coordinates": [ -78.163645, 39.198884 ] } }
+,
+{ "type": "Feature", "id": 828, "properties": { "NODE_ID": 829 }, "geometry": { "type": "Point", "coordinates": [ -78.163626, 39.180413 ] } }
+,
+{ "type": "Feature", "id": 829, "properties": { "NODE_ID": 830 }, "geometry": { "type": "Point", "coordinates": [ -78.163624, 39.188532 ] } }
+,
+{ "type": "Feature", "id": 830, "properties": { "NODE_ID": 831 }, "geometry": { "type": "Point", "coordinates": [ -78.163601, 39.170693 ] } }
+,
+{ "type": "Feature", "id": 831, "properties": { "NODE_ID": 832 }, "geometry": { "type": "Point", "coordinates": [ -78.163592, 39.182784 ] } }
+,
+{ "type": "Feature", "id": 832, "properties": { "NODE_ID": 833 }, "geometry": { "type": "Point", "coordinates": [ -78.163592, 39.197063 ] } }
+,
+{ "type": "Feature", "id": 833, "properties": { "NODE_ID": 834 }, "geometry": { "type": "Point", "coordinates": [ -78.163555, 39.162811 ] } }
+,
+{ "type": "Feature", "id": 834, "properties": { "NODE_ID": 835 }, "geometry": { "type": "Point", "coordinates": [ -78.163446, 39.193243 ] } }
+,
+{ "type": "Feature", "id": 835, "properties": { "NODE_ID": 836 }, "geometry": { "type": "Point", "coordinates": [ -78.163437, 39.183416 ] } }
+,
+{ "type": "Feature", "id": 836, "properties": { "NODE_ID": 837 }, "geometry": { "type": "Point", "coordinates": [ -78.163360, 39.180339 ] } }
+,
+{ "type": "Feature", "id": 837, "properties": { "NODE_ID": 838 }, "geometry": { "type": "Point", "coordinates": [ -78.163273, 39.181259 ] } }
+,
+{ "type": "Feature", "id": 838, "properties": { "NODE_ID": 839 }, "geometry": { "type": "Point", "coordinates": [ -78.163272, 39.185651 ] } }
+,
+{ "type": "Feature", "id": 839, "properties": { "NODE_ID": 840 }, "geometry": { "type": "Point", "coordinates": [ -78.163253, 39.193553 ] } }
+,
+{ "type": "Feature", "id": 840, "properties": { "NODE_ID": 841 }, "geometry": { "type": "Point", "coordinates": [ -78.163209, 39.197978 ] } }
+,
+{ "type": "Feature", "id": 841, "properties": { "NODE_ID": 842 }, "geometry": { "type": "Point", "coordinates": [ -78.163127, 39.194127 ] } }
+,
+{ "type": "Feature", "id": 842, "properties": { "NODE_ID": 843 }, "geometry": { "type": "Point", "coordinates": [ -78.163077, 39.194329 ] } }
+,
+{ "type": "Feature", "id": 843, "properties": { "NODE_ID": 844 }, "geometry": { "type": "Point", "coordinates": [ -78.163070, 39.190157 ] } }
+,
+{ "type": "Feature", "id": 844, "properties": { "NODE_ID": 845 }, "geometry": { "type": "Point", "coordinates": [ -78.163069, 39.181223 ] } }
+,
+{ "type": "Feature", "id": 845, "properties": { "NODE_ID": 846 }, "geometry": { "type": "Point", "coordinates": [ -78.163008, 39.180241 ] } }
+,
+{ "type": "Feature", "id": 846, "properties": { "NODE_ID": 847 }, "geometry": { "type": "Point", "coordinates": [ -78.162978, 39.186497 ] } }
+,
+{ "type": "Feature", "id": 847, "properties": { "NODE_ID": 848 }, "geometry": { "type": "Point", "coordinates": [ -78.162965, 39.182115 ] } }
+,
+{ "type": "Feature", "id": 848, "properties": { "NODE_ID": 849 }, "geometry": { "type": "Point", "coordinates": [ -78.162888, 39.164046 ] } }
+,
+{ "type": "Feature", "id": 849, "properties": { "NODE_ID": 850 }, "geometry": { "type": "Point", "coordinates": [ -78.162838, 39.168199 ] } }
+,
+{ "type": "Feature", "id": 850, "properties": { "NODE_ID": 851 }, "geometry": { "type": "Point", "coordinates": [ -78.162773, 39.182426 ] } }
+,
+{ "type": "Feature", "id": 851, "properties": { "NODE_ID": 852 }, "geometry": { "type": "Point", "coordinates": [ -78.162750, 39.167834 ] } }
+,
+{ "type": "Feature", "id": 852, "properties": { "NODE_ID": 853 }, "geometry": { "type": "Point", "coordinates": [ -78.162703, 39.163127 ] } }
+,
+{ "type": "Feature", "id": 853, "properties": { "NODE_ID": 854 }, "geometry": { "type": "Point", "coordinates": [ -78.162595, 39.187526 ] } }
+,
+{ "type": "Feature", "id": 854, "properties": { "NODE_ID": 855 }, "geometry": { "type": "Point", "coordinates": [ -78.162567, 39.183203 ] } }
+,
+{ "type": "Feature", "id": 855, "properties": { "NODE_ID": 856 }, "geometry": { "type": "Point", "coordinates": [ -78.162503, 39.199098 ] } }
+,
+{ "type": "Feature", "id": 856, "properties": { "NODE_ID": 857 }, "geometry": { "type": "Point", "coordinates": [ -78.162396, 39.170692 ] } }
+,
+{ "type": "Feature", "id": 857, "properties": { "NODE_ID": 858 }, "geometry": { "type": "Point", "coordinates": [ -78.162393, 39.185455 ] } }
+,
+{ "type": "Feature", "id": 858, "properties": { "NODE_ID": 859 }, "geometry": { "type": "Point", "coordinates": [ -78.162389, 39.188280 ] } }
+,
+{ "type": "Feature", "id": 859, "properties": { "NODE_ID": 860 }, "geometry": { "type": "Point", "coordinates": [ -78.162385, 39.179730 ] } }
+,
+{ "type": "Feature", "id": 860, "properties": { "NODE_ID": 861 }, "geometry": { "type": "Point", "coordinates": [ -78.162368, 39.174545 ] } }
+,
+{ "type": "Feature", "id": 861, "properties": { "NODE_ID": 862 }, "geometry": { "type": "Point", "coordinates": [ -78.162288, 39.165225 ] } }
+,
+{ "type": "Feature", "id": 862, "properties": { "NODE_ID": 863 }, "geometry": { "type": "Point", "coordinates": [ -78.162275, 39.178972 ] } }
+,
+{ "type": "Feature", "id": 863, "properties": { "NODE_ID": 864 }, "geometry": { "type": "Point", "coordinates": [ -78.162271, 39.192397 ] } }
+,
+{ "type": "Feature", "id": 864, "properties": { "NODE_ID": 865 }, "geometry": { "type": "Point", "coordinates": [ -78.162227, 39.166453 ] } }
+,
+{ "type": "Feature", "id": 865, "properties": { "NODE_ID": 866 }, "geometry": { "type": "Point", "coordinates": [ -78.162218, 39.175244 ] } }
+,
+{ "type": "Feature", "id": 866, "properties": { "NODE_ID": 867 }, "geometry": { "type": "Point", "coordinates": [ -78.162216, 39.181076 ] } }
+,
+{ "type": "Feature", "id": 867, "properties": { "NODE_ID": 868 }, "geometry": { "type": "Point", "coordinates": [ -78.162214, 39.184027 ] } }
+,
+{ "type": "Feature", "id": 868, "properties": { "NODE_ID": 869 }, "geometry": { "type": "Point", "coordinates": [ -78.162197, 39.201071 ] } }
+,
+{ "type": "Feature", "id": 869, "properties": { "NODE_ID": 870 }, "geometry": { "type": "Point", "coordinates": [ -78.162182, 39.186306 ] } }
+,
+{ "type": "Feature", "id": 870, "properties": { "NODE_ID": 871 }, "geometry": { "type": "Point", "coordinates": [ -78.162076, 39.192790 ] } }
+,
+{ "type": "Feature", "id": 871, "properties": { "NODE_ID": 872 }, "geometry": { "type": "Point", "coordinates": [ -78.161857, 39.181110 ] } }
+,
+{ "type": "Feature", "id": 872, "properties": { "NODE_ID": 873 }, "geometry": { "type": "Point", "coordinates": [ -78.161840, 39.165889 ] } }
+,
+{ "type": "Feature", "id": 873, "properties": { "NODE_ID": 874 }, "geometry": { "type": "Point", "coordinates": [ -78.161832, 39.185330 ] } }
+,
+{ "type": "Feature", "id": 874, "properties": { "NODE_ID": 875 }, "geometry": { "type": "Point", "coordinates": [ -78.161830, 39.189766 ] } }
+,
+{ "type": "Feature", "id": 875, "properties": { "NODE_ID": 876 }, "geometry": { "type": "Point", "coordinates": [ -78.161784, 39.186211 ] } }
+,
+{ "type": "Feature", "id": 876, "properties": { "NODE_ID": 877 }, "geometry": { "type": "Point", "coordinates": [ -78.161783, 39.187198 ] } }
+,
+{ "type": "Feature", "id": 877, "properties": { "NODE_ID": 878 }, "geometry": { "type": "Point", "coordinates": [ -78.161783, 39.187397 ] } }
+,
+{ "type": "Feature", "id": 878, "properties": { "NODE_ID": 879 }, "geometry": { "type": "Point", "coordinates": [ -78.161774, 39.182220 ] } }
+,
+{ "type": "Feature", "id": 879, "properties": { "NODE_ID": 880 }, "geometry": { "type": "Point", "coordinates": [ -78.161758, 39.198634 ] } }
+,
+{ "type": "Feature", "id": 880, "properties": { "NODE_ID": 881 }, "geometry": { "type": "Point", "coordinates": [ -78.161740, 39.193471 ] } }
+,
+{ "type": "Feature", "id": 881, "properties": { "NODE_ID": 882 }, "geometry": { "type": "Point", "coordinates": [ -78.161711, 39.187385 ] } }
+,
+{ "type": "Feature", "id": 882, "properties": { "NODE_ID": 883 }, "geometry": { "type": "Point", "coordinates": [ -78.161686, 39.183889 ] } }
+,
+{ "type": "Feature", "id": 883, "properties": { "NODE_ID": 884 }, "geometry": { "type": "Point", "coordinates": [ -78.161674, 39.185661 ] } }
+,
+{ "type": "Feature", "id": 884, "properties": { "NODE_ID": 885 }, "geometry": { "type": "Point", "coordinates": [ -78.161639, 39.173989 ] } }
+,
+{ "type": "Feature", "id": 885, "properties": { "NODE_ID": 886 }, "geometry": { "type": "Point", "coordinates": [ -78.161582, 39.185267 ] } }
+,
+{ "type": "Feature", "id": 886, "properties": { "NODE_ID": 887 }, "geometry": { "type": "Point", "coordinates": [ -78.161559, 39.174497 ] } }
+,
+{ "type": "Feature", "id": 887, "properties": { "NODE_ID": 888 }, "geometry": { "type": "Point", "coordinates": [ -78.161559, 39.194091 ] } }
+,
+{ "type": "Feature", "id": 888, "properties": { "NODE_ID": 889 }, "geometry": { "type": "Point", "coordinates": [ -78.161515, 39.169114 ] } }
+,
+{ "type": "Feature", "id": 889, "properties": { "NODE_ID": 890 }, "geometry": { "type": "Point", "coordinates": [ -78.161483, 39.175427 ] } }
+,
+{ "type": "Feature", "id": 890, "properties": { "NODE_ID": 891 }, "geometry": { "type": "Point", "coordinates": [ -78.161480, 39.158688 ] } }
+,
+{ "type": "Feature", "id": 891, "properties": { "NODE_ID": 892 }, "geometry": { "type": "Point", "coordinates": [ -78.161480, 39.182906 ] } }
+,
+{ "type": "Feature", "id": 892, "properties": { "NODE_ID": 893 }, "geometry": { "type": "Point", "coordinates": [ -78.161450, 39.186131 ] } }
+,
+{ "type": "Feature", "id": 893, "properties": { "NODE_ID": 894 }, "geometry": { "type": "Point", "coordinates": [ -78.161450, 39.187344 ] } }
+,
+{ "type": "Feature", "id": 894, "properties": { "NODE_ID": 895 }, "geometry": { "type": "Point", "coordinates": [ -78.161389, 39.190701 ] } }
+,
+{ "type": "Feature", "id": 895, "properties": { "NODE_ID": 896 }, "geometry": { "type": "Point", "coordinates": [ -78.161363, 39.158901 ] } }
+,
+{ "type": "Feature", "id": 896, "properties": { "NODE_ID": 897 }, "geometry": { "type": "Point", "coordinates": [ -78.161334, 39.181007 ] } }
+,
+{ "type": "Feature", "id": 897, "properties": { "NODE_ID": 898 }, "geometry": { "type": "Point", "coordinates": [ -78.161328, 39.194889 ] } }
+,
+{ "type": "Feature", "id": 898, "properties": { "NODE_ID": 899 }, "geometry": { "type": "Point", "coordinates": [ -78.161248, 39.163371 ] } }
+,
+{ "type": "Feature", "id": 899, "properties": { "NODE_ID": 900 }, "geometry": { "type": "Point", "coordinates": [ -78.161240, 39.197565 ] } }
+,
+{ "type": "Feature", "id": 900, "properties": { "NODE_ID": 901 }, "geometry": { "type": "Point", "coordinates": [ -78.161231, 39.183770 ] } }
+,
+{ "type": "Feature", "id": 901, "properties": { "NODE_ID": 902 }, "geometry": { "type": "Point", "coordinates": [ -78.161228, 39.187804 ] } }
+,
+{ "type": "Feature", "id": 902, "properties": { "NODE_ID": 903 }, "geometry": { "type": "Point", "coordinates": [ -78.161202, 39.170975 ] } }
+,
+{ "type": "Feature", "id": 903, "properties": { "NODE_ID": 904 }, "geometry": { "type": "Point", "coordinates": [ -78.161191, 39.172590 ] } }
+,
+{ "type": "Feature", "id": 904, "properties": { "NODE_ID": 905 }, "geometry": { "type": "Point", "coordinates": [ -78.161183, 39.191619 ] } }
+,
+{ "type": "Feature", "id": 905, "properties": { "NODE_ID": 906 }, "geometry": { "type": "Point", "coordinates": [ -78.161171, 39.182906 ] } }
+,
+{ "type": "Feature", "id": 906, "properties": { "NODE_ID": 907 }, "geometry": { "type": "Point", "coordinates": [ -78.161136, 39.187220 ] } }
+,
+{ "type": "Feature", "id": 907, "properties": { "NODE_ID": 908 }, "geometry": { "type": "Point", "coordinates": [ -78.161136, 39.188026 ] } }
+,
+{ "type": "Feature", "id": 908, "properties": { "NODE_ID": 909 }, "geometry": { "type": "Point", "coordinates": [ -78.161126, 39.191662 ] } }
+,
+{ "type": "Feature", "id": 909, "properties": { "NODE_ID": 910 }, "geometry": { "type": "Point", "coordinates": [ -78.161098, 39.191116 ] } }
+,
+{ "type": "Feature", "id": 910, "properties": { "NODE_ID": 911 }, "geometry": { "type": "Point", "coordinates": [ -78.161034, 39.198183 ] } }
+,
+{ "type": "Feature", "id": 911, "properties": { "NODE_ID": 912 }, "geometry": { "type": "Point", "coordinates": [ -78.160976, 39.164950 ] } }
+,
+{ "type": "Feature", "id": 912, "properties": { "NODE_ID": 913 }, "geometry": { "type": "Point", "coordinates": [ -78.160948, 39.190605 ] } }
+,
+{ "type": "Feature", "id": 913, "properties": { "NODE_ID": 914 }, "geometry": { "type": "Point", "coordinates": [ -78.160894, 39.178583 ] } }
+,
+{ "type": "Feature", "id": 914, "properties": { "NODE_ID": 915 }, "geometry": { "type": "Point", "coordinates": [ -78.160887, 39.198274 ] } }
+,
+{ "type": "Feature", "id": 915, "properties": { "NODE_ID": 916 }, "geometry": { "type": "Point", "coordinates": [ -78.160850, 39.173037 ] } }
+,
+{ "type": "Feature", "id": 916, "properties": { "NODE_ID": 917 }, "geometry": { "type": "Point", "coordinates": [ -78.160834, 39.182814 ] } }
+,
+{ "type": "Feature", "id": 917, "properties": { "NODE_ID": 918 }, "geometry": { "type": "Point", "coordinates": [ -78.160832, 39.170579 ] } }
+,
+{ "type": "Feature", "id": 918, "properties": { "NODE_ID": 919 }, "geometry": { "type": "Point", "coordinates": [ -78.160810, 39.199391 ] } }
+,
+{ "type": "Feature", "id": 919, "properties": { "NODE_ID": 920 }, "geometry": { "type": "Point", "coordinates": [ -78.160783, 39.190977 ] } }
+,
+{ "type": "Feature", "id": 920, "properties": { "NODE_ID": 921 }, "geometry": { "type": "Point", "coordinates": [ -78.160752, 39.196299 ] } }
+,
+{ "type": "Feature", "id": 921, "properties": { "NODE_ID": 922 }, "geometry": { "type": "Point", "coordinates": [ -78.160747, 39.164702 ] } }
+,
+{ "type": "Feature", "id": 922, "properties": { "NODE_ID": 923 }, "geometry": { "type": "Point", "coordinates": [ -78.160732, 39.169933 ] } }
+,
+{ "type": "Feature", "id": 923, "properties": { "NODE_ID": 924 }, "geometry": { "type": "Point", "coordinates": [ -78.160692, 39.171127 ] } }
+,
+{ "type": "Feature", "id": 924, "properties": { "NODE_ID": 925 }, "geometry": { "type": "Point", "coordinates": [ -78.160691, 39.173162 ] } }
+,
+{ "type": "Feature", "id": 925, "properties": { "NODE_ID": 926 }, "geometry": { "type": "Point", "coordinates": [ -78.160663, 39.168405 ] } }
+,
+{ "type": "Feature", "id": 926, "properties": { "NODE_ID": 927 }, "geometry": { "type": "Point", "coordinates": [ -78.160637, 39.187113 ] } }
+,
+{ "type": "Feature", "id": 927, "properties": { "NODE_ID": 928 }, "geometry": { "type": "Point", "coordinates": [ -78.160568, 39.185010 ] } }
+,
+{ "type": "Feature", "id": 928, "properties": { "NODE_ID": 929 }, "geometry": { "type": "Point", "coordinates": [ -78.160565, 39.193197 ] } }
+,
+{ "type": "Feature", "id": 929, "properties": { "NODE_ID": 930 }, "geometry": { "type": "Point", "coordinates": [ -78.160526, 39.187633 ] } }
+,
+{ "type": "Feature", "id": 930, "properties": { "NODE_ID": 931 }, "geometry": { "type": "Point", "coordinates": [ -78.160516, 39.171788 ] } }
+,
+{ "type": "Feature", "id": 931, "properties": { "NODE_ID": 932 }, "geometry": { "type": "Point", "coordinates": [ -78.160512, 39.178217 ] } }
+,
+{ "type": "Feature", "id": 932, "properties": { "NODE_ID": 933 }, "geometry": { "type": "Point", "coordinates": [ -78.160510, 39.184323 ] } }
+,
+{ "type": "Feature", "id": 933, "properties": { "NODE_ID": 934 }, "geometry": { "type": "Point", "coordinates": [ -78.160497, 39.185927 ] } }
+,
+{ "type": "Feature", "id": 934, "properties": { "NODE_ID": 935 }, "geometry": { "type": "Point", "coordinates": [ -78.160486, 39.171653 ] } }
+,
+{ "type": "Feature", "id": 935, "properties": { "NODE_ID": 936 }, "geometry": { "type": "Point", "coordinates": [ -78.160474, 39.201042 ] } }
+,
+{ "type": "Feature", "id": 936, "properties": { "NODE_ID": 937 }, "geometry": { "type": "Point", "coordinates": [ -78.160466, 39.189661 ] } }
+,
+{ "type": "Feature", "id": 937, "properties": { "NODE_ID": 938 }, "geometry": { "type": "Point", "coordinates": [ -78.160446, 39.170232 ] } }
+,
+{ "type": "Feature", "id": 938, "properties": { "NODE_ID": 939 }, "geometry": { "type": "Point", "coordinates": [ -78.160428, 39.187609 ] } }
+,
+{ "type": "Feature", "id": 939, "properties": { "NODE_ID": 940 }, "geometry": { "type": "Point", "coordinates": [ -78.160427, 39.184632 ] } }
+,
+{ "type": "Feature", "id": 940, "properties": { "NODE_ID": 941 }, "geometry": { "type": "Point", "coordinates": [ -78.160413, 39.170899 ] } }
+,
+{ "type": "Feature", "id": 941, "properties": { "NODE_ID": 942 }, "geometry": { "type": "Point", "coordinates": [ -78.160408, 39.164333 ] } }
+,
+{ "type": "Feature", "id": 942, "properties": { "NODE_ID": 943 }, "geometry": { "type": "Point", "coordinates": [ -78.160404, 39.174337 ] } }
+,
+{ "type": "Feature", "id": 943, "properties": { "NODE_ID": 944 }, "geometry": { "type": "Point", "coordinates": [ -78.160402, 39.167082 ] } }
+,
+{ "type": "Feature", "id": 944, "properties": { "NODE_ID": 945 }, "geometry": { "type": "Point", "coordinates": [ -78.160392, 39.185261 ] } }
+,
+{ "type": "Feature", "id": 945, "properties": { "NODE_ID": 946 }, "geometry": { "type": "Point", "coordinates": [ -78.160391, 39.187983 ] } }
+,
+{ "type": "Feature", "id": 946, "properties": { "NODE_ID": 947 }, "geometry": { "type": "Point", "coordinates": [ -78.160371, 39.184973 ] } }
+,
+{ "type": "Feature", "id": 947, "properties": { "NODE_ID": 948 }, "geometry": { "type": "Point", "coordinates": [ -78.160353, 39.185466 ] } }
+,
+{ "type": "Feature", "id": 948, "properties": { "NODE_ID": 949 }, "geometry": { "type": "Point", "coordinates": [ -78.160327, 39.199777 ] } }
+,
+{ "type": "Feature", "id": 949, "properties": { "NODE_ID": 950 }, "geometry": { "type": "Point", "coordinates": [ -78.160274, 39.185879 ] } }
+,
+{ "type": "Feature", "id": 950, "properties": { "NODE_ID": 951 }, "geometry": { "type": "Point", "coordinates": [ -78.160246, 39.175189 ] } }
+,
+{ "type": "Feature", "id": 951, "properties": { "NODE_ID": 952 }, "geometry": { "type": "Point", "coordinates": [ -78.160235, 39.168518 ] } }
+,
+{ "type": "Feature", "id": 952, "properties": { "NODE_ID": 953 }, "geometry": { "type": "Point", "coordinates": [ -78.160224, 39.165294 ] } }
+,
+{ "type": "Feature", "id": 953, "properties": { "NODE_ID": 954 }, "geometry": { "type": "Point", "coordinates": [ -78.160203, 39.194042 ] } }
+,
+{ "type": "Feature", "id": 954, "properties": { "NODE_ID": 955 }, "geometry": { "type": "Point", "coordinates": [ -78.160159, 39.190434 ] } }
+,
+{ "type": "Feature", "id": 955, "properties": { "NODE_ID": 956 }, "geometry": { "type": "Point", "coordinates": [ -78.160156, 39.186976 ] } }
+,
+{ "type": "Feature", "id": 956, "properties": { "NODE_ID": 957 }, "geometry": { "type": "Point", "coordinates": [ -78.160155, 39.197621 ] } }
+,
+{ "type": "Feature", "id": 957, "properties": { "NODE_ID": 958 }, "geometry": { "type": "Point", "coordinates": [ -78.160154, 39.159776 ] } }
+,
+{ "type": "Feature", "id": 958, "properties": { "NODE_ID": 959 }, "geometry": { "type": "Point", "coordinates": [ -78.160129, 39.182631 ] } }
+,
+{ "type": "Feature", "id": 959, "properties": { "NODE_ID": 960 }, "geometry": { "type": "Point", "coordinates": [ -78.160106, 39.202769 ] } }
+,
+{ "type": "Feature", "id": 960, "properties": { "NODE_ID": 961 }, "geometry": { "type": "Point", "coordinates": [ -78.160104, 39.171721 ] } }
+,
+{ "type": "Feature", "id": 961, "properties": { "NODE_ID": 962 }, "geometry": { "type": "Point", "coordinates": [ -78.160088, 39.175618 ] } }
+,
+{ "type": "Feature", "id": 962, "properties": { "NODE_ID": 963 }, "geometry": { "type": "Point", "coordinates": [ -78.160075, 39.170623 ] } }
+,
+{ "type": "Feature", "id": 963, "properties": { "NODE_ID": 964 }, "geometry": { "type": "Point", "coordinates": [ -78.160025, 39.167099 ] } }
+,
+{ "type": "Feature", "id": 964, "properties": { "NODE_ID": 965 }, "geometry": { "type": "Point", "coordinates": [ -78.160014, 39.164816 ] } }
+,
+{ "type": "Feature", "id": 965, "properties": { "NODE_ID": 966 }, "geometry": { "type": "Point", "coordinates": [ -78.160008, 39.172681 ] } }
+,
+{ "type": "Feature", "id": 966, "properties": { "NODE_ID": 967 }, "geometry": { "type": "Point", "coordinates": [ -78.159976, 39.194706 ] } }
+,
+{ "type": "Feature", "id": 967, "properties": { "NODE_ID": 968 }, "geometry": { "type": "Point", "coordinates": [ -78.159914, 39.187483 ] } }
+,
+{ "type": "Feature", "id": 968, "properties": { "NODE_ID": 969 }, "geometry": { "type": "Point", "coordinates": [ -78.159841, 39.169068 ] } }
+,
+{ "type": "Feature", "id": 969, "properties": { "NODE_ID": 970 }, "geometry": { "type": "Point", "coordinates": [ -78.159836, 39.202802 ] } }
+,
+{ "type": "Feature", "id": 970, "properties": { "NODE_ID": 971 }, "geometry": { "type": "Point", "coordinates": [ -78.159832, 39.189446 ] } }
+,
+{ "type": "Feature", "id": 971, "properties": { "NODE_ID": 972 }, "geometry": { "type": "Point", "coordinates": [ -78.159802, 39.193039 ] } }
+,
+{ "type": "Feature", "id": 972, "properties": { "NODE_ID": 973 }, "geometry": { "type": "Point", "coordinates": [ -78.159769, 39.197176 ] } }
+,
+{ "type": "Feature", "id": 973, "properties": { "NODE_ID": 974 }, "geometry": { "type": "Point", "coordinates": [ -78.159755, 39.163624 ] } }
+,
+{ "type": "Feature", "id": 974, "properties": { "NODE_ID": 975 }, "geometry": { "type": "Point", "coordinates": [ -78.159752, 39.169297 ] } }
+,
+{ "type": "Feature", "id": 975, "properties": { "NODE_ID": 976 }, "geometry": { "type": "Point", "coordinates": [ -78.159745, 39.185787 ] } }
+,
+{ "type": "Feature", "id": 976, "properties": { "NODE_ID": 977 }, "geometry": { "type": "Point", "coordinates": [ -78.159744, 39.187846 ] } }
+,
+{ "type": "Feature", "id": 977, "properties": { "NODE_ID": 978 }, "geometry": { "type": "Point", "coordinates": [ -78.159716, 39.193021 ] } }
+,
+{ "type": "Feature", "id": 978, "properties": { "NODE_ID": 979 }, "geometry": { "type": "Point", "coordinates": [ -78.159694, 39.191603 ] } }
+,
+{ "type": "Feature", "id": 979, "properties": { "NODE_ID": 980 }, "geometry": { "type": "Point", "coordinates": [ -78.159659, 39.180435 ] } }
+,
+{ "type": "Feature", "id": 980, "properties": { "NODE_ID": 981 }, "geometry": { "type": "Point", "coordinates": [ -78.159623, 39.195667 ] } }
+,
+{ "type": "Feature", "id": 981, "properties": { "NODE_ID": 982 }, "geometry": { "type": "Point", "coordinates": [ -78.159611, 39.169460 ] } }
+,
+{ "type": "Feature", "id": 982, "properties": { "NODE_ID": 983 }, "geometry": { "type": "Point", "coordinates": [ -78.159519, 39.166049 ] } }
+,
+{ "type": "Feature", "id": 983, "properties": { "NODE_ID": 984 }, "geometry": { "type": "Point", "coordinates": [ -78.159474, 39.198037 ] } }
+,
+{ "type": "Feature", "id": 984, "properties": { "NODE_ID": 985 }, "geometry": { "type": "Point", "coordinates": [ -78.159445, 39.201956 ] } }
+,
+{ "type": "Feature", "id": 985, "properties": { "NODE_ID": 986 }, "geometry": { "type": "Point", "coordinates": [ -78.159427, 39.172458 ] } }
+,
+{ "type": "Feature", "id": 986, "properties": { "NODE_ID": 987 }, "geometry": { "type": "Point", "coordinates": [ -78.159398, 39.173551 ] } }
+,
+{ "type": "Feature", "id": 987, "properties": { "NODE_ID": 988 }, "geometry": { "type": "Point", "coordinates": [ -78.159384, 39.185714 ] } }
+,
+{ "type": "Feature", "id": 988, "properties": { "NODE_ID": 989 }, "geometry": { "type": "Point", "coordinates": [ -78.159384, 39.197025 ] } }
+,
+{ "type": "Feature", "id": 989, "properties": { "NODE_ID": 990 }, "geometry": { "type": "Point", "coordinates": [ -78.159372, 39.173650 ] } }
+,
+{ "type": "Feature", "id": 990, "properties": { "NODE_ID": 991 }, "geometry": { "type": "Point", "coordinates": [ -78.159351, 39.168749 ] } }
+,
+{ "type": "Feature", "id": 991, "properties": { "NODE_ID": 992 }, "geometry": { "type": "Point", "coordinates": [ -78.159344, 39.163350 ] } }
+,
+{ "type": "Feature", "id": 992, "properties": { "NODE_ID": 993 }, "geometry": { "type": "Point", "coordinates": [ -78.159284, 39.166117 ] } }
+,
+{ "type": "Feature", "id": 993, "properties": { "NODE_ID": 994 }, "geometry": { "type": "Point", "coordinates": [ -78.159283, 39.199248 ] } }
+,
+{ "type": "Feature", "id": 994, "properties": { "NODE_ID": 995 }, "geometry": { "type": "Point", "coordinates": [ -78.159249, 39.177942 ] } }
+,
+{ "type": "Feature", "id": 995, "properties": { "NODE_ID": 996 }, "geometry": { "type": "Point", "coordinates": [ -78.159220, 39.174255 ] } }
+,
+{ "type": "Feature", "id": 996, "properties": { "NODE_ID": 997 }, "geometry": { "type": "Point", "coordinates": [ -78.159196, 39.164493 ] } }
+,
+{ "type": "Feature", "id": 997, "properties": { "NODE_ID": 998 }, "geometry": { "type": "Point", "coordinates": [ -78.159170, 39.166054 ] } }
+,
+{ "type": "Feature", "id": 998, "properties": { "NODE_ID": 999 }, "geometry": { "type": "Point", "coordinates": [ -78.159164, 39.169983 ] } }
+,
+{ "type": "Feature", "id": 999, "properties": { "NODE_ID": 1000 }, "geometry": { "type": "Point", "coordinates": [ -78.159156, 39.189308 ] } }
+,
+{ "type": "Feature", "id": 1000, "properties": { "NODE_ID": 1001 }, "geometry": { "type": "Point", "coordinates": [ -78.159147, 39.187297 ] } }
+,
+{ "type": "Feature", "id": 1001, "properties": { "NODE_ID": 1002 }, "geometry": { "type": "Point", "coordinates": [ -78.159138, 39.163121 ] } }
+,
+{ "type": "Feature", "id": 1002, "properties": { "NODE_ID": 1003 }, "geometry": { "type": "Point", "coordinates": [ -78.159133, 39.174900 ] } }
+,
+{ "type": "Feature", "id": 1003, "properties": { "NODE_ID": 1004 }, "geometry": { "type": "Point", "coordinates": [ -78.159123, 39.196924 ] } }
+,
+{ "type": "Feature", "id": 1004, "properties": { "NODE_ID": 1005 }, "geometry": { "type": "Point", "coordinates": [ -78.159100, 39.182470 ] } }
+,
+{ "type": "Feature", "id": 1005, "properties": { "NODE_ID": 1006 }, "geometry": { "type": "Point", "coordinates": [ -78.159058, 39.202500 ] } }
+,
+{ "type": "Feature", "id": 1006, "properties": { "NODE_ID": 1007 }, "geometry": { "type": "Point", "coordinates": [ -78.159051, 39.198956 ] } }
+,
+{ "type": "Feature", "id": 1007, "properties": { "NODE_ID": 1008 }, "geometry": { "type": "Point", "coordinates": [ -78.159015, 39.199766 ] } }
+,
+{ "type": "Feature", "id": 1008, "properties": { "NODE_ID": 1009 }, "geometry": { "type": "Point", "coordinates": [ -78.159008, 39.199447 ] } }
+,
+{ "type": "Feature", "id": 1009, "properties": { "NODE_ID": 1010 }, "geometry": { "type": "Point", "coordinates": [ -78.158990, 39.192918 ] } }
+,
+{ "type": "Feature", "id": 1010, "properties": { "NODE_ID": 1011 }, "geometry": { "type": "Point", "coordinates": [ -78.158961, 39.168852 ] } }
+,
+{ "type": "Feature", "id": 1011, "properties": { "NODE_ID": 1012 }, "geometry": { "type": "Point", "coordinates": [ -78.158950, 39.197177 ] } }
+,
+{ "type": "Feature", "id": 1012, "properties": { "NODE_ID": 1013 }, "geometry": { "type": "Point", "coordinates": [ -78.158918, 39.173512 ] } }
+,
+{ "type": "Feature", "id": 1013, "properties": { "NODE_ID": 1014 }, "geometry": { "type": "Point", "coordinates": [ -78.158903, 39.199664 ] } }
+,
+{ "type": "Feature", "id": 1014, "properties": { "NODE_ID": 1015 }, "geometry": { "type": "Point", "coordinates": [ -78.158901, 39.166826 ] } }
+,
+{ "type": "Feature", "id": 1015, "properties": { "NODE_ID": 1016 }, "geometry": { "type": "Point", "coordinates": [ -78.158900, 39.170143 ] } }
+,
+{ "type": "Feature", "id": 1016, "properties": { "NODE_ID": 1017 }, "geometry": { "type": "Point", "coordinates": [ -78.158833, 39.199142 ] } }
+,
+{ "type": "Feature", "id": 1017, "properties": { "NODE_ID": 1018 }, "geometry": { "type": "Point", "coordinates": [ -78.158776, 39.183408 ] } }
+,
+{ "type": "Feature", "id": 1018, "properties": { "NODE_ID": 1019 }, "geometry": { "type": "Point", "coordinates": [ -78.158731, 39.199215 ] } }
+,
+{ "type": "Feature", "id": 1019, "properties": { "NODE_ID": 1020 }, "geometry": { "type": "Point", "coordinates": [ -78.158638, 39.166952 ] } }
+,
+{ "type": "Feature", "id": 1020, "properties": { "NODE_ID": 1021 }, "geometry": { "type": "Point", "coordinates": [ -78.158563, 39.200126 ] } }
+,
+{ "type": "Feature", "id": 1021, "properties": { "NODE_ID": 1022 }, "geometry": { "type": "Point", "coordinates": [ -78.158556, 39.168907 ] } }
+,
+{ "type": "Feature", "id": 1022, "properties": { "NODE_ID": 1023 }, "geometry": { "type": "Point", "coordinates": [ -78.158543, 39.195215 ] } }
+,
+{ "type": "Feature", "id": 1023, "properties": { "NODE_ID": 1024 }, "geometry": { "type": "Point", "coordinates": [ -78.158532, 39.190994 ] } }
+,
+{ "type": "Feature", "id": 1024, "properties": { "NODE_ID": 1025 }, "geometry": { "type": "Point", "coordinates": [ -78.158455, 39.180115 ] } }
+,
+{ "type": "Feature", "id": 1025, "properties": { "NODE_ID": 1026 }, "geometry": { "type": "Point", "coordinates": [ -78.158451, 39.189056 ] } }
+,
+{ "type": "Feature", "id": 1026, "properties": { "NODE_ID": 1027 }, "geometry": { "type": "Point", "coordinates": [ -78.158420, 39.191298 ] } }
+,
+{ "type": "Feature", "id": 1027, "properties": { "NODE_ID": 1028 }, "geometry": { "type": "Point", "coordinates": [ -78.158393, 39.185512 ] } }
+,
+{ "type": "Feature", "id": 1028, "properties": { "NODE_ID": 1029 }, "geometry": { "type": "Point", "coordinates": [ -78.158347, 39.199158 ] } }
+,
+{ "type": "Feature", "id": 1029, "properties": { "NODE_ID": 1030 }, "geometry": { "type": "Point", "coordinates": [ -78.158316, 39.162458 ] } }
+,
+{ "type": "Feature", "id": 1030, "properties": { "NODE_ID": 1031 }, "geometry": { "type": "Point", "coordinates": [ -78.158208, 39.161345 ] } }
+,
+{ "type": "Feature", "id": 1031, "properties": { "NODE_ID": 1032 }, "geometry": { "type": "Point", "coordinates": [ -78.158195, 39.168907 ] } }
+,
+{ "type": "Feature", "id": 1032, "properties": { "NODE_ID": 1033 }, "geometry": { "type": "Point", "coordinates": [ -78.158147, 39.188968 ] } }
+,
+{ "type": "Feature", "id": 1033, "properties": { "NODE_ID": 1034 }, "geometry": { "type": "Point", "coordinates": [ -78.158102, 39.181098 ] } }
+,
+{ "type": "Feature", "id": 1034, "properties": { "NODE_ID": 1035 }, "geometry": { "type": "Point", "coordinates": [ -78.158060, 39.173223 ] } }
+,
+{ "type": "Feature", "id": 1035, "properties": { "NODE_ID": 1036 }, "geometry": { "type": "Point", "coordinates": [ -78.158044, 39.177736 ] } }
+,
+{ "type": "Feature", "id": 1036, "properties": { "NODE_ID": 1037 }, "geometry": { "type": "Point", "coordinates": [ -78.157879, 39.192699 ] } }
+,
+{ "type": "Feature", "id": 1037, "properties": { "NODE_ID": 1038 }, "geometry": { "type": "Point", "coordinates": [ -78.157837, 39.182081 ] } }
+,
+{ "type": "Feature", "id": 1038, "properties": { "NODE_ID": 1039 }, "geometry": { "type": "Point", "coordinates": [ -78.157825, 39.187008 ] } }
+,
+{ "type": "Feature", "id": 1039, "properties": { "NODE_ID": 1040 }, "geometry": { "type": "Point", "coordinates": [ -78.157806, 39.185352 ] } }
+,
+{ "type": "Feature", "id": 1040, "properties": { "NODE_ID": 1041 }, "geometry": { "type": "Point", "coordinates": [ -78.157776, 39.190824 ] } }
+,
+{ "type": "Feature", "id": 1041, "properties": { "NODE_ID": 1042 }, "geometry": { "type": "Point", "coordinates": [ -78.157715, 39.191115 ] } }
+,
+{ "type": "Feature", "id": 1042, "properties": { "NODE_ID": 1043 }, "geometry": { "type": "Point", "coordinates": [ -78.157601, 39.182584 ] } }
+,
+{ "type": "Feature", "id": 1043, "properties": { "NODE_ID": 1044 }, "geometry": { "type": "Point", "coordinates": [ -78.157562, 39.193414 ] } }
+,
+{ "type": "Feature", "id": 1044, "properties": { "NODE_ID": 1045 }, "geometry": { "type": "Point", "coordinates": [ -78.157509, 39.161943 ] } }
+,
+{ "type": "Feature", "id": 1045, "properties": { "NODE_ID": 1046 }, "geometry": { "type": "Point", "coordinates": [ -78.157482, 39.186267 ] } }
+,
+{ "type": "Feature", "id": 1046, "properties": { "NODE_ID": 1047 }, "geometry": { "type": "Point", "coordinates": [ -78.157462, 39.183172 ] } }
+,
+{ "type": "Feature", "id": 1047, "properties": { "NODE_ID": 1048 }, "geometry": { "type": "Point", "coordinates": [ -78.157436, 39.201037 ] } }
+,
+{ "type": "Feature", "id": 1048, "properties": { "NODE_ID": 1049 }, "geometry": { "type": "Point", "coordinates": [ -78.157387, 39.193261 ] } }
+,
+{ "type": "Feature", "id": 1049, "properties": { "NODE_ID": 1050 }, "geometry": { "type": "Point", "coordinates": [ -78.157366, 39.183614 ] } }
+,
+{ "type": "Feature", "id": 1050, "properties": { "NODE_ID": 1051 }, "geometry": { "type": "Point", "coordinates": [ -78.157258, 39.183886 ] } }
+,
+{ "type": "Feature", "id": 1051, "properties": { "NODE_ID": 1052 }, "geometry": { "type": "Point", "coordinates": [ -78.157247, 39.186884 ] } }
+,
+{ "type": "Feature", "id": 1052, "properties": { "NODE_ID": 1053 }, "geometry": { "type": "Point", "coordinates": [ -78.157221, 39.179863 ] } }
+,
+{ "type": "Feature", "id": 1053, "properties": { "NODE_ID": 1054 }, "geometry": { "type": "Point", "coordinates": [ -78.157187, 39.188690 ] } }
+,
+{ "type": "Feature", "id": 1054, "properties": { "NODE_ID": 1055 }, "geometry": { "type": "Point", "coordinates": [ -78.157153, 39.198959 ] } }
+,
+{ "type": "Feature", "id": 1055, "properties": { "NODE_ID": 1056 }, "geometry": { "type": "Point", "coordinates": [ -78.157130, 39.184208 ] } }
+,
+{ "type": "Feature", "id": 1056, "properties": { "NODE_ID": 1057 }, "geometry": { "type": "Point", "coordinates": [ -78.157101, 39.184483 ] } }
+,
+{ "type": "Feature", "id": 1057, "properties": { "NODE_ID": 1058 }, "geometry": { "type": "Point", "coordinates": [ -78.157044, 39.180800 ] } }
+,
+{ "type": "Feature", "id": 1058, "properties": { "NODE_ID": 1059 }, "geometry": { "type": "Point", "coordinates": [ -78.156991, 39.201699 ] } }
+,
+{ "type": "Feature", "id": 1059, "properties": { "NODE_ID": 1060 }, "geometry": { "type": "Point", "coordinates": [ -78.156928, 39.177552 ] } }
+,
+{ "type": "Feature", "id": 1060, "properties": { "NODE_ID": 1061 }, "geometry": { "type": "Point", "coordinates": [ -78.156924, 39.184688 ] } }
+,
+{ "type": "Feature", "id": 1061, "properties": { "NODE_ID": 1062 }, "geometry": { "type": "Point", "coordinates": [ -78.156866, 39.185077 ] } }
+,
+{ "type": "Feature", "id": 1062, "properties": { "NODE_ID": 1063 }, "geometry": { "type": "Point", "coordinates": [ -78.156858, 39.162556 ] } }
+,
+{ "type": "Feature", "id": 1063, "properties": { "NODE_ID": 1064 }, "geometry": { "type": "Point", "coordinates": [ -78.156839, 39.192610 ] } }
+,
+{ "type": "Feature", "id": 1064, "properties": { "NODE_ID": 1065 }, "geometry": { "type": "Point", "coordinates": [ -78.156813, 39.172223 ] } }
+,
+{ "type": "Feature", "id": 1065, "properties": { "NODE_ID": 1066 }, "geometry": { "type": "Point", "coordinates": [ -78.156511, 39.188461 ] } }
+,
+{ "type": "Feature", "id": 1066, "properties": { "NODE_ID": 1067 }, "geometry": { "type": "Point", "coordinates": [ -78.156496, 39.195895 ] } }
+,
+{ "type": "Feature", "id": 1067, "properties": { "NODE_ID": 1068 }, "geometry": { "type": "Point", "coordinates": [ -78.156451, 39.190908 ] } }
+,
+{ "type": "Feature", "id": 1068, "properties": { "NODE_ID": 1069 }, "geometry": { "type": "Point", "coordinates": [ -78.156422, 39.190817 ] } }
+,
+{ "type": "Feature", "id": 1069, "properties": { "NODE_ID": 1070 }, "geometry": { "type": "Point", "coordinates": [ -78.156295, 39.191419 ] } }
+,
+{ "type": "Feature", "id": 1070, "properties": { "NODE_ID": 1071 }, "geometry": { "type": "Point", "coordinates": [ -78.156208, 39.192402 ] } }
+,
+{ "type": "Feature", "id": 1071, "properties": { "NODE_ID": 1072 }, "geometry": { "type": "Point", "coordinates": [ -78.156159, 39.183271 ] } }
+,
+{ "type": "Feature", "id": 1072, "properties": { "NODE_ID": 1073 }, "geometry": { "type": "Point", "coordinates": [ -78.156043, 39.184963 ] } }
+,
+{ "type": "Feature", "id": 1073, "properties": { "NODE_ID": 1074 }, "geometry": { "type": "Point", "coordinates": [ -78.155957, 39.179588 ] } }
+,
+{ "type": "Feature", "id": 1074, "properties": { "NODE_ID": 1075 }, "geometry": { "type": "Point", "coordinates": [ -78.155952, 39.189376 ] } }
+,
+{ "type": "Feature", "id": 1075, "properties": { "NODE_ID": 1076 }, "geometry": { "type": "Point", "coordinates": [ -78.155833, 39.195508 ] } }
+,
+{ "type": "Feature", "id": 1076, "properties": { "NODE_ID": 1077 }, "geometry": { "type": "Point", "coordinates": [ -78.155750, 39.182767 ] } }
+,
+{ "type": "Feature", "id": 1077, "properties": { "NODE_ID": 1078 }, "geometry": { "type": "Point", "coordinates": [ -78.155748, 39.185855 ] } }
+,
+{ "type": "Feature", "id": 1078, "properties": { "NODE_ID": 1079 }, "geometry": { "type": "Point", "coordinates": [ -78.155741, 39.200514 ] } }
+,
+{ "type": "Feature", "id": 1079, "properties": { "NODE_ID": 1080 }, "geometry": { "type": "Point", "coordinates": [ -78.155698, 39.169295 ] } }
+,
+{ "type": "Feature", "id": 1080, "properties": { "NODE_ID": 1081 }, "geometry": { "type": "Point", "coordinates": [ -78.155584, 39.184843 ] } }
+,
+{ "type": "Feature", "id": 1081, "properties": { "NODE_ID": 1082 }, "geometry": { "type": "Point", "coordinates": [ -78.155561, 39.195349 ] } }
+,
+{ "type": "Feature", "id": 1082, "properties": { "NODE_ID": 1083 }, "geometry": { "type": "Point", "coordinates": [ -78.155548, 39.175311 ] } }
+,
+{ "type": "Feature", "id": 1083, "properties": { "NODE_ID": 1084 }, "geometry": { "type": "Point", "coordinates": [ -78.155515, 39.183133 ] } }
+,
+{ "type": "Feature", "id": 1084, "properties": { "NODE_ID": 1085 }, "geometry": { "type": "Point", "coordinates": [ -78.155486, 39.181509 ] } }
+,
+{ "type": "Feature", "id": 1085, "properties": { "NODE_ID": 1086 }, "geometry": { "type": "Point", "coordinates": [ -78.155454, 39.186472 ] } }
+,
+{ "type": "Feature", "id": 1086, "properties": { "NODE_ID": 1087 }, "geometry": { "type": "Point", "coordinates": [ -78.155452, 39.190656 ] } }
+,
+{ "type": "Feature", "id": 1087, "properties": { "NODE_ID": 1088 }, "geometry": { "type": "Point", "coordinates": [ -78.155426, 39.200004 ] } }
+,
+{ "type": "Feature", "id": 1088, "properties": { "NODE_ID": 1089 }, "geometry": { "type": "Point", "coordinates": [ -78.155411, 39.201086 ] } }
+,
+{ "type": "Feature", "id": 1089, "properties": { "NODE_ID": 1090 }, "geometry": { "type": "Point", "coordinates": [ -78.155404, 39.200346 ] } }
+,
+{ "type": "Feature", "id": 1090, "properties": { "NODE_ID": 1091 }, "geometry": { "type": "Point", "coordinates": [ -78.155357, 39.164504 ] } }
+,
+{ "type": "Feature", "id": 1091, "properties": { "NODE_ID": 1092 }, "geometry": { "type": "Point", "coordinates": [ -78.155241, 39.200331 ] } }
+,
+{ "type": "Feature", "id": 1092, "properties": { "NODE_ID": 1093 }, "geometry": { "type": "Point", "coordinates": [ -78.155232, 39.194286 ] } }
+,
+{ "type": "Feature", "id": 1093, "properties": { "NODE_ID": 1094 }, "geometry": { "type": "Point", "coordinates": [ -78.155221, 39.183636 ] } }
+,
+{ "type": "Feature", "id": 1094, "properties": { "NODE_ID": 1095 }, "geometry": { "type": "Point", "coordinates": [ -78.155218, 39.188163 ] } }
+,
+{ "type": "Feature", "id": 1095, "properties": { "NODE_ID": 1096 }, "geometry": { "type": "Point", "coordinates": [ -78.155170, 39.167969 ] } }
+,
+{ "type": "Feature", "id": 1096, "properties": { "NODE_ID": 1097 }, "geometry": { "type": "Point", "coordinates": [ -78.155044, 39.184047 ] } }
+,
+{ "type": "Feature", "id": 1097, "properties": { "NODE_ID": 1098 }, "geometry": { "type": "Point", "coordinates": [ -78.155019, 39.175288 ] } }
+,
+{ "type": "Feature", "id": 1098, "properties": { "NODE_ID": 1099 }, "geometry": { "type": "Point", "coordinates": [ -78.155008, 39.200929 ] } }
+,
+{ "type": "Feature", "id": 1099, "properties": { "NODE_ID": 1100 }, "geometry": { "type": "Point", "coordinates": [ -78.154972, 39.175777 ] } }
+,
+{ "type": "Feature", "id": 1100, "properties": { "NODE_ID": 1101 }, "geometry": { "type": "Point", "coordinates": [ -78.154925, 39.187935 ] } }
+,
+{ "type": "Feature", "id": 1101, "properties": { "NODE_ID": 1102 }, "geometry": { "type": "Point", "coordinates": [ -78.154924, 39.189101 ] } }
+,
+{ "type": "Feature", "id": 1102, "properties": { "NODE_ID": 1103 }, "geometry": { "type": "Point", "coordinates": [ -78.154897, 39.184665 ] } }
+,
+{ "type": "Feature", "id": 1103, "properties": { "NODE_ID": 1104 }, "geometry": { "type": "Point", "coordinates": [ -78.154817, 39.168678 ] } }
+,
+{ "type": "Feature", "id": 1104, "properties": { "NODE_ID": 1105 }, "geometry": { "type": "Point", "coordinates": [ -78.154743, 39.194139 ] } }
+,
+{ "type": "Feature", "id": 1105, "properties": { "NODE_ID": 1106 }, "geometry": { "type": "Point", "coordinates": [ -78.154629, 39.191891 ] } }
+,
+{ "type": "Feature", "id": 1106, "properties": { "NODE_ID": 1107 }, "geometry": { "type": "Point", "coordinates": [ -78.154606, 39.179359 ] } }
+,
+{ "type": "Feature", "id": 1107, "properties": { "NODE_ID": 1108 }, "geometry": { "type": "Point", "coordinates": [ -78.154552, 39.177982 ] } }
+,
+{ "type": "Feature", "id": 1108, "properties": { "NODE_ID": 1109 }, "geometry": { "type": "Point", "coordinates": [ -78.154366, 39.194641 ] } }
+,
+{ "type": "Feature", "id": 1109, "properties": { "NODE_ID": 1110 }, "geometry": { "type": "Point", "coordinates": [ -78.154310, 39.182881 ] } }
+,
+{ "type": "Feature", "id": 1110, "properties": { "NODE_ID": 1111 }, "geometry": { "type": "Point", "coordinates": [ -78.154222, 39.183430 ] } }
+,
+{ "type": "Feature", "id": 1111, "properties": { "NODE_ID": 1112 }, "geometry": { "type": "Point", "coordinates": [ -78.154199, 39.169112 ] } }
+,
+{ "type": "Feature", "id": 1112, "properties": { "NODE_ID": 1113 }, "geometry": { "type": "Point", "coordinates": [ -78.154191, 39.186243 ] } }
+,
+{ "type": "Feature", "id": 1113, "properties": { "NODE_ID": 1114 }, "geometry": { "type": "Point", "coordinates": [ -78.154176, 39.174960 ] } }
+,
+{ "type": "Feature", "id": 1114, "properties": { "NODE_ID": 1115 }, "geometry": { "type": "Point", "coordinates": [ -78.154117, 39.189607 ] } }
+,
+{ "type": "Feature", "id": 1115, "properties": { "NODE_ID": 1116 }, "geometry": { "type": "Point", "coordinates": [ -78.154100, 39.191502 ] } }
+,
+{ "type": "Feature", "id": 1116, "properties": { "NODE_ID": 1117 }, "geometry": { "type": "Point", "coordinates": [ -78.154098, 39.180734 ] } }
+,
+{ "type": "Feature", "id": 1117, "properties": { "NODE_ID": 1118 }, "geometry": { "type": "Point", "coordinates": [ -78.154045, 39.183841 ] } }
+,
+{ "type": "Feature", "id": 1118, "properties": { "NODE_ID": 1119 }, "geometry": { "type": "Point", "coordinates": [ -78.153998, 39.167099 ] } }
+,
+{ "type": "Feature", "id": 1119, "properties": { "NODE_ID": 1120 }, "geometry": { "type": "Point", "coordinates": [ -78.153957, 39.176052 ] } }
+,
+{ "type": "Feature", "id": 1120, "properties": { "NODE_ID": 1121 }, "geometry": { "type": "Point", "coordinates": [ -78.153883, 39.167355 ] } }
+,
+{ "type": "Feature", "id": 1121, "properties": { "NODE_ID": 1122 }, "geometry": { "type": "Point", "coordinates": [ -78.153808, 39.184332 ] } }
+,
+{ "type": "Feature", "id": 1122, "properties": { "NODE_ID": 1123 }, "geometry": { "type": "Point", "coordinates": [ -78.153780, 39.184390 ] } }
+,
+{ "type": "Feature", "id": 1123, "properties": { "NODE_ID": 1124 }, "geometry": { "type": "Point", "coordinates": [ -78.153779, 39.187660 ] } }
+,
+{ "type": "Feature", "id": 1124, "properties": { "NODE_ID": 1125 }, "geometry": { "type": "Point", "coordinates": [ -78.153607, 39.179015 ] } }
+,
+{ "type": "Feature", "id": 1125, "properties": { "NODE_ID": 1126 }, "geometry": { "type": "Point", "coordinates": [ -78.153582, 39.169798 ] } }
+,
+{ "type": "Feature", "id": 1126, "properties": { "NODE_ID": 1127 }, "geometry": { "type": "Point", "coordinates": [ -78.153535, 39.193429 ] } }
+,
+{ "type": "Feature", "id": 1127, "properties": { "NODE_ID": 1128 }, "geometry": { "type": "Point", "coordinates": [ -78.153516, 39.184344 ] } }
+,
+{ "type": "Feature", "id": 1128, "properties": { "NODE_ID": 1129 }, "geometry": { "type": "Point", "coordinates": [ -78.153399, 39.182629 ] } }
+,
+{ "type": "Feature", "id": 1129, "properties": { "NODE_ID": 1130 }, "geometry": { "type": "Point", "coordinates": [ -78.153347, 39.170781 ] } }
+,
+{ "type": "Feature", "id": 1130, "properties": { "NODE_ID": 1131 }, "geometry": { "type": "Point", "coordinates": [ -78.153277, 39.191205 ] } }
+,
+{ "type": "Feature", "id": 1131, "properties": { "NODE_ID": 1132 }, "geometry": { "type": "Point", "coordinates": [ -78.153075, 39.193876 ] } }
+,
+{ "type": "Feature", "id": 1132, "properties": { "NODE_ID": 1133 }, "geometry": { "type": "Point", "coordinates": [ -78.153049, 39.180547 ] } }
+,
+{ "type": "Feature", "id": 1133, "properties": { "NODE_ID": 1134 }, "geometry": { "type": "Point", "coordinates": [ -78.153017, 39.182552 ] } }
+,
+{ "type": "Feature", "id": 1134, "properties": { "NODE_ID": 1135 }, "geometry": { "type": "Point", "coordinates": [ -78.153015, 39.185877 ] } }
+,
+{ "type": "Feature", "id": 1135, "properties": { "NODE_ID": 1136 }, "geometry": { "type": "Point", "coordinates": [ -78.152781, 39.184344 ] } }
+,
+{ "type": "Feature", "id": 1136, "properties": { "NODE_ID": 1137 }, "geometry": { "type": "Point", "coordinates": [ -78.152725, 39.178244 ] } }
+,
+{ "type": "Feature", "id": 1137, "properties": { "NODE_ID": 1138 }, "geometry": { "type": "Point", "coordinates": [ -78.152704, 39.183719 ] } }
+,
+{ "type": "Feature", "id": 1138, "properties": { "NODE_ID": 1139 }, "geometry": { "type": "Point", "coordinates": [ -78.152696, 39.178397 ] } }
+,
+{ "type": "Feature", "id": 1139, "properties": { "NODE_ID": 1140 }, "geometry": { "type": "Point", "coordinates": [ -78.152488, 39.182446 ] } }
+,
+{ "type": "Feature", "id": 1140, "properties": { "NODE_ID": 1141 }, "geometry": { "type": "Point", "coordinates": [ -78.152486, 39.186997 ] } }
+,
+{ "type": "Feature", "id": 1141, "properties": { "NODE_ID": 1142 }, "geometry": { "type": "Point", "coordinates": [ -78.152454, 39.190678 ] } }
+,
+{ "type": "Feature", "id": 1142, "properties": { "NODE_ID": 1143 }, "geometry": { "type": "Point", "coordinates": [ -78.152400, 39.182331 ] } }
+,
+{ "type": "Feature", "id": 1143, "properties": { "NODE_ID": 1144 }, "geometry": { "type": "Point", "coordinates": [ -78.152264, 39.183243 ] } }
+,
+{ "type": "Feature", "id": 1144, "properties": { "NODE_ID": 1145 }, "geometry": { "type": "Point", "coordinates": [ -78.152159, 39.192645 ] } }
+,
+{ "type": "Feature", "id": 1145, "properties": { "NODE_ID": 1146 }, "geometry": { "type": "Point", "coordinates": [ -78.151925, 39.180346 ] } }
+,
+{ "type": "Feature", "id": 1146, "properties": { "NODE_ID": 1147 }, "geometry": { "type": "Point", "coordinates": [ -78.151721, 39.189009 ] } }
+,
+{ "type": "Feature", "id": 1147, "properties": { "NODE_ID": 1148 }, "geometry": { "type": "Point", "coordinates": [ -78.151682, 39.193068 ] } }
+,
+{ "type": "Feature", "id": 1148, "properties": { "NODE_ID": 1149 }, "geometry": { "type": "Point", "coordinates": [ -78.151636, 39.182285 ] } }
+,
+{ "type": "Feature", "id": 1149, "properties": { "NODE_ID": 1150 }, "geometry": { "type": "Point", "coordinates": [ -78.151313, 39.182102 ] } }
+,
+{ "type": "Feature", "id": 1150, "properties": { "NODE_ID": 1151 }, "geometry": { "type": "Point", "coordinates": [ -78.151253, 39.185030 ] } }
+,
+{ "type": "Feature", "id": 1151, "properties": { "NODE_ID": 1152 }, "geometry": { "type": "Point", "coordinates": [ -78.151194, 39.185464 ] } }
+,
+{ "type": "Feature", "id": 1152, "properties": { "NODE_ID": 1153 }, "geometry": { "type": "Point", "coordinates": [ -78.151165, 39.183772 ] } }
+,
+{ "type": "Feature", "id": 1153, "properties": { "NODE_ID": 1154 }, "geometry": { "type": "Point", "coordinates": [ -78.151102, 39.192004 ] } }
+,
+{ "type": "Feature", "id": 1154, "properties": { "NODE_ID": 1155 }, "geometry": { "type": "Point", "coordinates": [ -78.150961, 39.180387 ] } }
+,
+{ "type": "Feature", "id": 1155, "properties": { "NODE_ID": 1156 }, "geometry": { "type": "Point", "coordinates": [ -78.150783, 39.192547 ] } }
+,
+{ "type": "Feature", "id": 1156, "properties": { "NODE_ID": 1157 }, "geometry": { "type": "Point", "coordinates": [ -78.150755, 39.180684 ] } }
+,
+{ "type": "Feature", "id": 1157, "properties": { "NODE_ID": 1158 }, "geometry": { "type": "Point", "coordinates": [ -78.150723, 39.186631 ] } }
+,
+{ "type": "Feature", "id": 1158, "properties": { "NODE_ID": 1159 }, "geometry": { "type": "Point", "coordinates": [ -78.150580, 39.185331 ] } }
+,
+{ "type": "Feature", "id": 1159, "properties": { "NODE_ID": 1160 }, "geometry": { "type": "Point", "coordinates": [ -78.150535, 39.184823 ] } }
+,
+{ "type": "Feature", "id": 1160, "properties": { "NODE_ID": 1161 }, "geometry": { "type": "Point", "coordinates": [ -78.150520, 39.182033 ] } }
+,
+{ "type": "Feature", "id": 1161, "properties": { "NODE_ID": 1162 }, "geometry": { "type": "Point", "coordinates": [ -78.150402, 39.181461 ] } }
+,
+{ "type": "Feature", "id": 1162, "properties": { "NODE_ID": 1163 }, "geometry": { "type": "Point", "coordinates": [ -78.150373, 39.181919 ] } }
+,
+{ "type": "Feature", "id": 1163, "properties": { "NODE_ID": 1164 }, "geometry": { "type": "Point", "coordinates": [ -78.149990, 39.183565 ] } }
+,
+{ "type": "Feature", "id": 1164, "properties": { "NODE_ID": 1165 }, "geometry": { "type": "Point", "coordinates": [ -78.149990, 39.188656 ] } }
+,
+{ "type": "Feature", "id": 1165, "properties": { "NODE_ID": 1166 }, "geometry": { "type": "Point", "coordinates": [ -78.149693, 39.188253 ] } }
+,
+{ "type": "Feature", "id": 1166, "properties": { "NODE_ID": 1167 }, "geometry": { "type": "Point", "coordinates": [ -78.149693, 39.188596 ] } }
+,
+{ "type": "Feature", "id": 1167, "properties": { "NODE_ID": 1168 }, "geometry": { "type": "Point", "coordinates": [ -78.149666, 39.184572 ] } }
+,
+{ "type": "Feature", "id": 1168, "properties": { "NODE_ID": 1169 }, "geometry": { "type": "Point", "coordinates": [ -78.149636, 39.184800 ] } }
+,
+{ "type": "Feature", "id": 1169, "properties": { "NODE_ID": 1170 }, "geometry": { "type": "Point", "coordinates": [ -78.149518, 39.185807 ] } }
+,
+{ "type": "Feature", "id": 1170, "properties": { "NODE_ID": 1171 }, "geometry": { "type": "Point", "coordinates": [ -78.149403, 39.181781 ] } }
+,
+{ "type": "Feature", "id": 1171, "properties": { "NODE_ID": 1172 }, "geometry": { "type": "Point", "coordinates": [ -78.149345, 39.179906 ] } }
+,
+{ "type": "Feature", "id": 1172, "properties": { "NODE_ID": 1173 }, "geometry": { "type": "Point", "coordinates": [ -78.149228, 39.180226 ] } }
+,
+{ "type": "Feature", "id": 1173, "properties": { "NODE_ID": 1174 }, "geometry": { "type": "Point", "coordinates": [ -78.148932, 39.183268 ] } }
+,
+{ "type": "Feature", "id": 1174, "properties": { "NODE_ID": 1175 }, "geometry": { "type": "Point", "coordinates": [ -78.148786, 39.181026 ] } }
+,
+{ "type": "Feature", "id": 1175, "properties": { "NODE_ID": 1176 }, "geometry": { "type": "Point", "coordinates": [ -78.148551, 39.181552 ] } }
+,
+{ "type": "Feature", "id": 1176, "properties": { "NODE_ID": 1177 }, "geometry": { "type": "Point", "coordinates": [ -78.148549, 39.184274 ] } }
+,
+{ "type": "Feature", "id": 1177, "properties": { "NODE_ID": 1178 }, "geometry": { "type": "Point", "coordinates": [ -78.148430, 39.187932 ] } }
+,
+{ "type": "Feature", "id": 1178, "properties": { "NODE_ID": 1179 }, "geometry": { "type": "Point", "coordinates": [ -78.148428, 39.190540 ] } }
+,
+{ "type": "Feature", "id": 1179, "properties": { "NODE_ID": 1180 }, "geometry": { "type": "Point", "coordinates": [ -78.148350, 39.176027 ] } }
+,
+{ "type": "Feature", "id": 1180, "properties": { "NODE_ID": 1181 }, "geometry": { "type": "Point", "coordinates": [ -78.148222, 39.190768 ] } }
+,
+{ "type": "Feature", "id": 1181, "properties": { "NODE_ID": 1182 }, "geometry": { "type": "Point", "coordinates": [ -78.148095, 39.190988 ] } }
+,
+{ "type": "Feature", "id": 1182, "properties": { "NODE_ID": 1183 }, "geometry": { "type": "Point", "coordinates": [ -78.147928, 39.184122 ] } }
+,
+{ "type": "Feature", "id": 1183, "properties": { "NODE_ID": 1184 }, "geometry": { "type": "Point", "coordinates": [ -78.147816, 39.183039 ] } }
+,
+{ "type": "Feature", "id": 1184, "properties": { "NODE_ID": 1185 }, "geometry": { "type": "Point", "coordinates": [ -78.147815, 39.184663 ] } }
+,
+{ "type": "Feature", "id": 1185, "properties": { "NODE_ID": 1186 }, "geometry": { "type": "Point", "coordinates": [ -78.147814, 39.185715 ] } }
+,
+{ "type": "Feature", "id": 1186, "properties": { "NODE_ID": 1187 }, "geometry": { "type": "Point", "coordinates": [ -78.147664, 39.189968 ] } }
+,
+{ "type": "Feature", "id": 1187, "properties": { "NODE_ID": 1188 }, "geometry": { "type": "Point", "coordinates": [ -78.147640, 39.181392 ] } }
+,
+{ "type": "Feature", "id": 1188, "properties": { "NODE_ID": 1189 }, "geometry": { "type": "Point", "coordinates": [ -78.147552, 39.175592 ] } }
+,
+{ "type": "Feature", "id": 1189, "properties": { "NODE_ID": 1190 }, "geometry": { "type": "Point", "coordinates": [ -78.147461, 39.185692 ] } }
+,
+{ "type": "Feature", "id": 1190, "properties": { "NODE_ID": 1191 }, "geometry": { "type": "Point", "coordinates": [ -78.147228, 39.182032 ] } }
+,
+{ "type": "Feature", "id": 1191, "properties": { "NODE_ID": 1192 }, "geometry": { "type": "Point", "coordinates": [ -78.147137, 39.187474 ] } }
+,
+{ "type": "Feature", "id": 1192, "properties": { "NODE_ID": 1193 }, "geometry": { "type": "Point", "coordinates": [ -78.146963, 39.182855 ] } }
+,
+{ "type": "Feature", "id": 1193, "properties": { "NODE_ID": 1194 }, "geometry": { "type": "Point", "coordinates": [ -78.146959, 39.189556 ] } }
+,
+{ "type": "Feature", "id": 1194, "properties": { "NODE_ID": 1195 }, "geometry": { "type": "Point", "coordinates": [ -78.146934, 39.182650 ] } }
+,
+{ "type": "Feature", "id": 1195, "properties": { "NODE_ID": 1196 }, "geometry": { "type": "Point", "coordinates": [ -78.146872, 39.188046 ] } }
+,
+{ "type": "Feature", "id": 1196, "properties": { "NODE_ID": 1197 }, "geometry": { "type": "Point", "coordinates": [ -78.146581, 39.183793 ] } }
+,
+{ "type": "Feature", "id": 1197, "properties": { "NODE_ID": 1198 }, "geometry": { "type": "Point", "coordinates": [ -78.146440, 39.177510 ] } }
+,
+{ "type": "Feature", "id": 1198, "properties": { "NODE_ID": 1199 }, "geometry": { "type": "Point", "coordinates": [ -78.146107, 39.189212 ] } }
+,
+{ "type": "Feature", "id": 1199, "properties": { "NODE_ID": 1200 }, "geometry": { "type": "Point", "coordinates": [ -78.145789, 39.183623 ] } }
+,
+{ "type": "Feature", "id": 1200, "properties": { "NODE_ID": 1201 }, "geometry": { "type": "Point", "coordinates": [ -78.145632, 39.189518 ] } }
+,
+{ "type": "Feature", "id": 1201, "properties": { "NODE_ID": 1202 }, "geometry": { "type": "Point", "coordinates": [ -78.145567, 39.184495 ] } }
+,
+{ "type": "Feature", "id": 1202, "properties": { "NODE_ID": 1203 }, "geometry": { "type": "Point", "coordinates": [ -78.145308, 39.185509 ] } }
+,
+{ "type": "Feature", "id": 1203, "properties": { "NODE_ID": 1204 }, "geometry": { "type": "Point", "coordinates": [ -78.145060, 39.189162 ] } }
+,
+{ "type": "Feature", "id": 1204, "properties": { "NODE_ID": 1205 }, "geometry": { "type": "Point", "coordinates": [ -78.144584, 39.181391 ] } }
+,
+{ "type": "Feature", "id": 1205, "properties": { "NODE_ID": 1206 }, "geometry": { "type": "Point", "coordinates": [ -78.144452, 39.180163 ] } }
+,
+{ "type": "Feature", "id": 1206, "properties": { "NODE_ID": 1207 }, "geometry": { "type": "Point", "coordinates": [ -78.144339, 39.180438 ] } }
+,
+{ "type": "Feature", "id": 1207, "properties": { "NODE_ID": 1208 }, "geometry": { "type": "Point", "coordinates": [ -78.144319, 39.182031 ] } }
+,
+{ "type": "Feature", "id": 1208, "properties": { "NODE_ID": 1209 }, "geometry": { "type": "Point", "coordinates": [ -78.143939, 39.179538 ] } }
+,
+{ "type": "Feature", "id": 1209, "properties": { "NODE_ID": 1210 }, "geometry": { "type": "Point", "coordinates": [ -78.143935, 39.185393 ] } }
+,
+{ "type": "Feature", "id": 1210, "properties": { "NODE_ID": 1211 }, "geometry": { "type": "Point", "coordinates": [ -78.143907, 39.183220 ] } }
+,
+{ "type": "Feature", "id": 1211, "properties": { "NODE_ID": 1212 }, "geometry": { "type": "Point", "coordinates": [ -78.143556, 39.180087 ] } }
+,
+{ "type": "Feature", "id": 1212, "properties": { "NODE_ID": 1213 }, "geometry": { "type": "Point", "coordinates": [ -78.143495, 39.184341 ] } }
+,
+{ "type": "Feature", "id": 1213, "properties": { "NODE_ID": 1214 }, "geometry": { "type": "Point", "coordinates": [ -78.143347, 39.185278 ] } }
+,
+{ "type": "Feature", "id": 1214, "properties": { "NODE_ID": 1215 }, "geometry": { "type": "Point", "coordinates": [ -78.143321, 39.180978 ] } }
+,
+{ "type": "Feature", "id": 1215, "properties": { "NODE_ID": 1216 }, "geometry": { "type": "Point", "coordinates": [ -78.143086, 39.180978 ] } }
+,
+{ "type": "Feature", "id": 1216, "properties": { "NODE_ID": 1217 }, "geometry": { "type": "Point", "coordinates": [ -78.143060, 39.186689 ] } }
+,
+{ "type": "Feature", "id": 1217, "properties": { "NODE_ID": 1218 }, "geometry": { "type": "Point", "coordinates": [ -78.142381, 39.187495 ] } }
+,
+{ "type": "Feature", "id": 1218, "properties": { "NODE_ID": 1219 }, "geometry": { "type": "Point", "coordinates": [ -78.142284, 39.187611 ] } }
+,
+{ "type": "Feature", "id": 1219, "properties": { "NODE_ID": 1220 }, "geometry": { "type": "Point", "coordinates": [ -78.142260, 39.185095 ] } }
+,
+{ "type": "Feature", "id": 1220, "properties": { "NODE_ID": 1221 }, "geometry": { "type": "Point", "coordinates": [ -78.141701, 39.186421 ] } }
+,
+{ "type": "Feature", "id": 1221, "properties": { "NODE_ID": 1222 }, "geometry": { "type": "Point", "coordinates": [ -78.141642, 39.186901 ] } }
+,
+{ "type": "Feature", "id": 1222, "properties": { "NODE_ID": 1223 }, "geometry": { "type": "Point", "coordinates": [ -78.141605, 39.179978 ] } }
+,
+{ "type": "Feature", "id": 1223, "properties": { "NODE_ID": 1224 }, "geometry": { "type": "Point", "coordinates": [ -78.141573, 39.187018 ] } }
+,
+{ "type": "Feature", "id": 1224, "properties": { "NODE_ID": 1225 }, "geometry": { "type": "Point", "coordinates": [ -78.141528, 39.181435 ] } }
+,
+{ "type": "Feature", "id": 1225, "properties": { "NODE_ID": 1226 }, "geometry": { "type": "Point", "coordinates": [ -78.141233, 39.182510 ] } }
+,
+{ "type": "Feature", "id": 1226, "properties": { "NODE_ID": 1227 }, "geometry": { "type": "Point", "coordinates": [ -78.141048, 39.181227 ] } }
+,
+{ "type": "Feature", "id": 1227, "properties": { "NODE_ID": 1228 }, "geometry": { "type": "Point", "coordinates": [ -78.140615, 39.184820 ] } }
+,
+{ "type": "Feature", "id": 1228, "properties": { "NODE_ID": 1229 }, "geometry": { "type": "Point", "coordinates": [ -78.140349, 39.186169 ] } }
+,
+{ "type": "Feature", "id": 1229, "properties": { "NODE_ID": 1230 }, "geometry": { "type": "Point", "coordinates": [ -78.140308, 39.186273 ] } }
+,
+{ "type": "Feature", "id": 1230, "properties": { "NODE_ID": 1231 }, "geometry": { "type": "Point", "coordinates": [ -78.140249, 39.186424 ] } }
+,
+{ "type": "Feature", "id": 1231, "properties": { "NODE_ID": 1232 }, "geometry": { "type": "Point", "coordinates": [ -78.140247, 39.181106 ] } }
+,
+{ "type": "Feature", "id": 1232, "properties": { "NODE_ID": 1233 }, "geometry": { "type": "Point", "coordinates": [ -78.140058, 39.182235 ] } }
+,
+{ "type": "Feature", "id": 1233, "properties": { "NODE_ID": 1234 }, "geometry": { "type": "Point", "coordinates": [ -78.140043, 39.186109 ] } }
+,
+{ "type": "Feature", "id": 1234, "properties": { "NODE_ID": 1235 }, "geometry": { "type": "Point", "coordinates": [ -78.139771, 39.181584 ] } }
+,
+{ "type": "Feature", "id": 1235, "properties": { "NODE_ID": 1236 }, "geometry": { "type": "Point", "coordinates": [ -78.139410, 39.184659 ] } }
+,
+{ "type": "Feature", "id": 1236, "properties": { "NODE_ID": 1237 }, "geometry": { "type": "Point", "coordinates": [ -78.139360, 39.182029 ] } }
+,
+{ "type": "Feature", "id": 1237, "properties": { "NODE_ID": 1238 }, "geometry": { "type": "Point", "coordinates": [ -78.139045, 39.185528 ] } }
+,
+{ "type": "Feature", "id": 1238, "properties": { "NODE_ID": 1239 }, "geometry": { "type": "Point", "coordinates": [ -78.138910, 39.185734 ] } }
+,
+{ "type": "Feature", "id": 1239, "properties": { "NODE_ID": 1240 }, "geometry": { "type": "Point", "coordinates": [ -78.138878, 39.185429 ] } }
+,
+{ "type": "Feature", "id": 1240, "properties": { "NODE_ID": 1241 }, "geometry": { "type": "Point", "coordinates": [ -78.138708, 39.182790 ] } }
+,
+{ "type": "Feature", "id": 1241, "properties": { "NODE_ID": 1242 }, "geometry": { "type": "Point", "coordinates": [ -78.138705, 39.184636 ] } }
+,
+{ "type": "Feature", "id": 1242, "properties": { "NODE_ID": 1243 }, "geometry": { "type": "Point", "coordinates": [ -78.138228, 39.183120 ] } }
+,
+{ "type": "Feature", "id": 1243, "properties": { "NODE_ID": 1244 }, "geometry": { "type": "Point", "coordinates": [ -78.137853, 39.183561 ] } }
+,
+{ "type": "Feature", "id": 1244, "properties": { "NODE_ID": 1245 }, "geometry": { "type": "Point", "coordinates": [ -78.137617, 39.184613 ] } }
+,
+{ "type": "Feature", "id": 1245, "properties": { "NODE_ID": 1246 }, "geometry": { "type": "Point", "coordinates": [ -78.137596, 39.184896 ] } }
+,
+{ "type": "Feature", "id": 1246, "properties": { "NODE_ID": 1247 }, "geometry": { "type": "Point", "coordinates": [ -78.137496, 39.184604 ] } }
+,
+{ "type": "Feature", "id": 1247, "properties": { "NODE_ID": 1248 }, "geometry": { "type": "Point", "coordinates": [ -78.137318, 39.184212 ] } }
+,
+{ "type": "Feature", "id": 1248, "properties": { "NODE_ID": 1249 }, "geometry": { "type": "Point", "coordinates": [ -78.137159, 39.184408 ] } }
+,
+{ "type": "Feature", "id": 1249, "properties": { "NODE_ID": 1250 }, "geometry": { "type": "Point", "coordinates": [ -78.137030, 39.184567 ] } }
+
+]
+}

@@ -1,0 +1,94 @@
+New Process started on 3/25 at 3:14
+TIGER 99
+directory F:\1999\51840\roads\ created
+Wrote 1137 Type A nodes to shape F:\1999\51840\roads\tgr51840ndA 
+Wrote 1478 Type A lines to shape F:\1999\51840\roads\tgr51840lkA
+directory F:\1999\51840\rails\ created
+Wrote 70 Type B nodes to shape F:\1999\51840\rails\tgr51840ndB 
+Wrote 66 Type B lines to shape F:\1999\51840\rails\tgr51840lkB
+directory F:\1999\51840\physicalfeatures\ created
+Wrote 5 Type E nodes to shape F:\1999\51840\physicalfeatures\tgr51840ndE 
+Wrote 3 Type E lines to shape F:\1999\51840\physicalfeatures\tgr51840lkE
+directory F:\1999\51840\nonvisible\ created
+Wrote 245 Type F nodes to shape F:\1999\51840\nonvisible\tgr51840ndF 
+Wrote 197 Type F lines to shape F:\1999\51840\nonvisible\tgr51840lkF
+directory F:\1999\51840\hydrography\ created
+Wrote 69 Type H nodes to shape F:\1999\51840\hydrography\tgr51840ndH 
+Wrote 64 Type H lines to shape F:\1999\51840\hydrography\tgr51840lkH
+directory F:\1999\51840\roads\ not created
+Wrote 335 Alternate Feature Name records to file F:\1999\51840\roads\tgr51840alt.dbf
+directory F:\1999\51840\roads\ not created
+Wrote 25 Additional Address Information records to file F:\1999\51840\roads\tgr51840add2.dbf
+directory F:\1999\51840\roads\ not created
+Wrote 1101 Zip+4 records to file F:\1999\51840\roads\tgr51840zip.dbf
+directory F:\1999\51840\voting00\ created
+Wrote 5 polygons to F:\1999\51840\voting00\tgr51840vot00.shp
+Could not open Type 9 file. No KGL names will be generated
+There are no KGL records
+directory F:\1999\51840\landmarks\ created
+Wrote 22 polygons to F:\1999\51840\landmarks\tgr51840lpy.shp
+directory F:\1999\51840\landmarks\ not created
+Wrote 0 records to file F:\1999\51840\landmarks\tgr51840lpy2.dbf
+directory F:\1999\51840\landmarks\ not created
+Wrote 0 records to file F:\1999\51840\landmarks\tgr51840lpy3.dbf
+directory F:\1999\51840\landmarkpts\ created
+Wrote 20 Landmark points to shape F:\1999\51840\landmarkpts\tgr51840lpt.shp
+directory F:\1999\51840\county90\ created
+Wrote 1 polygons to F:\1999\51840\county90\tgr51840cty.shp
+directory F:\1999\51840\county00\ created
+Wrote 1 polygons to F:\1999\51840\county00\tgr51840cty00.shp
+directory F:\1999\51840\tracts90\ created
+Wrote 6 polygons to F:\1999\51840\tracts90\tgr51840trt.shp
+directory F:\1999\51840\tracts00\ created
+Wrote 5 polygons to F:\1999\51840\tracts00\tgr51840trt00.shp
+directory F:\1999\51840\blkgrps90\ created
+Wrote 28 polygons to F:\1999\51840\blkgrps90\tgr51840grp.shp
+directory F:\1999\51840\blkgrps00\ created
+Wrote 24 polygons to F:\1999\51840\blkgrps00\tgr51840grp00.shp
+directory F:\1999\51840\blocks90\ created
+Wrote 393 polygons to F:\1999\51840\blocks90\tgr51840blk.shp
+There are no Census Blocks 2000 for this file
+directory F:\1999\51840\places90\ created
+Wrote 1 polygons to F:\1999\51840\places90\tgr51840plc.shp
+directory F:\1999\51840\divisions90\ created
+Wrote 1 polygons to F:\1999\51840\divisions90\tgr51840ccd.shp
+There are no AIANHH 90 records
+There are no TAZ records
+There are no Urban 90 records
+There are no Consolidated City records
+There are no Elementary School records
+There are no Secondary School records
+directory F:\1999\51840\unified\ created
+Wrote 1 polygons to F:\1999\51840\unified\tgr51840uni.shp
+directory F:\1999\51840\places00\ created
+Wrote 1 polygons to F:\1999\51840\places00\tgr51840plc00.shp
+directory F:\1999\51840\divisions00\ created
+Wrote 1 polygons to F:\1999\51840\divisions00\tgr51840ccd00.shp
+No AIR polygons found.  You might try turning off the water polygon clipping option
+There are no ANRC Records in record type 3
+There are no Water Polygon records
+There are no CMSA-MSA records
+There are no PMSA records
+directory F:\1999\51840\congress\ created
+Wrote 1 polygons to F:\1999\51840\congress\tgr51840cdc.shp
+directory F:\1999\51840\106congress\ created
+Wrote 1 polygons to F:\1999\51840\106congress\tgr51840cd106.shp
+directory F:\1999\51840\statelower\ created
+Wrote 1 polygons to F:\1999\51840\statelower\tgr51840sldl.shp
+directory F:\1999\51840\stateupper\ created
+Wrote 1 polygons to F:\1999\51840\stateupper\tgr51840sldu.shp
+There are no AITS records
+There are no Urban Growth Area records
+directory F:\1999\51840\collectblks\ created
+Wrote 408 polygons to F:\1999\51840\collectblks\tgr51840colblk.shp
+directory F:\1999\51840\alllines\ created
+Wrote 1250 nodes to shape F:\1999\51840\alllines\tgr51840nodes.shp
+Wrote 1808 lines to shape F:\1999\51840\alllines\tgr51840links.shp
+directory F:\1999\51840\centroids\ created
+Wrote 560 Polygon Centroids to shape F:\1999\51840\centroids\tgr51840cen.shp
+directory F:\1999\51840\allpolys\ created
+Wrote 560 polygons to F:\1999\51840\allpolys\tgr51840all.shp
+Finished
+Process ended on 3/25 at 3:14
+
+
